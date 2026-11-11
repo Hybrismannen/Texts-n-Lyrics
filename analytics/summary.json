@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:51:10Z",
+  "updated_at": "2026-11-11T22:52:16Z",
   "scope": "Source files, not verified unique works. Editorial transcriptions excluded.",
   "documents": 120,
   "primary_documents": 118,
@@ -8,7 +8,16 @@
   "distinct_wordforms": 5944,
   "exact_duplicate_groups": [],
   "source_families": {
-    "home": 120
+    "Musiklyrik / dancehall-reggae (blandat)": 66,
+    "Inspelningslyrik (blandat)": 18,
+    "Dikt och prosalyrik": 14,
+    "Dubplate": 6,
+    "Fristående text": 5,
+    "Fristående låtprojekt": 5,
+    "Grime / junglist": 2,
+    "Övrig sångtext": 2,
+    "Dikt i samtalsarkiv": 1,
+    "Svensk rap / visa": 1
   },
   "themes_document_frequency": {
     "Musik, ljud och dans": 44,

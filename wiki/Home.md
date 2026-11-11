@@ -17,7 +17,16 @@
 
 | Form/källfamilj | Filer | Andel |
 | --- | --- | --- |
-| home | 120 | 100.0 % |
+| Musiklyrik / dancehall-reggae (blandat) | 66 | 55.0 % |
+| Inspelningslyrik (blandat) | 18 | 15.0 % |
+| Dikt och prosalyrik | 14 | 11.7 % |
+| Dubplate | 6 | 5.0 % |
+| Fristående text | 5 | 4.2 % |
+| Fristående låtprojekt | 5 | 4.2 % |
+| Grime / junglist | 2 | 1.7 % |
+| Övrig sångtext | 2 | 1.7 % |
+| Dikt i samtalsarkiv | 1 | 0.8 % |
+| Svensk rap / visa | 1 | 0.8 % |
 
 ## Tematiska signaler
 

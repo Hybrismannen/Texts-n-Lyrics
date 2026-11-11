@@ -1,121 +1,121 @@
 path,title,form_source,primary,tokens,distinct_wordforms,nonrepeated_line_tokens,lexical_diversity,focus,themes,subjects,figures
-originals/chat-poetry/Höströst - Höstrusk.txt,Höströst - Höstrusk,home,True,351,230,351,0.6553,Ej fastställt,"Vardag, hem och arbete",,
-originals/other/Blickar möts.txt,Blickar möts,home,True,259,135,224,0.5212,Ej fastställt,,Kärlek och partnerskap,Klara
-originals/other/Parentalhood in the stars.txt,Parentalhood in the stars,home,True,473,266,473,0.5624,Ej fastställt,"Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Vardag, hem och arbete","Kärlek och partnerskap; Barn, familj och föräldraskap",Captain Picard
-originals/other/Svensk text.txt,Svensk text,home,True,40,38,40,0.95,Ej fastställt,,,
-originals/other/Ton Load.txt,Ton Load,home,True,737,347,641,0.4708,Språk och reflektion,"Konflikt, hot och våld; Tid, minne och förändring; Vardag, hem och arbete; Språk, kunskap och tänkande",Krig och våld,
-originals/other/We are the Fungi.txt,We are the Fungi,home,True,178,100,137,0.5618,Musik och scen,"Musik, ljud och dans; Natur, rum och kosmos","Musik, scen och ljud; Natur, väder och årstider",Eek-A-Mouse
-readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,Critical Hi-Fi - TXT,home,True,435,162,313,0.3724,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap","Musik, scen och ljud",Daddy Ferma
-readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi,home,True,375,209,361,0.5573,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Liv, existens och identitet","Ekonomi, marknad och klass; Musik, scen och ljud; Krig och våld",Daddy Ferma
-readable/dubplates/Oversize selecta dubplate cut.doc.txt,Oversize selecta dubplate cut,home,True,529,199,344,0.3762,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld","Musik, scen och ljud",Daddy Ferma
-readable/dubplates/Sir Maximus.rtf.txt,Sir Maximus,home,True,389,153,315,0.3933,Musik och scen,"Musik, ljud och dans; Natur, rum och kosmos","Musik, scen och ljud; Barn, familj och föräldraskap",Daddy Ferma
-readable/dubplates/Tellus sound.rtf.txt,Tellus sound,home,True,393,139,252,0.3537,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet","Musik, scen och ljud",
-readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,Wolverine Hi-Fi - Oversize Selecta vs Big Belly,home,True,543,194,352,0.3573,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Liv, existens och identitet","Musik, scen och ljud",Daddy Ferma
-"readable/grime/Dead manners, Blood banners.rtf.txt","Dead manners, Blood banners",home,True,187,133,187,0.7112,Ej fastställt,"Konflikt, hot och våld",Krig och våld,
-readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,Jungelist massive - Live Lyrics bleeps,home,True,228,142,228,0.6228,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,Lyrical Bonde - Periodiska systemfel,home,True,424,230,369,0.5425,Ej fastställt,,,
-readable/lyrics/----.rtf.txt,----,home,True,102,69,102,0.6765,Språk och reflektion,"Språk, kunskap och tänkande",,
-readable/lyrics/Aks mi bout lyrics.doc.txt,Aks mi bout lyrics,home,True,236,114,236,0.4831,Musik och scen,"Musik, ljud och dans",,Daddy Ferma
-readable/lyrics/All good is digital.doc.txt,All good is digital,home,True,434,187,283,0.4309,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Liv, existens och identitet",Teknik och digitalisering,Daddy Ferma
-readable/lyrics/Any Kind of.rtf.txt,Any Kind of,home,True,78,53,68,0.6795,Ej fastställt,,,
-readable/lyrics/Backseat mind.rtf.txt,Backseat mind,home,True,316,108,161,0.3418,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",
-readable/lyrics/Backup of Wordz and tinker.doc.txt,Backup of Wordz and tinker,home,False,366,225,351,0.6148,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/Bad bwy.doc.txt,Bad bwy,home,True,246,123,201,0.5,Ej fastställt,"Konflikt, hot och våld",Krig och våld,Daddy Ferma
-readable/lyrics/Blood first.rtf.txt,Blood first,home,True,353,160,249,0.4533,Ej fastställt,,,
-readable/lyrics/Burglary.rtf.txt,Burglary,home,True,474,237,346,0.5,Kärlek och relation,Kärlek och relationer,"Kärlek och partnerskap; Musik, scen och ljud",
-readable/lyrics/CSI-Murder Thee.rtf.txt,CSI-Murder Thee,home,True,216,117,179,0.5417,Ej fastställt,,,
-readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,Celebrating Bangaran & Club Killer,home,True,205,126,205,0.6146,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap; Tid, minne och förändring",,
-readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,ChorusChanging the way of my life my life my life,home,True,211,122,201,0.5782,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma
-readable/lyrics/Cinemamurda.rtf.txt,Cinemamurda,home,True,308,165,308,0.5357,Ej fastställt,"Vardag, hem och arbete",,
-readable/lyrics/Como Nation.rtf.txt,Como Nation,home,True,330,212,314,0.6424,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Jah Cure
-readable/lyrics/Counteract Zoro låt.doc.txt,Counteract Zoro låt,home,True,277,143,237,0.5162,Ej fastställt,"Tid, minne och förändring",,
-readable/lyrics/Daddy Ferma - Endless story.rtf.txt,Daddy Ferma - Endless story,home,True,128,69,98,0.5391,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
-readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,Daddy Ferma - Tribute to di woman,home,True,399,193,333,0.4837,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma
-readable/lyrics/DnB Lyrics cuts each for .doc.txt,DnB Lyrics cuts each for ,home,True,337,207,331,0.6142,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Daddy Ferma
-readable/lyrics/Draftlyrics.rtf.txt,Draftlyrics,home,True,218,134,188,0.6147,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud",
-readable/lyrics/Dubplate 80s.rtf.txt,Dubplate 80s,home,True,345,188,312,0.5449,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Konflikt, hot och våld","Kärlek och partnerskap; Musik, scen och ljud",
-readable/lyrics/Fast are my last name.doc.txt,Fast are my last name,home,True,478,247,451,0.5167,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
-readable/lyrics/Fast chat stylee live.rtf.txt,Fast chat stylee live,home,True,148,77,95,0.5203,Ej fastställt,"Vardag, hem och arbete","Ekonomi, marknad och klass",
-readable/lyrics/Ferma DJ - texter.doc.txt,Ferma DJ - texter,home,True,1343,525,1167,0.3909,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Konflikt, hot och våld; Tid, minne och förändring; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande","Musik, scen och ljud; Krig och våld",Daddy Ferma
-readable/lyrics/Fruitmasta.rtf.txt,Fruitmasta,home,True,162,102,162,0.6296,Ej fastställt,,"Musik, scen och ljud",
-readable/lyrics/Generation fo´.rtf.txt,Generation fo´,home,True,155,70,128,0.4516,Ej fastställt,"Liv, existens och identitet",,
-readable/lyrics/Golddigga treaty.rtf.txt,Golddigga treaty,home,True,279,155,241,0.5556,Ej fastställt,"Liv, existens och identitet; Vardag, hem och arbete","Ekonomi, marknad och klass",
-readable/lyrics/Handbook for mercy.rtf.txt,Handbook for mercy,home,True,183,118,152,0.6448,Språk och reflektion,"Tid, minne och förändring; Språk, kunskap och tänkande",,
-readable/lyrics/I see lyrics seh anywhere.doc.txt,I see lyrics seh anywhere,home,True,179,106,166,0.5922,Musik och scen,"Musik, ljud och dans",,
-readable/lyrics/In the eyes of power.rtf.txt,In the eyes of power,home,True,66,50,66,0.7576,Samhällskritik,"Politik, makt och ojämlikhet","Ekonomi, marknad och klass",
-readable/lyrics/Interrogation X.rtf.txt,Interrogation X,home,True,213,126,201,0.5915,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/It is such a bigga riddim.doc.txt,It is such a bigga riddim,home,True,232,153,221,0.6595,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/Lyrical Bonde Rhymes.doc.txt,Lyrical Bonde Rhymes,home,True,1374,588,1345,0.4279,Språk och reflektion,"Konflikt, hot och våld; Tid, minne och förändring; Liv, existens och identitet; Språk, kunskap och tänkande",Krig och våld,
-readable/lyrics/Mr Dearhunter.rtf.txt,Mr Dearhunter,home,True,521,243,386,0.4664,Musik och scen,"Musik, ljud och dans",,Daddy Ferma
-readable/lyrics/Mr Gatcrasha.rtf.txt,Mr Gatcrasha,home,True,285,131,192,0.4596,Ej fastställt,,"Musik, scen och ljud",
-readable/lyrics/Nah idle.rtf.txt,Nah idle,home,True,311,99,158,0.3183,Språk och reflektion,"Liv, existens och identitet; Språk, kunskap och tänkande",,
-readable/lyrics/Namnlöst.rtf.txt,Namnlöst,home,True,270,138,229,0.5111,Samhällskritik,"Politik, makt och ojämlikhet; Tid, minne och förändring; Vardag, hem och arbete","Ekonomi, marknad och klass",
-readable/lyrics/Never never.rtf.txt,Never never,home,True,339,164,262,0.4838,Ej fastställt,"Natur, rum och kosmos","Musik, scen och ljud; Natur, väder och årstider",Klara
-readable/lyrics/Not a whisper.rtf.txt,Not a whisper,home,True,356,208,292,0.5843,Språk och reflektion,"Tid, minne och förändring; Språk, kunskap och tänkande",,
-readable/lyrics/Oh Girl.rtf.txt,Oh Girl,home,True,255,125,216,0.4902,Språk och reflektion,"Språk, kunskap och tänkande",,
-readable/lyrics/Ovasize selecta.doc.txt,Ovasize selecta,home,True,491,189,345,0.3849,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Daddy Ferma
-readable/lyrics/Ovastand.rtf.txt,Ovastand,home,True,349,152,219,0.4355,Ej fastställt,"Solidaritet och gemenskap; Tid, minne och förändring; Liv, existens och identitet","Ekonomi, marknad och klass; Rättvisa och välfärd",
-readable/lyrics/People dance again.rtf.txt,People dance again,home,True,309,138,250,0.4466,Musik och scen,"Musik, ljud och dans","Kärlek och partnerskap; Musik, scen och ljud",
-readable/lyrics/Picknick rende vouz.doc.txt,Picknick rende vouz,home,True,247,139,239,0.5628,Ej fastställt,"Tid, minne och förändring",,
-readable/lyrics/Shake dear.rtf.txt,Shake dear,home,True,287,143,193,0.4983,Kärlek och relation,Kärlek och relationer,"Kärlek och partnerskap; Musik, scen och ljud",
-readable/lyrics/Skrattkommitén.rtf.txt,Skrattkommitén,home,True,227,150,227,0.6608,Ej fastställt,,,
-readable/lyrics/Solid Scary.doc.txt,Solid Scary,home,True,185,109,148,0.5892,Ej fastställt,Solidaritet och gemenskap,,
-readable/lyrics/Sound roam silence.rtf.txt,Sound roam silence,home,True,297,176,233,0.5926,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet","Musik, scen och ljud; Resor och geografi",Daddy Ferma
-readable/lyrics/Stock Market.rtf.txt,Stock Market,home,True,416,202,334,0.4856,Samhällskritik,"Politik, makt och ojämlikhet; Tid, minne och förändring; Vardag, hem och arbete","Ekonomi, marknad och klass",
-readable/lyrics/Sudda bort.rtf.txt,Sudda bort,home,True,206,108,166,0.5243,Ej fastställt,"Liv, existens och identitet",,
-readable/lyrics/Summer breeze.doc.txt,Summer breeze,home,True,374,220,346,0.5882,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
-readable/lyrics/Summer breeze.docx.txt,Summer breeze,home,True,373,220,345,0.5898,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
-readable/lyrics/Sweet dreams.rtf.txt,Sweet dreams,home,True,62,55,62,0.8871,Ej fastställt,,,Jah Cure
-readable/lyrics/The Hatter.rtf.txt,The Hatter,home,True,174,105,174,0.6034,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma; The Hatter
-"readable/lyrics/The shine is able, the loss is stable.rtf.txt","The shine is able, the loss is stable",home,True,293,140,212,0.4778,Ej fastställt,Solidaritet och gemenskap,,Santa
-readable/lyrics/Three Citys.doc.txt,Three Citys,home,True,489,194,333,0.3967,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Vardag, hem och arbete","Musik, scen och ljud; Resor och geografi",Daddy Ferma
-readable/lyrics/Till studio session--.rtf.txt,Till studio session--,home,True,139,103,139,0.741,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/Trains show us!.txt.txt,Trains show us!.txt,home,True,93,73,93,0.7849,Ej fastställt,"Liv, existens och identitet",,
-readable/lyrics/Two shoelace inna tangle.rtf.txt,Two shoelace inna tangle,home,True,518,265,452,0.5116,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Tid, minne och förändring; Liv, existens och identitet","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma
-readable/lyrics/WC-WC 2010.rtf.txt,WC-WC 2010,home,True,213,152,210,0.7136,Ej fastställt,,,
-readable/lyrics/Wad is di meaning of lovin.doc.txt,Wad is di meaning of lovin,home,True,491,229,434,0.4664,Kärlek och relation,"Kärlek och relationer; Konflikt, hot och våld; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande",Kärlek och partnerskap,Captain Kirk
-readable/lyrics/War end.rtf.txt,War end,home,True,142,76,113,0.5352,Ej fastställt,"Konflikt, hot och våld",Krig och våld,
-readable/lyrics/Wordz and tinker.doc.txt,Wordz and tinker,home,True,367,226,352,0.6158,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/Workmanlike.doc.txt,Workmanlike,home,True,580,257,483,0.4431,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
-readable/lyrics/refräng.doc.txt,refräng,home,True,64,37,49,0.5781,Ej fastställt,,,
-readable/lyrics/slackness Lish.rtf.txt,slackness Lish,home,True,120,81,120,0.675,Musik och scen,"Musik, ljud och dans",Kärlek och partnerskap,
-readable/lyrics/tyy.docx.txt,tyy,home,True,70,54,70,0.7714,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/misc/Do somthing.rtf.txt,Do somthing,home,True,374,148,257,0.3957,Ej fastställt,,,Daddy Ferma
-readable/misc/Peter Pan-ta - Panta mera.rtf.txt,Peter Pan-ta - Panta mera,home,True,398,188,342,0.4724,Ej fastställt,"Liv, existens och identitet",,Peter Pan-ta
-readable/poetry/A mans life is woeful.rtf.txt,A mans life is woeful,home,True,228,162,228,0.7105,Ej fastställt,"Liv, existens och identitet",,
-readable/poetry/Banal et tu i (etui).rtf.txt,Banal et tu i (etui),home,True,212,175,212,0.8255,Ej fastställt,,,Icarus
-readable/poetry/Bed.rtf.txt,Bed,home,True,214,125,214,0.5841,Ej fastställt,,Resor och geografi,
-readable/poetry/Cosy worms strapped around an odour.rtf.txt,Cosy worms strapped around an odour,home,True,240,187,240,0.7792,Ej fastställt,"Liv, existens och identitet",,
-readable/poetry/Draft by tenicious settings of raw .rtf.txt,Draft by tenicious settings of raw ,home,True,146,121,146,0.8288,Ej fastställt,"Tid, minne och förändring",,
-readable/poetry/Maka Löst dikt.doc.txt,Maka Löst dikt,home,True,177,126,170,0.7119,Ej fastställt,,,
-readable/poetry/Not so much of anything-moment is now .rtf.txt,Not so much of anything-moment is now ,home,True,247,153,247,0.6194,Ej fastställt,"Tid, minne och förändring; Liv, existens och identitet",,
-readable/poetry/Oral quest.rtf.txt,Oral quest,home,True,305,159,286,0.5213,Språk och reflektion,"Liv, existens och identitet; Språk, kunskap och tänkande",,
-readable/poetry/Pikant är livet.rtf.txt,Pikant är livet,home,True,127,88,114,0.6929,Ej fastställt,"Liv, existens och identitet",,Klara
-readable/poetry/Places ought to parade.rtf.txt,Places ought to parade,home,True,221,168,221,0.7602,Ej fastställt,"Tid, minne och förändring; Liv, existens och identitet",,
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,Säkerhetskopia avMaka Löst dikt,home,False,177,126,170,0.7119,Ej fastställt,,,
-readable/poetry/The Hy The Man the story.rtf.txt,The Hy The Man the story,home,True,556,286,556,0.5144,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande",,The Hy The Man; Pegasus
-readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,Triumf för é allt. - dikt-visa,home,True,180,130,172,0.7222,Ej fastställt,,,
-readable/poetry/You and Mr Pan.doc.txt,You and Mr Pan,home,True,306,162,289,0.5294,Språk och reflektion,"Språk, kunskap och tänkande",,Mr Pan
-readable/recording/Black belt .rtf.txt,Black belt ,home,True,244,145,237,0.5943,Ej fastställt,,,
-readable/recording/Courtesy.rtf.txt,Courtesy,home,True,371,186,287,0.5013,Ej fastställt,"Natur, rum och kosmos; Liv, existens och identitet","Musik, scen och ljud; Krig och våld; Natur, väder och årstider",Daddy Ferma
-readable/recording/Daddy Ferma  - From one to another.rtf.txt,Daddy Ferma  - From one to another,home,True,298,167,298,0.5604,Ej fastställt,"Liv, existens och identitet; Vardag, hem och arbete",,Daddy Ferma; Jim Crow
-readable/recording/Daddy Ferma - Devotion.rtf.txt,Daddy Ferma - Devotion,home,True,604,252,476,0.4172,Samhällskritik,"Musik, ljud och dans; Solidaritet och gemenskap; Politik, makt och ojämlikhet; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma
-readable/recording/Daddy Ferma - Future passion.rtf.txt,Daddy Ferma - Future passion,home,True,309,116,185,0.3754,Kärlek och relation,"Kärlek och relationer; Tid, minne och förändring",,Daddy Ferma
-readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,Daddy Ferma - Ice cold old friend,home,True,614,223,412,0.3632,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Liv, existens och identitet",,Daddy Ferma
-readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,Daddy Ferma - Its all Santastic,home,True,582,261,468,0.4485,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma; Santa
-readable/recording/Daddy Ferma - More than ever.rtf.txt,Daddy Ferma - More than ever,home,True,389,211,359,0.5424,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
-readable/recording/Daddy Ferma - Social we Social.rtf.txt,Daddy Ferma - Social we Social,home,True,409,226,359,0.5526,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud; Teknik och digitalisering",Daddy Ferma
-readable/recording/Daddy Ferma - Terra Nova.rtf.txt,Daddy Ferma - Terra Nova,home,True,84,58,82,0.6905,Ej fastställt,,,
-readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,Fast is my last name - Part 2 - The Seagull,home,True,558,299,558,0.5358,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet; Språk, kunskap och tänkande","Ekonomi, marknad och klass; Musik, scen och ljud",Daddy Ferma
-readable/recording/Ital dutty.rtf.txt,Ital dutty,home,True,118,80,118,0.678,Ej fastställt,,"Natur, väder och årstider",
-readable/recording/Music is life.rtf.txt,Music is life,home,True,269,136,243,0.5056,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap; Konflikt, hot och våld; Liv, existens och identitet","Musik, scen och ljud",
-readable/recording/Nah leave mi sound.rtf.txt,Nah leave mi sound,home,True,122,85,122,0.6967,Ej fastställt,,,
-readable/recording/No is no - permanently.rtf.txt,No is no - permanently,home,True,89,69,89,0.7753,Ej fastställt,,,
-readable/recording/Only one I need.rtf.txt,Only one I need,home,True,461,183,347,0.397,Ej fastställt,"Liv, existens och identitet",Kärlek och partnerskap,Steve Urkel
-readable/recording/Tell soo.rtf.txt,Tell soo,home,True,259,111,179,0.4286,Samhällskritik,"Politik, makt och ojämlikhet","Ekonomi, marknad och klass",
-readable/recording/Watering my inner.rtf.txt,Watering my inner,home,True,530,207,368,0.3906,Kärlek och relation,"Kärlek och relationer; Tid, minne och förändring; Liv, existens och identitet; Språk, kunskap och tänkande",Kärlek och partnerskap,
-readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,Daddy Ferma  - Love is sky high,home,True,628,230,421,0.3662,Kärlek och relation,"Kärlek och relationer; Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
-readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,Daddy Ferma - Social Gravitation,home,True,362,212,321,0.5856,Språk och reflektion,"Solidaritet och gemenskap; Konflikt, hot och våld; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande",Krig och våld; Resor och geografi,Daddy Ferma
-readable/songs/Daddy Ferma - To narrow.rtf.txt,Daddy Ferma - To narrow,home,True,449,192,369,0.4276,Språk och reflektion,"Vardag, hem och arbete; Språk, kunskap och tänkande",,Daddy Ferma
-readable/songs/Daddy Ferma - Watering my inner.rtf.txt,Daddy Ferma - Watering my inner,home,True,545,214,403,0.3927,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Natur, rum och kosmos; Språk, kunskap och tänkande",Kärlek och partnerskap,Daddy Ferma
-readable/songs/Daddy Ferma - What a ting.rtf.txt,Daddy Ferma - What a ting,home,True,640,320,631,0.5,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Tid, minne och förändring; Vardag, hem och arbete","Kärlek och partnerskap; Musik, scen och ljud; Krig och våld",Daddy Ferma
+originals/chat-poetry/Höströst - Höstrusk.txt,Höströst - Höstrusk,Dikt i samtalsarkiv,True,351,230,351,0.6553,Ej fastställt,"Vardag, hem och arbete",,
+originals/other/Blickar möts.txt,Blickar möts,Fristående text,True,259,135,224,0.5212,Ej fastställt,,Kärlek och partnerskap,Klara
+originals/other/Parentalhood in the stars.txt,Parentalhood in the stars,Fristående text,True,473,266,473,0.5624,Ej fastställt,"Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Vardag, hem och arbete","Kärlek och partnerskap; Barn, familj och föräldraskap",Captain Picard
+originals/other/Svensk text.txt,Svensk text,Fristående text,True,40,38,40,0.95,Ej fastställt,,,
+originals/other/Ton Load.txt,Ton Load,Fristående text,True,737,347,641,0.4708,Språk och reflektion,"Konflikt, hot och våld; Tid, minne och förändring; Vardag, hem och arbete; Språk, kunskap och tänkande",Krig och våld,
+originals/other/We are the Fungi.txt,We are the Fungi,Fristående text,True,178,100,137,0.5618,Musik och scen,"Musik, ljud och dans; Natur, rum och kosmos","Musik, scen och ljud; Natur, väder och årstider",Eek-A-Mouse
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,Critical Hi-Fi - TXT,Dubplate,True,435,162,313,0.3724,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap","Musik, scen och ljud",Daddy Ferma
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi,Dubplate,True,375,209,361,0.5573,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Liv, existens och identitet","Ekonomi, marknad och klass; Musik, scen och ljud; Krig och våld",Daddy Ferma
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,Oversize selecta dubplate cut,Dubplate,True,529,199,344,0.3762,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld","Musik, scen och ljud",Daddy Ferma
+readable/dubplates/Sir Maximus.rtf.txt,Sir Maximus,Dubplate,True,389,153,315,0.3933,Musik och scen,"Musik, ljud och dans; Natur, rum och kosmos","Musik, scen och ljud; Barn, familj och föräldraskap",Daddy Ferma
+readable/dubplates/Tellus sound.rtf.txt,Tellus sound,Dubplate,True,393,139,252,0.3537,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet","Musik, scen och ljud",
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,Wolverine Hi-Fi - Oversize Selecta vs Big Belly,Dubplate,True,543,194,352,0.3573,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Liv, existens och identitet","Musik, scen och ljud",Daddy Ferma
+"readable/grime/Dead manners, Blood banners.rtf.txt","Dead manners, Blood banners",Grime / junglist,True,187,133,187,0.7112,Ej fastställt,"Konflikt, hot och våld",Krig och våld,
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,Jungelist massive - Live Lyrics bleeps,Grime / junglist,True,228,142,228,0.6228,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,Lyrical Bonde - Periodiska systemfel,Svensk rap / visa,True,424,230,369,0.5425,Ej fastställt,,,
+readable/lyrics/----.rtf.txt,----,Musiklyrik / dancehall-reggae (blandat),True,102,69,102,0.6765,Språk och reflektion,"Språk, kunskap och tänkande",,
+readable/lyrics/Aks mi bout lyrics.doc.txt,Aks mi bout lyrics,Musiklyrik / dancehall-reggae (blandat),True,236,114,236,0.4831,Musik och scen,"Musik, ljud och dans",,Daddy Ferma
+readable/lyrics/All good is digital.doc.txt,All good is digital,Musiklyrik / dancehall-reggae (blandat),True,434,187,283,0.4309,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Liv, existens och identitet",Teknik och digitalisering,Daddy Ferma
+readable/lyrics/Any Kind of.rtf.txt,Any Kind of,Musiklyrik / dancehall-reggae (blandat),True,78,53,68,0.6795,Ej fastställt,,,
+readable/lyrics/Backseat mind.rtf.txt,Backseat mind,Musiklyrik / dancehall-reggae (blandat),True,316,108,161,0.3418,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",
+readable/lyrics/Backup of Wordz and tinker.doc.txt,Backup of Wordz and tinker,Musiklyrik / dancehall-reggae (blandat),False,366,225,351,0.6148,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrics/Bad bwy.doc.txt,Bad bwy,Musiklyrik / dancehall-reggae (blandat),True,246,123,201,0.5,Ej fastställt,"Konflikt, hot och våld",Krig och våld,Daddy Ferma
+readable/lyrics/Blood first.rtf.txt,Blood first,Musiklyrik / dancehall-reggae (blandat),True,353,160,249,0.4533,Ej fastställt,,,
+readable/lyrics/Burglary.rtf.txt,Burglary,Musiklyrik / dancehall-reggae (blandat),True,474,237,346,0.5,Kärlek och relation,Kärlek och relationer,"Kärlek och partnerskap; Musik, scen och ljud",
+readable/lyrics/CSI-Murder Thee.rtf.txt,CSI-Murder Thee,Musiklyrik / dancehall-reggae (blandat),True,216,117,179,0.5417,Ej fastställt,,,
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,Celebrating Bangaran & Club Killer,Musiklyrik / dancehall-reggae (blandat),True,205,126,205,0.6146,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap; Tid, minne och förändring",,
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,ChorusChanging the way of my life my life my life,Musiklyrik / dancehall-reggae (blandat),True,211,122,201,0.5782,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma
+readable/lyrics/Cinemamurda.rtf.txt,Cinemamurda,Musiklyrik / dancehall-reggae (blandat),True,308,165,308,0.5357,Ej fastställt,"Vardag, hem och arbete",,
+readable/lyrics/Como Nation.rtf.txt,Como Nation,Musiklyrik / dancehall-reggae (blandat),True,330,212,314,0.6424,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Jah Cure
+readable/lyrics/Counteract Zoro låt.doc.txt,Counteract Zoro låt,Musiklyrik / dancehall-reggae (blandat),True,277,143,237,0.5162,Ej fastställt,"Tid, minne och förändring",,
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,Daddy Ferma - Endless story,Musiklyrik / dancehall-reggae (blandat),True,128,69,98,0.5391,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,Daddy Ferma - Tribute to di woman,Musiklyrik / dancehall-reggae (blandat),True,399,193,333,0.4837,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,DnB Lyrics cuts each for ,Musiklyrik / dancehall-reggae (blandat),True,337,207,331,0.6142,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Daddy Ferma
+readable/lyrics/Draftlyrics.rtf.txt,Draftlyrics,Musiklyrik / dancehall-reggae (blandat),True,218,134,188,0.6147,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud",
+readable/lyrics/Dubplate 80s.rtf.txt,Dubplate 80s,Musiklyrik / dancehall-reggae (blandat),True,345,188,312,0.5449,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Konflikt, hot och våld","Kärlek och partnerskap; Musik, scen och ljud",
+readable/lyrics/Fast are my last name.doc.txt,Fast are my last name,Musiklyrik / dancehall-reggae (blandat),True,478,247,451,0.5167,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
+readable/lyrics/Fast chat stylee live.rtf.txt,Fast chat stylee live,Musiklyrik / dancehall-reggae (blandat),True,148,77,95,0.5203,Ej fastställt,"Vardag, hem och arbete","Ekonomi, marknad och klass",
+readable/lyrics/Ferma DJ - texter.doc.txt,Ferma DJ - texter,Musiklyrik / dancehall-reggae (blandat),True,1343,525,1167,0.3909,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Konflikt, hot och våld; Tid, minne och förändring; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande","Musik, scen och ljud; Krig och våld",Daddy Ferma
+readable/lyrics/Fruitmasta.rtf.txt,Fruitmasta,Musiklyrik / dancehall-reggae (blandat),True,162,102,162,0.6296,Ej fastställt,,"Musik, scen och ljud",
+readable/lyrics/Generation fo´.rtf.txt,Generation fo´,Musiklyrik / dancehall-reggae (blandat),True,155,70,128,0.4516,Ej fastställt,"Liv, existens och identitet",,
+readable/lyrics/Golddigga treaty.rtf.txt,Golddigga treaty,Musiklyrik / dancehall-reggae (blandat),True,279,155,241,0.5556,Ej fastställt,"Liv, existens och identitet; Vardag, hem och arbete","Ekonomi, marknad och klass",
+readable/lyrics/Handbook for mercy.rtf.txt,Handbook for mercy,Musiklyrik / dancehall-reggae (blandat),True,183,118,152,0.6448,Språk och reflektion,"Tid, minne och förändring; Språk, kunskap och tänkande",,
+readable/lyrics/I see lyrics seh anywhere.doc.txt,I see lyrics seh anywhere,Musiklyrik / dancehall-reggae (blandat),True,179,106,166,0.5922,Musik och scen,"Musik, ljud och dans",,
+readable/lyrics/In the eyes of power.rtf.txt,In the eyes of power,Musiklyrik / dancehall-reggae (blandat),True,66,50,66,0.7576,Samhällskritik,"Politik, makt och ojämlikhet","Ekonomi, marknad och klass",
+readable/lyrics/Interrogation X.rtf.txt,Interrogation X,Musiklyrik / dancehall-reggae (blandat),True,213,126,201,0.5915,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrics/It is such a bigga riddim.doc.txt,It is such a bigga riddim,Musiklyrik / dancehall-reggae (blandat),True,232,153,221,0.6595,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,Lyrical Bonde Rhymes,Musiklyrik / dancehall-reggae (blandat),True,1374,588,1345,0.4279,Språk och reflektion,"Konflikt, hot och våld; Tid, minne och förändring; Liv, existens och identitet; Språk, kunskap och tänkande",Krig och våld,
+readable/lyrics/Mr Dearhunter.rtf.txt,Mr Dearhunter,Musiklyrik / dancehall-reggae (blandat),True,521,243,386,0.4664,Musik och scen,"Musik, ljud och dans",,Daddy Ferma
+readable/lyrics/Mr Gatcrasha.rtf.txt,Mr Gatcrasha,Musiklyrik / dancehall-reggae (blandat),True,285,131,192,0.4596,Ej fastställt,,"Musik, scen och ljud",
+readable/lyrics/Nah idle.rtf.txt,Nah idle,Musiklyrik / dancehall-reggae (blandat),True,311,99,158,0.3183,Språk och reflektion,"Liv, existens och identitet; Språk, kunskap och tänkande",,
+readable/lyrics/Namnlöst.rtf.txt,Namnlöst,Musiklyrik / dancehall-reggae (blandat),True,270,138,229,0.5111,Samhällskritik,"Politik, makt och ojämlikhet; Tid, minne och förändring; Vardag, hem och arbete","Ekonomi, marknad och klass",
+readable/lyrics/Never never.rtf.txt,Never never,Musiklyrik / dancehall-reggae (blandat),True,339,164,262,0.4838,Ej fastställt,"Natur, rum och kosmos","Musik, scen och ljud; Natur, väder och årstider",Klara
+readable/lyrics/Not a whisper.rtf.txt,Not a whisper,Musiklyrik / dancehall-reggae (blandat),True,356,208,292,0.5843,Språk och reflektion,"Tid, minne och förändring; Språk, kunskap och tänkande",,
+readable/lyrics/Oh Girl.rtf.txt,Oh Girl,Musiklyrik / dancehall-reggae (blandat),True,255,125,216,0.4902,Språk och reflektion,"Språk, kunskap och tänkande",,
+readable/lyrics/Ovasize selecta.doc.txt,Ovasize selecta,Musiklyrik / dancehall-reggae (blandat),True,491,189,345,0.3849,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",Daddy Ferma
+readable/lyrics/Ovastand.rtf.txt,Ovastand,Musiklyrik / dancehall-reggae (blandat),True,349,152,219,0.4355,Ej fastställt,"Solidaritet och gemenskap; Tid, minne och förändring; Liv, existens och identitet","Ekonomi, marknad och klass; Rättvisa och välfärd",
+readable/lyrics/People dance again.rtf.txt,People dance again,Musiklyrik / dancehall-reggae (blandat),True,309,138,250,0.4466,Musik och scen,"Musik, ljud och dans","Kärlek och partnerskap; Musik, scen och ljud",
+readable/lyrics/Picknick rende vouz.doc.txt,Picknick rende vouz,Musiklyrik / dancehall-reggae (blandat),True,247,139,239,0.5628,Ej fastställt,"Tid, minne och förändring",,
+readable/lyrics/Shake dear.rtf.txt,Shake dear,Musiklyrik / dancehall-reggae (blandat),True,287,143,193,0.4983,Kärlek och relation,Kärlek och relationer,"Kärlek och partnerskap; Musik, scen och ljud",
+readable/lyrics/Skrattkommitén.rtf.txt,Skrattkommitén,Musiklyrik / dancehall-reggae (blandat),True,227,150,227,0.6608,Ej fastställt,,,
+readable/lyrics/Solid Scary.doc.txt,Solid Scary,Musiklyrik / dancehall-reggae (blandat),True,185,109,148,0.5892,Ej fastställt,Solidaritet och gemenskap,,
+readable/lyrics/Sound roam silence.rtf.txt,Sound roam silence,Musiklyrik / dancehall-reggae (blandat),True,297,176,233,0.5926,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet","Musik, scen och ljud; Resor och geografi",Daddy Ferma
+readable/lyrics/Stock Market.rtf.txt,Stock Market,Musiklyrik / dancehall-reggae (blandat),True,416,202,334,0.4856,Samhällskritik,"Politik, makt och ojämlikhet; Tid, minne och förändring; Vardag, hem och arbete","Ekonomi, marknad och klass",
+readable/lyrics/Sudda bort.rtf.txt,Sudda bort,Musiklyrik / dancehall-reggae (blandat),True,206,108,166,0.5243,Ej fastställt,"Liv, existens och identitet",,
+readable/lyrics/Summer breeze.doc.txt,Summer breeze,Musiklyrik / dancehall-reggae (blandat),True,374,220,346,0.5882,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
+readable/lyrics/Summer breeze.docx.txt,Summer breeze,Musiklyrik / dancehall-reggae (blandat),True,373,220,345,0.5898,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
+readable/lyrics/Sweet dreams.rtf.txt,Sweet dreams,Musiklyrik / dancehall-reggae (blandat),True,62,55,62,0.8871,Ej fastställt,,,Jah Cure
+readable/lyrics/The Hatter.rtf.txt,The Hatter,Musiklyrik / dancehall-reggae (blandat),True,174,105,174,0.6034,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma; The Hatter
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt","The shine is able, the loss is stable",Musiklyrik / dancehall-reggae (blandat),True,293,140,212,0.4778,Ej fastställt,Solidaritet och gemenskap,,Santa
+readable/lyrics/Three Citys.doc.txt,Three Citys,Musiklyrik / dancehall-reggae (blandat),True,489,194,333,0.3967,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Vardag, hem och arbete","Musik, scen och ljud; Resor och geografi",Daddy Ferma
+readable/lyrics/Till studio session--.rtf.txt,Till studio session--,Musiklyrik / dancehall-reggae (blandat),True,139,103,139,0.741,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrics/Trains show us!.txt.txt,Trains show us!.txt,Musiklyrik / dancehall-reggae (blandat),True,93,73,93,0.7849,Ej fastställt,"Liv, existens och identitet",,
+readable/lyrics/Two shoelace inna tangle.rtf.txt,Two shoelace inna tangle,Musiklyrik / dancehall-reggae (blandat),True,518,265,452,0.5116,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Tid, minne och förändring; Liv, existens och identitet","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma
+readable/lyrics/WC-WC 2010.rtf.txt,WC-WC 2010,Musiklyrik / dancehall-reggae (blandat),True,213,152,210,0.7136,Ej fastställt,,,
+readable/lyrics/Wad is di meaning of lovin.doc.txt,Wad is di meaning of lovin,Musiklyrik / dancehall-reggae (blandat),True,491,229,434,0.4664,Kärlek och relation,"Kärlek och relationer; Konflikt, hot och våld; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande",Kärlek och partnerskap,Captain Kirk
+readable/lyrics/War end.rtf.txt,War end,Musiklyrik / dancehall-reggae (blandat),True,142,76,113,0.5352,Ej fastställt,"Konflikt, hot och våld",Krig och våld,
+readable/lyrics/Wordz and tinker.doc.txt,Wordz and tinker,Musiklyrik / dancehall-reggae (blandat),True,367,226,352,0.6158,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/lyrics/Workmanlike.doc.txt,Workmanlike,Musiklyrik / dancehall-reggae (blandat),True,580,257,483,0.4431,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
+readable/lyrics/refräng.doc.txt,refräng,Musiklyrik / dancehall-reggae (blandat),True,64,37,49,0.5781,Ej fastställt,,,
+readable/lyrics/slackness Lish.rtf.txt,slackness Lish,Musiklyrik / dancehall-reggae (blandat),True,120,81,120,0.675,Musik och scen,"Musik, ljud och dans",Kärlek och partnerskap,
+readable/lyrics/tyy.docx.txt,tyy,Musiklyrik / dancehall-reggae (blandat),True,70,54,70,0.7714,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
+readable/misc/Do somthing.rtf.txt,Do somthing,Övrig sångtext,True,374,148,257,0.3957,Ej fastställt,,,Daddy Ferma
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,Peter Pan-ta - Panta mera,Övrig sångtext,True,398,188,342,0.4724,Ej fastställt,"Liv, existens och identitet",,Peter Pan-ta
+readable/poetry/A mans life is woeful.rtf.txt,A mans life is woeful,Dikt och prosalyrik,True,228,162,228,0.7105,Ej fastställt,"Liv, existens och identitet",,
+readable/poetry/Banal et tu i (etui).rtf.txt,Banal et tu i (etui),Dikt och prosalyrik,True,212,175,212,0.8255,Ej fastställt,,,Icarus
+readable/poetry/Bed.rtf.txt,Bed,Dikt och prosalyrik,True,214,125,214,0.5841,Ej fastställt,,Resor och geografi,
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,Cosy worms strapped around an odour,Dikt och prosalyrik,True,240,187,240,0.7792,Ej fastställt,"Liv, existens och identitet",,
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,Draft by tenicious settings of raw ,Dikt och prosalyrik,True,146,121,146,0.8288,Ej fastställt,"Tid, minne och förändring",,
+readable/poetry/Maka Löst dikt.doc.txt,Maka Löst dikt,Dikt och prosalyrik,True,177,126,170,0.7119,Ej fastställt,,,
+readable/poetry/Not so much of anything-moment is now .rtf.txt,Not so much of anything-moment is now ,Dikt och prosalyrik,True,247,153,247,0.6194,Ej fastställt,"Tid, minne och förändring; Liv, existens och identitet",,
+readable/poetry/Oral quest.rtf.txt,Oral quest,Dikt och prosalyrik,True,305,159,286,0.5213,Språk och reflektion,"Liv, existens och identitet; Språk, kunskap och tänkande",,
+readable/poetry/Pikant är livet.rtf.txt,Pikant är livet,Dikt och prosalyrik,True,127,88,114,0.6929,Ej fastställt,"Liv, existens och identitet",,Klara
+readable/poetry/Places ought to parade.rtf.txt,Places ought to parade,Dikt och prosalyrik,True,221,168,221,0.7602,Ej fastställt,"Tid, minne och förändring; Liv, existens och identitet",,
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,Säkerhetskopia avMaka Löst dikt,Dikt och prosalyrik,False,177,126,170,0.7119,Ej fastställt,,,
+readable/poetry/The Hy The Man the story.rtf.txt,The Hy The Man the story,Dikt och prosalyrik,True,556,286,556,0.5144,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande",,The Hy The Man; Pegasus
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,Triumf för é allt. - dikt-visa,Dikt och prosalyrik,True,180,130,172,0.7222,Ej fastställt,,,
+readable/poetry/You and Mr Pan.doc.txt,You and Mr Pan,Dikt och prosalyrik,True,306,162,289,0.5294,Språk och reflektion,"Språk, kunskap och tänkande",,Mr Pan
+readable/recording/Black belt .rtf.txt,Black belt ,Inspelningslyrik (blandat),True,244,145,237,0.5943,Ej fastställt,,,
+readable/recording/Courtesy.rtf.txt,Courtesy,Inspelningslyrik (blandat),True,371,186,287,0.5013,Ej fastställt,"Natur, rum och kosmos; Liv, existens och identitet","Musik, scen och ljud; Krig och våld; Natur, väder och årstider",Daddy Ferma
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,Daddy Ferma  - From one to another,Inspelningslyrik (blandat),True,298,167,298,0.5604,Ej fastställt,"Liv, existens och identitet; Vardag, hem och arbete",,Daddy Ferma; Jim Crow
+readable/recording/Daddy Ferma - Devotion.rtf.txt,Daddy Ferma - Devotion,Inspelningslyrik (blandat),True,604,252,476,0.4172,Samhällskritik,"Musik, ljud och dans; Solidaritet och gemenskap; Politik, makt och ojämlikhet; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma
+readable/recording/Daddy Ferma - Future passion.rtf.txt,Daddy Ferma - Future passion,Inspelningslyrik (blandat),True,309,116,185,0.3754,Kärlek och relation,"Kärlek och relationer; Tid, minne och förändring",,Daddy Ferma
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,Daddy Ferma - Ice cold old friend,Inspelningslyrik (blandat),True,614,223,412,0.3632,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Liv, existens och identitet",,Daddy Ferma
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,Daddy Ferma - Its all Santastic,Inspelningslyrik (blandat),True,582,261,468,0.4485,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma; Santa
+readable/recording/Daddy Ferma - More than ever.rtf.txt,Daddy Ferma - More than ever,Inspelningslyrik (blandat),True,389,211,359,0.5424,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud",Daddy Ferma
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,Daddy Ferma - Social we Social,Inspelningslyrik (blandat),True,409,226,359,0.5526,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Språk, kunskap och tänkande","Musik, scen och ljud; Teknik och digitalisering",Daddy Ferma
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,Daddy Ferma - Terra Nova,Inspelningslyrik (blandat),True,84,58,82,0.6905,Ej fastställt,,,
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,Fast is my last name - Part 2 - The Seagull,Inspelningslyrik (blandat),True,558,299,558,0.5358,Musik och scen,"Musik, ljud och dans; Liv, existens och identitet; Språk, kunskap och tänkande","Ekonomi, marknad och klass; Musik, scen och ljud",Daddy Ferma
+readable/recording/Ital dutty.rtf.txt,Ital dutty,Inspelningslyrik (blandat),True,118,80,118,0.678,Ej fastställt,,"Natur, väder och årstider",
+readable/recording/Music is life.rtf.txt,Music is life,Inspelningslyrik (blandat),True,269,136,243,0.5056,Musik och scen,"Musik, ljud och dans; Solidaritet och gemenskap; Konflikt, hot och våld; Liv, existens och identitet","Musik, scen och ljud",
+readable/recording/Nah leave mi sound.rtf.txt,Nah leave mi sound,Inspelningslyrik (blandat),True,122,85,122,0.6967,Ej fastställt,,,
+readable/recording/No is no - permanently.rtf.txt,No is no - permanently,Inspelningslyrik (blandat),True,89,69,89,0.7753,Ej fastställt,,,
+readable/recording/Only one I need.rtf.txt,Only one I need,Inspelningslyrik (blandat),True,461,183,347,0.397,Ej fastställt,"Liv, existens och identitet",Kärlek och partnerskap,Steve Urkel
+readable/recording/Tell soo.rtf.txt,Tell soo,Inspelningslyrik (blandat),True,259,111,179,0.4286,Samhällskritik,"Politik, makt och ojämlikhet","Ekonomi, marknad och klass",
+readable/recording/Watering my inner.rtf.txt,Watering my inner,Inspelningslyrik (blandat),True,530,207,368,0.3906,Kärlek och relation,"Kärlek och relationer; Tid, minne och förändring; Liv, existens och identitet; Språk, kunskap och tänkande",Kärlek och partnerskap,
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,Daddy Ferma  - Love is sky high,Fristående låtprojekt,True,628,230,421,0.3662,Kärlek och relation,"Kärlek och relationer; Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,Daddy Ferma - Social Gravitation,Fristående låtprojekt,True,362,212,321,0.5856,Språk och reflektion,"Solidaritet och gemenskap; Konflikt, hot och våld; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande",Krig och våld; Resor och geografi,Daddy Ferma
+readable/songs/Daddy Ferma - To narrow.rtf.txt,Daddy Ferma - To narrow,Fristående låtprojekt,True,449,192,369,0.4276,Språk och reflektion,"Vardag, hem och arbete; Språk, kunskap och tänkande",,Daddy Ferma
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,Daddy Ferma - Watering my inner,Fristående låtprojekt,True,545,214,403,0.3927,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Natur, rum och kosmos; Språk, kunskap och tänkande",Kärlek och partnerskap,Daddy Ferma
+readable/songs/Daddy Ferma - What a ting.rtf.txt,Daddy Ferma - What a ting,Fristående låtprojekt,True,640,320,631,0.5,Musik och scen,"Musik, ljud och dans; Konflikt, hot och våld; Tid, minne och förändring; Vardag, hem och arbete","Kärlek och partnerskap; Musik, scen och ljud; Krig och våld",Daddy Ferma
