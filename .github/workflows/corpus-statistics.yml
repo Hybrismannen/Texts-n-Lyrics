@@ -1,0 +1,33 @@
+name: Corpus statistics and literary wiki source
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'originals/**'
+      - 'readable/**'
+      - 'tools/analyze_archive.py'
+      - '.github/workflows/corpus-statistics.yml'
+permissions:
+  contents: write
+jobs:
+  corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Analyze full source corpus
+        run: python3 tools/analyze_archive.py
+      - name: Commit generated statistics and wiki source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md analytics wiki
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: refresh corpus statistics and wiki source"
+            git push
+          fi
