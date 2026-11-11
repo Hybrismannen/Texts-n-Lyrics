@@ -5,6 +5,7 @@ import csv
 import json
 import re
 import hashlib
+from html import escape as xml_escape
 from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
@@ -94,6 +95,24 @@ def writecsv(name: str, head: list, rows: list[list]) -> None:
     p=OUT/name; p.parent.mkdir(parents=True,exist_ok=True)
     with p.open("w",encoding="utf-8",newline="") as f:
         wr=csv.writer(f);wr.writerow(head);wr.writerows(rows)
+def svg_bar_chart(path: Path, title: str, data: list[tuple], color: str="#187c7a", limit: int=14) -> None:
+    data = list(data)[:limit]
+    width, height = 1020, 114 + len(data) * 43
+    max_value = max([int(v) for _,v in data],default=1)
+    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{xml_escape(title,quote=True)}">',
+             f'<rect width="{width}" height="{height}" rx="15" fill="#f5f8f9"/>',
+             f'<text x="30" y="48" font-size="25" font-weight="bold" fill="#16363c" font-family="system-ui,Arial">{xml_escape(title)}</text>',
+             '<text x="30" y="73" font-size="13" fill="#4c646d" font-family="system-ui,Arial">Antal källfiler eller förekomster; se tabeller för definitioner</text>']
+    for i,(label,value) in enumerate(data):
+        y=105+i*43
+        n=int(value)
+        b=max(1,round(n/max_value*465))
+        parts += [f'<text x="30" y="{y+13}" font-size="15" fill="#25474f" font-family="system-ui,Arial">{xml_escape(str(label))}</text>',
+                  f'<rect x="475" y="{y-3}" width="465" height="22" rx="6" fill="#e2ebec"/>',
+                  f'<rect x="475" y="{y-3}" width="{b}" height="22" rx="6" fill="{color}"/>',
+                  f'<text x="955" y="{y+13}" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">{n}</text>']
+    write(path,"\n".join(parts+["</svg>"])+"\n")
+
 def mentions(text: str, phrase: str) -> int:
     return len(re.findall(r"(?<!\w)"+re.escape(phrase.casefold())+r"(?!\w)", text.casefold()))
 def score(text: str, terms: list[str]) -> tuple[int,int,list[str]]:
@@ -253,6 +272,11 @@ def main():
     dialect_rows=[[w,str(n)] for w,n in dialects.most_common(20)]
     bigram_rows=[[ " ".join(w), str(n)] for w,n in bigrams.most_common(22)]
     figure_top=[[name, str(n), "; ".join(ref(r["path"],r["title"]) for r in rows if name in r["figures"])[:950]] for name,n in figures.most_common(16)]
+    # Source-backed static visuals; never synthetic estimates.
+    svg_bar_chart(OUT/"charts"/"source_families.svg","Arkivets genrer och textfamiljer",genres.most_common(),color="#187c7a")
+    svg_bar_chart(OUT/"charts"/"themes.svg","Tematiska markörer per källfil",themes.most_common(),color="#a96b33")
+    svg_bar_chart(OUT/"charts"/"content_words.svg","Mest använda innehållsord",
+      corpus["most_frequent_content_words"][:16],color="#4d6287")
     WIKI.mkdir(exist_ok=True)
     nav=("[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · "
          "[Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · "
@@ -264,8 +288,8 @@ def main():
      "## Översikt\n\n"+table([["Mått","Verdi"],["Analysbara källfiler",len(rows)],["Primära källfiler (exklusive uttryckligt märkta varianter)",len(primary_rows)],
      ["Ordförekomster (inklusive upprepade refränger)",f"{occurrences:,}"],["Ordförekomster efter upprepade rader tagits bort",f"{nr_words:,}"],
      ["Distinkta ordformer",f"{len(allwords):,}"],["Exakta dubbla textversioner",len(duplicates)]])+
-     "\n## Genre och ursprunglig form\n\n"+table([["Form/källfamilj","Filer","Andel"],*family_rows])+
-     "\n## Tematiska signaler\n\n"+table([["Tematisk dimension","Filer","Andel","Fördelning"],*theme_rows])+
+     "\n## Genre och ursprunglig form\n\n![Arkivfördelning](../analytics/charts/source_families.svg)\n\n"+table([["Form/källfamilj","Filer","Andel"],*family_rows])+
+     "\n## Tematiska signaler\n\n![Temamarkörer](../analytics/charts/themes.svg)\n\n"+table([["Tematisk dimension","Filer","Andel","Fördelning"],*theme_rows])+
      "\n## Vidare analys\n\n- [Läs direkt ur verkindex](Verkindex.md)\n- [Ämne respektive retoriskt fokus](Amnen-och-fokus.md)\n- [Figurer, karaktärer och artistpersonae](Figurer.md)\n- [Ordformer, innehållsord, dialekt, n-gram och konkordans](Semantik.md)\n- [Korpus, osäkerhet, urval och metod](Korpus-och-metod.md)\n\n"+
      "> Kategorierna ovan är **lexikala indikatorer**, inte fastställda litteraturvetenskapliga tolkningar. Ett verk kan matcha flera teman. Dokument/fil är inte detsamma som unikt litterärt verk. \n")
     write(WIKI/"Genre-och-form.md","# Genre, form och källfamiljer\n\n"+nav+"\n\n"+
@@ -366,13 +390,13 @@ def main():
       "| [Metod och datakvalitet](wiki/Korpus-och-metod.md) | Källor, definitionsregler, begränsningar |\n"
       "| [Rådata](analytics/) | CSV-filer, JSON och konkordans |\n"
       "| [Original](originals/) / [läsbara utgåvor](readable/) | Oförändrade original och separat textextraktion |\n\n"
-      "## Genrer och former – efter källarkivets familjer\n\n"+table([["Form/källfamilj","Källfiler","Andel"],*family_rows])+
-      "## Återkommande teman – lexikala indikatorer\n\n"+table([["Tema","Källfiler","Andel","Visuell andel"],*theme_rows])+
+      "## Genrer och former – efter källarkivets familjer\n\n![Genrer och formgrupper](analytics/charts/source_families.svg)\n\n"+table([["Form/källfamilj","Källfiler","Andel"],*family_rows])+
+      "## Återkommande teman – lexikala indikatorer\n\n![Teman per källfil](analytics/charts/themes.svg)\n\n"+table([["Tema","Källfiler","Andel","Visuell andel"],*theme_rows])+
       "## Retoriskt fokus – provisorisk indexering\n\n"+
       table([["Fokus","Källfiler"],*[[name,n] for name,n in focuses.most_common()]])+
       "## Sakområden – ämnesklassning\n\n"+
       table([["Ämne","Källfiler"],*[[name,n] for name,n in subjects.most_common()]])+
-      "## Vanliga innehållsord\n\n"+table([["Ordform","Antal","Källfiler"],*[[w,n,document_frequency[w]] for w,n in corpus["most_frequent_content_words"][:15]]])+
+      "## Vanliga innehållsord\n\n![Innehållsord](analytics/charts/content_words.svg)\n\n"+table([["Ordform","Antal","Källfiler"],*[[w,n,document_frequency[w]] for w,n in corpus["most_frequent_content_words"][:15]]])+
       "\n## Röst och återkommande figurregister\n\n"+table([["Namn","Typ","Filer"],*[[n,FIGURES[n][0],v] for n,v in figures.most_common(10)]])+
       "\n## Redaktionell och vetenskaplig integritet\n\n"
       "- Detta är en **korpusstatistisk indexering**, inte en bevisad psykologisk profil eller litterär kvalitetsbedömning.\n"
