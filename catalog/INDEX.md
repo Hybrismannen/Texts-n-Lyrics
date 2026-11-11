@@ -32,3 +32,11 @@
 ## Upphov
 
 Materialet samlas som författarens eget arbetsarkiv; exakt upphov, medförfattarskap och lånade delar måste bekräftas före redaktionell nypublicering.
+
+
+## Senare tillkomna arkivgrenar
+
+- `originals/songs/` och `originals/dubplates/` innehåller ytterligare sångprojekt och dubplate-texter.
+- `readable/` innehåller sökbara, läsbara textutdrag ur RTF- och Word-filerna. De **ersätter aldrig originalfilerna**.
+- `readable/chat-poetry/_editorial/` innehåller tydligt markerade transkriptioner från en äldre redaktionell volym. Ursprungsdialogerna måste kontrolleras för kanonisk fulltext.
+- `originals/other/Ton Load.txt` är ett original från Google Docs.
