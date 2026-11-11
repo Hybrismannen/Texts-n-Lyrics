@@ -288,8 +288,8 @@ def main():
      "## Översikt\n\n"+table([["Mått","Verdi"],["Analysbara källfiler",len(rows)],["Primära källfiler (exklusive uttryckligt märkta varianter)",len(primary_rows)],
      ["Ordförekomster (inklusive upprepade refränger)",f"{occurrences:,}"],["Ordförekomster efter upprepade rader tagits bort",f"{nr_words:,}"],
      ["Distinkta ordformer",f"{len(allwords):,}"],["Exakta dubbla textversioner",len(duplicates)]])+
-     "\n## Genre och ursprunglig form\n\n![Arkivfördelning](../analytics/charts/source_families.svg)\n\n"+table([["Form/källfamilj","Filer","Andel"],*family_rows])+
-     "\n## Tematiska signaler\n\n![Temamarkörer](../analytics/charts/themes.svg)\n\n"+table([["Tematisk dimension","Filer","Andel","Fördelning"],*theme_rows])+
+     "\n## Genre och ursprunglig form\n\n![Arkivfördelning](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/source_families.svg)\n\n"+table([["Form/källfamilj","Filer","Andel"],*family_rows])+
+     "\n## Tematiska signaler\n\n![Temamarkörer](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/themes.svg)\n\n"+table([["Tematisk dimension","Filer","Andel","Fördelning"],*theme_rows])+
      "\n## Vidare analys\n\n- [Läs direkt ur verkindex](Verkindex.md)\n- [Ämne respektive retoriskt fokus](Amnen-och-fokus.md)\n- [Figurer, karaktärer och artistpersonae](Figurer.md)\n- [Ordformer, innehållsord, dialekt, n-gram och konkordans](Semantik.md)\n- [Korpus, osäkerhet, urval och metod](Korpus-och-metod.md)\n\n"+
      "> Kategorierna ovan är **lexikala indikatorer**, inte fastställda litteraturvetenskapliga tolkningar. Ett verk kan matcha flera teman. Dokument/fil är inte detsamma som unikt litterärt verk. \n")
     write(WIKI/"Genre-och-form.md","# Genre, form och källfamiljer\n\n"+nav+"\n\n"+
@@ -333,6 +333,19 @@ def main():
       "\n## Tvåordskombinationer (bigrams)\n\n"+table([["Fras","Förekomster"],*bigram_rows])+
       "\n## Begreppsfamiljer – uttrycklig lexikonaggregering\n\n"+
       table([["Begreppsfamilj","Träffar","Ingående ordformer"],*[[name,sum(allwords[w] for w in items),", ".join(items)] for name,items in GROUPS.items()]])+
+      "\n## Ord i olika kontexter och genrer\n\n"+
+      table([["Nyckelord","Form/källfamilj","Antal","Per 1 000 ord i familjen"],*[
+        [word,gen,by_family[gen].get(word,0),round(1000*by_family[gen].get(word,0)/max(1,sum(counts.values())),2)]
+        for word in ["love","life","people","music","power","time","world","system","sound","riddim"]
+        for gen,counts in by_family.items() if by_family[gen].get(word,0)>=2]])+
+      "\n## Närliggande ord (fönster på tre positioner)\n\n"+
+      table([["Nyckelord","Ordgrannar och antal"],*[
+        [w,", ".join(a+" ("+str(n)+")" for a,n in semantic_context[w].most_common() if a!=w and a not in STOP)[:420]]
+        for w in ["love","life","people","music","power","time","world","sound","riddim"]]])+
+      "\n## Exempel ur källtexterna\n\n"+
+      "\n".join("### "+kw+"\n\n"+
+        "\n".join("- "+ref(pth,excerpt[:170]) for w,pth,excerpt in concordance if w==kw)[:800]+"\n"
+        for kw in ["love","life","people","music","power","time","world"]) +
       "\n## Underliggande rådata\n\n"+
       "\n".join(["- [Alla ordformer och dokumentfrekvens]("+REPO+"/blob/main/analytics/words.csv)",
       "- [Bigrams]("+REPO+"/blob/main/analytics/bigrams.csv)",
@@ -387,6 +400,7 @@ def main():
       "| [Ämnen och fokus](wiki/Amnen-och-fokus.md) | Ämnesklassning separat från textens huvudfokus |\n"
       "| [Figurer och referenser](wiki/Figurer.md) | Artistpersonae, fiktiva figurer och kulturreferenser |\n"
       "| [Semantisk ordatlas](wiki/Semantik.md) | Mest använda ord, innehållsord, patois, fraser och kontext |\n"
+      "| [Redaktionell närläsning](wiki/Redaktionell-analys.md) | Exempel på perspektiv, återkommande uttryck och genreblandning |\n"
       "| [Metod och datakvalitet](wiki/Korpus-och-metod.md) | Källor, definitionsregler, begränsningar |\n"
       "| [Rådata](analytics/) | CSV-filer, JSON och konkordans |\n"
       "| [Original](originals/) / [läsbara utgåvor](readable/) | Oförändrade original och separat textextraktion |\n\n"
