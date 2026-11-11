@@ -1,6 +1,6 @@
 # Teman och motiv
 
-[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Metod](Korpus-och-metod.md)
+[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
 
 Ett tema markeras när minst **tre ordträffar och två olika indikatorord** finns i samma källfil. Det är en transparent indexeringsregel, inte bevis på verkets budskap.
 

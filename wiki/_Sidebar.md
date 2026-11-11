@@ -6,4 +6,5 @@
 - [Ämnen och fokus](Amnen-och-fokus)
 - [Figurer](Figurer)
 - [Semantik](Semantik)
+- [Redaktionell analys](Redaktionell-analys)
 - [Korpus och metod](Korpus-och-metod)

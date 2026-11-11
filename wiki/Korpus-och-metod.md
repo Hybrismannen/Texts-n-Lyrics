@@ -1,6 +1,6 @@
 # Korpus och metod
 
-[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Metod](Korpus-och-metod.md)
+[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
 
 ## Analysenhet och täckning
 
