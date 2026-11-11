@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="544" viewBox="0 0 1020 544" role="img" aria-label="Arkivets genrer och textfamiljer">
+<rect width="1020" height="544" rx="15" fill="#f5f8f9"/>
+<text x="30" y="48" font-size="25" font-weight="bold" fill="#16363c" font-family="system-ui,Arial">Arkivets genrer och textfamiljer</text>
+<text x="30" y="73" font-size="13" fill="#4c646d" font-family="system-ui,Arial">Antal källfiler eller förekomster; se tabeller för definitioner</text>
+<text x="30" y="118" font-size="15" fill="#25474f" font-family="system-ui,Arial">Musiklyrik / dancehall-reggae (blandat)</text>
+<rect x="475" y="102" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="102" width="465" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">66</text>
+<text x="30" y="161" font-size="15" fill="#25474f" font-family="system-ui,Arial">Inspelningslyrik (blandat)</text>
+<rect x="475" y="145" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="145" width="127" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="161" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">18</text>
+<text x="30" y="204" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dikt och prosalyrik</text>
+<rect x="475" y="188" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="188" width="99" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">14</text>
+<text x="30" y="247" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dubplate</text>
+<rect x="475" y="231" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="231" width="42" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="247" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">6</text>
+<text x="30" y="290" font-size="15" fill="#25474f" font-family="system-ui,Arial">Fristående text</text>
+<rect x="475" y="274" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="274" width="35" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="290" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">5</text>
+<text x="30" y="333" font-size="15" fill="#25474f" font-family="system-ui,Arial">Fristående låtprojekt</text>
+<rect x="475" y="317" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="317" width="35" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="333" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">5</text>
+<text x="30" y="376" font-size="15" fill="#25474f" font-family="system-ui,Arial">Grime / junglist</text>
+<rect x="475" y="360" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="360" width="14" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="376" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">2</text>
+<text x="30" y="419" font-size="15" fill="#25474f" font-family="system-ui,Arial">Övrig sångtext</text>
+<rect x="475" y="403" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="403" width="14" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="419" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">2</text>
+<text x="30" y="462" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dikt i samtalsarkiv</text>
+<rect x="475" y="446" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="446" width="7" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="462" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">1</text>
+<text x="30" y="505" font-size="15" fill="#25474f" font-family="system-ui,Arial">Svensk rap / visa</text>
+<rect x="475" y="489" width="465" height="22" rx="6" fill="#e2ebec"/>
+<rect x="475" y="489" width="7" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="505" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">1</text>
+</svg>

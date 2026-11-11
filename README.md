@@ -26,6 +26,8 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 
 ## Genrer och former – efter källarkivets familjer
 
+![Genrer och formgrupper](analytics/charts/source_families.svg)
+
 | Form/källfamilj | Källfiler | Andel |
 | --- | --- | --- |
 | Musiklyrik / dancehall-reggae (blandat) | 66 | 55.0 % |
@@ -39,6 +41,8 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 | Dikt i samtalsarkiv | 1 | 0.8 % |
 | Svensk rap / visa | 1 | 0.8 % |
 ## Återkommande teman – lexikala indikatorer
+
+![Teman per källfil](analytics/charts/themes.svg)
 
 | Tema | Källfiler | Andel | Visuell andel |
 | --- | --- | --- | --- |
@@ -75,6 +79,8 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 | Teknik och digitalisering | 2 |
 | Rättvisa och välfärd | 1 |
 ## Vanliga innehållsord
+
+![Innehållsord](analytics/charts/content_words.svg)
 
 | Ordform | Antal | Källfiler |
 | --- | --- | --- |

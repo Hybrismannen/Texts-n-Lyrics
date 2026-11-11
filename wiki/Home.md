@@ -15,6 +15,8 @@
 
 ## Genre och ursprunglig form
 
+![Arkivfördelning](../analytics/charts/source_families.svg)
+
 | Form/källfamilj | Filer | Andel |
 | --- | --- | --- |
 | Musiklyrik / dancehall-reggae (blandat) | 66 | 55.0 % |
@@ -29,6 +31,8 @@
 | Svensk rap / visa | 1 | 0.8 % |
 
 ## Tematiska signaler
+
+![Temamarkörer](../analytics/charts/themes.svg)
 
 | Tematisk dimension | Filer | Andel | Fördelning |
 | --- | --- | --- | --- |
