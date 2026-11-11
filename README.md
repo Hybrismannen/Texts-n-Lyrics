@@ -1,28 +1,42 @@
 # Texts-n-Lyrics
 
-**Ett källbevarande arkiv för poesi, prosalyrik, lyrik, spoken word, rap, reggae, dancehall och experimentella texter.**
+**Linus Fast – poesi, lyrik, prosalyrik, sångtexter, rap, reggae, dancehall och experimentellt berättande.**
 
-Detta arkiv samlar originalfiler från olika skrivperioder. Det är **ett arbetsarkiv, inte en färdig bokutgåva**. Original, varianter, utkast och bearbetningar hålls åtskilda. Stavningar, radbrytningar och äldre filformat har avsiktligt inte moderniserats i originalfilerna.
+Detta är författarskapets **källbevarande arbetsarkiv**, inte en slutgiltig samlingsbok. Tidiga texter och ofärdiga utkast presenteras som historiskt material, inte som korrekturlästa slutversioner.
 
-## Struktur
+## Läs direkt i GitHub
 
-- `originals/poetry/` – fristående dikter, visor, prosalyrik och poetiska berättelser.
-- `originals/lyrics/` – musiklyrik och sångtexter.
-- `originals/recording/` – lyrik från mappen ”För inspelning”.
-- `originals/other/` – särskilda textoriginal, till exempel från Google Docs.
-- `catalog/` – käll- och verkregister, inventeringsstatus, varianter och ännu saknade chattoriginal.
+| Samling | Läsbar text | Originalfiler |
+| --- | --- | --- |
+| Dikt, visa, poetisk prosa | [Läsversioner](readable/poetry/) | [Dikter](originals/poetry/) |
+| Reggae, dancehall och låtlyrik | [Läsversioner](readable/lyrics/) | [Musiklyrik](originals/lyrics/) |
+| Musiktexter för inspelning | [Läsversioner](readable/recording/) | [Inspelningsarkiv](originals/recording/) |
+| Grime, junglist och rap | [Läsversioner](readable/grime/) | [Grime](originals/grime/) |
+| Lyrical Bonde | [Läsversioner](readable/lyrical-bonde/) | [Original](originals/lyrical-bonde/) |
+| Fristående låtprojekt | [Läsversioner](readable/songs/) | [Original](originals/songs/) |
+| Dubplates | [Läsversioner](readable/dubplates/) | [Original](originals/dubplates/) |
+| Övriga dikter och poetiska fragment | [Original och texter](originals/other/) | [Övrigt](originals/misc/) |
+| Äldre chattdikter | [Källtext](originals/chat-poetry/) och [redaktionella transkriptioner](readable/chat-poetry/_editorial/) | [Inventering](catalog/chat-register-2024-2026.md) |
 
-## Källpolicy
+## Status – 11 november 2026
 
-1. Originalfilerna bevaras i sitt ursprungliga format (RTF/DOC/TXT) utan att texten skrivs om.
-2. Samma verk kan förekomma i flera källfiler. Därför är **antalet filer inte antalet unika verk**.
-3. Samlingsdokument innehåller ibland flera verk. De behålls hela tills de delas upp källtroget.
-4. Texternas ursprung och upphov verifieras innan en definitiv ”Samlade verk”-utgåva.
-5. Äldre arbetsutkast kan innehålla citat, upphovsrättsligt skyddade referenser eller lånade textpartier. Sådant måste kontrolleras separat före publicering i redigerad utgåva.
-6. Arkivet fylls på med tidigare chattoriginal successivt. Ett register är inte en ersättning för ett original.
+**120 filer i `originals/`; 116 textutdrag i `readable/`.** Många filer är versioner eller delar av större samlingsdokument, så antalet är **inte** antalet unika verk. Äldre referenser går tillbaka till åtminstone maj 2007.
 
-## Bokprojekt
+- [Arkivmetodik, kvalitets- och upphovskontroller](catalog/INDEX.md)
+- [62 tidigare identifierade chattverk, ännu inte alla säkrade som fulltext](catalog/chat-register-2024-2026.md)
+- [Git-kontrollsummor och filevidens](catalog/SOURCE_MANIFEST.md)
 
-Målet är en illustrerad, redaktionellt granskad Word-volym med tvåspaltslayout: originaltext på ena halvan, analys eller illustration på den andra. Bokutgåvan produceras separat från detta oförändrade källarkiv.
+## Källprinciper
 
-*Arkivinitiering: 2026-11-11.*
+1. **Original först.** `originals/` innehåller hämtade RTF-, DOC-, DOCX- och TXT-filer bevarade utan språklig redigering. Google Docs-original finns som ren textexport.
+2. **Läskopior separat.** `readable/` innehåller text extraherad från originalformaten. Radbrytningar och formatering kan avvika från källfilerna.
+3. **Ursprung och tolkning hålls isär.** Redaktionella transkriptioner från en tidigare bok ligger tydligt märkta separat.
+4. **Kanonisering först efter källkontroll.** Säkerhetskopior, dubbletter och arbetsutkast får inte räknas som nya verk utan textjämförelse.
+5. **Ofullständiga chattoriginal.** Historiska chattreferenser är inventerade men många fulltexter saknas ännu. Ett verkregister är inte ett originalarkiv.
+6. **Rättighetskontroll.** Arbetsmaterial som innehåller en annan artists fulla låttext eller upphovsrättsliga adaptioner publiceras inte automatiskt som egna verk.
+
+## Redaktionell bokutgåva
+
+Separat planerad *Samlade verk* i Word: originaltext på ena sidan/kolumnen, illustration och litterär kommentar på den andra. Den redaktionella utgåvan utgår från detta källarkiv och versionsregister; den ändrar inte källfilerna.
+
+Innehållet är inte automatiskt licensierat för återanvändning. Eventuellt medförfattarskap och rättigheter kontrolleras per verk.
