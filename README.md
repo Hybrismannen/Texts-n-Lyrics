@@ -1,42 +1,91 @@
-# Texts-n-Lyrics
+# Texts-n-Lyrics · Linus Fast
 
-**Linus Fast – poesi, lyrik, prosalyrik, sångtexter, rap, reggae, dancehall och experimentellt berättande.**
+Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, prosalyrik, reggae-/dancehalltexter, rap, grime, dubplates och musikaliska berättelser.
 
-Detta är författarskapets **källbevarande arbetsarkiv**, inte en slutgiltig samlingsbok. Tidiga texter och ofärdiga utkast presenteras som historiskt material, inte som korrekturlästa slutversioner.
+## Arkivet i siffror
 
-## Läs direkt i GitHub
+| Källfiler med analyserbar text | Ordförekomster | Distinkta ordformer | Upprepade rader borttagna (ord) |
+| --- | --- | --- | --- |
+| 120 | 38,887 | 5,944 | 32,957 |
+**Tolkning:** siffrorna avser källfiler, inte verifierat antal unika verk. Refräng- och säkerhetskopieeffekter redovisas separat.
 
-| Samling | Läsbar text | Originalfiler |
+## Utforska samlingen
+
+| Ingång | Beskrivning |
+| --- | --- |
+| [Wiki/atlas – startsida](wiki/Home.md) | Förklaringar, navigering och statistisk översikt |
+| [Verkindex](wiki/Verkindex.md) | Bläddra per titel, form, omfång och fokus |
+| [Genre och form](wiki/Genre-och-form.md) | Källfamiljer och provisoriska genreklasser |
+| [Teman och motiv](wiki/Teman-och-motiv.md) | Kärlek, samhälle, musik, natur, existens m.m. |
+| [Ämnen och fokus](wiki/Amnen-och-fokus.md) | Ämnesklassning separat från textens huvudfokus |
+| [Figurer och referenser](wiki/Figurer.md) | Artistpersonae, fiktiva figurer och kulturreferenser |
+| [Semantisk ordatlas](wiki/Semantik.md) | Mest använda ord, innehållsord, patois, fraser och kontext |
+| [Metod och datakvalitet](wiki/Korpus-och-metod.md) | Källor, definitionsregler, begränsningar |
+| [Rådata](analytics/) | CSV-filer, JSON och konkordans |
+| [Original](originals/) / [läsbara utgåvor](readable/) | Oförändrade original och separat textextraktion |
+
+## Genrer och former – efter källarkivets familjer
+
+| Form/källfamilj | Källfiler | Andel |
 | --- | --- | --- |
-| Dikt, visa, poetisk prosa | [Läsversioner](readable/poetry/) | [Dikter](originals/poetry/) |
-| Reggae, dancehall och låtlyrik | [Läsversioner](readable/lyrics/) | [Musiklyrik](originals/lyrics/) |
-| Musiktexter för inspelning | [Läsversioner](readable/recording/) | [Inspelningsarkiv](originals/recording/) |
-| Grime, junglist och rap | [Läsversioner](readable/grime/) | [Grime](originals/grime/) |
-| Lyrical Bonde | [Läsversioner](readable/lyrical-bonde/) | [Original](originals/lyrical-bonde/) |
-| Fristående låtprojekt | [Läsversioner](readable/songs/) | [Original](originals/songs/) |
-| Dubplates | [Läsversioner](readable/dubplates/) | [Original](originals/dubplates/) |
-| Övriga dikter och poetiska fragment | [Original och texter](originals/other/) | [Övrigt](originals/misc/) |
-| Äldre chattdikter | [Källtext](originals/chat-poetry/) och [redaktionella transkriptioner](readable/chat-poetry/_editorial/) | [Inventering](catalog/chat-register-2024-2026.md) |
+| home | 120 | 100.0 % |
+## Återkommande teman – lexikala indikatorer
 
-## Status – 11 november 2026
+| Tema | Källfiler | Andel | Visuell andel |
+| --- | --- | --- | --- |
+| Musik, ljud och dans | 44 | 36.7 % | ▰▰▰▰▰▰ |
+| Liv, existens och identitet | 37 | 30.8 % | ▰▰▰▰▰ |
+| Språk, kunskap och tänkande | 29 | 24.2 % | ▰▰▰▰ |
+| Tid, minne och förändring | 28 | 23.3 % | ▰▰▰▰ |
+| Vardag, hem och arbete | 15 | 12.5 % | ▰▰ |
+| Natur, rum och kosmos | 14 | 11.7 % | ▰▰ |
+| Konflikt, hot och våld | 14 | 11.7 % | ▰▰ |
+| Kärlek och relationer | 13 | 10.8 % | ▰▰ |
+| Solidaritet och gemenskap | 8 | 6.7 % | ▰ |
+| Politik, makt och ojämlikhet | 5 | 4.2 % | ▰ |
+## Vanliga innehållsord
 
-**120 filer i `originals/`; 116 textutdrag i `readable/`.** Många filer är versioner eller delar av större samlingsdokument, så antalet är **inte** antalet unika verk. Äldre referenser går tillbaka till åtminstone maj 2007.
+| Ordform | Antal | Källfiler |
+| --- | --- | --- |
+| man | 120 | 54 |
+| tell | 112 | 40 |
+| dis | 101 | 53 |
+| love | 87 | 34 |
+| life | 86 | 48 |
+| neva | 84 | 35 |
+| time | 81 | 35 |
+| good | 78 | 39 |
+| ferma | 76 | 43 |
+| sound | 75 | 17 |
+| oversize | 75 | 4 |
+| back | 71 | 42 |
+| walk | 70 | 27 |
+| ting | 68 | 32 |
+| run | 65 | 37 |
 
-- [Arkivmetodik, kvalitets- och upphovskontroller](catalog/INDEX.md)
-- [62 tidigare identifierade chattverk, ännu inte alla säkrade som fulltext](catalog/chat-register-2024-2026.md)
-- [Git-kontrollsummor och filevidens](catalog/SOURCE_MANIFEST.md)
+## Röst och återkommande figurregister
 
-## Källprinciper
+| Namn | Typ | Filer |
+| --- | --- | --- |
+| Daddy Ferma | artistpersona | 38 |
+| Klara | namngiven person i text | 3 |
+| Jah Cure | artistreferens | 2 |
+| Santa | kulturfigur | 2 |
+| Captain Picard | kulturell referens | 1 |
+| Eek-A-Mouse | artistreferens | 1 |
+| The Hatter | artistpersona/figur | 1 |
+| Captain Kirk | kulturell referens | 1 |
+| Peter Pan-ta | fiktiv figur | 1 |
+| Icarus | mytologisk figur | 1 |
 
-1. **Original först.** `originals/` innehåller hämtade RTF-, DOC-, DOCX- och TXT-filer bevarade utan språklig redigering. Google Docs-original finns som ren textexport.
-2. **Läskopior separat.** `readable/` innehåller text extraherad från originalformaten. Radbrytningar och formatering kan avvika från källfilerna.
-3. **Ursprung och tolkning hålls isär.** Redaktionella transkriptioner från en tidigare bok ligger tydligt märkta separat.
-4. **Kanonisering först efter källkontroll.** Säkerhetskopior, dubbletter och arbetsutkast får inte räknas som nya verk utan textjämförelse.
-5. **Ofullständiga chattoriginal.** Historiska chattreferenser är inventerade men många fulltexter saknas ännu. Ett verkregister är inte ett originalarkiv.
-6. **Rättighetskontroll.** Arbetsmaterial som innehåller en annan artists fulla låttext eller upphovsrättsliga adaptioner publiceras inte automatiskt som egna verk.
+## Redaktionell och vetenskaplig integritet
 
-## Redaktionell bokutgåva
+- Detta är en **korpusstatistisk indexering**, inte en bevisad psykologisk profil eller litterär kvalitetsbedömning.
+- **Genre, tema, ämne och fokus är olika dimensioner**; flera teman kan finnas i en text.
+- Råfilerna i originals/ förändras aldrig av statistiken; derivat lagras under readable/, analytics/ och wiki/.
+- Native GitHub Wiki är ett separat Git-repository. Denna wiki har versionshanterad källa i mappen wiki/ och kan speglas till GitHubs Wiki-gränssnitt.
+- Namn på externa artister, fiktiva figurer och artistpersonae redovisas separat; en namnträff är inte ett belägg för narrativ huvudroll.
 
-Separat planerad *Samlade verk* i Word: originaltext på ena sidan/kolumnen, illustration och litterär kommentar på den andra. Den redaktionella utgåvan utgår från detta källarkiv och versionsregister; den ändrar inte källfilerna.
+[Arkivets källstatus](catalog/INDEX.md) · [62 tidigare identifierade chattverk](catalog/chat-register-2024-2026.md) · [Källmanifest](catalog/SOURCE_MANIFEST.md)
 
-Innehållet är inte automatiskt licensierat för återanvändning. Eventuellt medförfattarskap och rättigheter kontrolleras per verk.
+*Statistik genererad 2026-11-11 med tools/analyze_archive.py.*

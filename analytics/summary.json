@@ -1,0 +1,1112 @@
+{
+  "updated_at": "2026-11-11T22:51:10Z",
+  "scope": "Source files, not verified unique works. Editorial transcriptions excluded.",
+  "documents": 120,
+  "primary_documents": 118,
+  "tokens_including_refrains": 38887,
+  "tokens_without_repeated_lines": 32957,
+  "distinct_wordforms": 5944,
+  "exact_duplicate_groups": [],
+  "source_families": {
+    "home": 120
+  },
+  "themes_document_frequency": {
+    "Musik, ljud och dans": 44,
+    "Liv, existens och identitet": 37,
+    "Språk, kunskap och tänkande": 29,
+    "Tid, minne och förändring": 28,
+    "Vardag, hem och arbete": 15,
+    "Natur, rum och kosmos": 14,
+    "Konflikt, hot och våld": 14,
+    "Kärlek och relationer": 13,
+    "Solidaritet och gemenskap": 8,
+    "Politik, makt och ojämlikhet": 5
+  },
+  "subjects_document_frequency": {
+    "Musik, scen och ljud": 41,
+    "Kärlek och partnerskap": 12,
+    "Krig och våld": 10,
+    "Natur, väder och årstider": 10,
+    "Ekonomi, marknad och klass": 9,
+    "Resor och geografi": 4,
+    "Barn, familj och föräldraskap": 2,
+    "Teknik och digitalisering": 2,
+    "Rättvisa och välfärd": 1
+  },
+  "focus_document_frequency": {
+    "Ej fastställt": 53,
+    "Musik och scen": 36,
+    "Språk och reflektion": 13,
+    "Kärlek och relation": 13,
+    "Samhällskritik": 5
+  },
+  "figures_document_frequency": {
+    "Daddy Ferma": 38,
+    "Klara": 3,
+    "Jah Cure": 2,
+    "Santa": 2,
+    "Captain Picard": 1,
+    "Eek-A-Mouse": 1,
+    "The Hatter": 1,
+    "Captain Kirk": 1,
+    "Peter Pan-ta": 1,
+    "Icarus": 1,
+    "The Hy The Man": 1,
+    "Pegasus": 1,
+    "Mr Pan": 1,
+    "Jim Crow": 1,
+    "Steve Urkel": 1
+  },
+  "most_frequent_words": [
+    [
+      "a",
+      1612
+    ],
+    [
+      "di",
+      937
+    ],
+    [
+      "mi",
+      752
+    ],
+    [
+      "to",
+      631
+    ],
+    [
+      "i",
+      622
+    ],
+    [
+      "and",
+      565
+    ],
+    [
+      "the",
+      492
+    ],
+    [
+      "is",
+      451
+    ],
+    [
+      "fi",
+      429
+    ],
+    [
+      "it",
+      421
+    ],
+    [
+      "you",
+      400
+    ],
+    [
+      "dem",
+      386
+    ],
+    [
+      "we",
+      370
+    ],
+    [
+      "yuh",
+      370
+    ],
+    [
+      "in",
+      328
+    ],
+    [
+      "of",
+      306
+    ],
+    [
+      "nuh",
+      249
+    ],
+    [
+      "when",
+      243
+    ],
+    [
+      "up",
+      228
+    ],
+    [
+      "dat",
+      225
+    ],
+    [
+      "come",
+      218
+    ],
+    [
+      "like",
+      214
+    ],
+    [
+      "for",
+      213
+    ],
+    [
+      "on",
+      208
+    ],
+    [
+      "so",
+      207
+    ],
+    [
+      "my",
+      199
+    ],
+    [
+      "me",
+      193
+    ],
+    [
+      "all",
+      186
+    ],
+    [
+      "how",
+      172
+    ],
+    [
+      "out",
+      168
+    ],
+    [
+      "do",
+      166
+    ],
+    [
+      "inna",
+      162
+    ],
+    [
+      "now",
+      158
+    ],
+    [
+      "if",
+      154
+    ],
+    [
+      "be",
+      147
+    ],
+    [
+      "from",
+      141
+    ],
+    [
+      "not",
+      138
+    ],
+    [
+      "say",
+      133
+    ],
+    [
+      "but",
+      131
+    ],
+    [
+      "your",
+      129
+    ]
+  ],
+  "most_frequent_content_words": [
+    [
+      "man",
+      120
+    ],
+    [
+      "tell",
+      112
+    ],
+    [
+      "dis",
+      101
+    ],
+    [
+      "love",
+      87
+    ],
+    [
+      "life",
+      86
+    ],
+    [
+      "neva",
+      84
+    ],
+    [
+      "time",
+      81
+    ],
+    [
+      "good",
+      78
+    ],
+    [
+      "ferma",
+      76
+    ],
+    [
+      "sound",
+      75
+    ],
+    [
+      "oversize",
+      75
+    ],
+    [
+      "back",
+      71
+    ],
+    [
+      "walk",
+      70
+    ],
+    [
+      "ting",
+      68
+    ],
+    [
+      "run",
+      65
+    ],
+    [
+      "lyrics",
+      64
+    ],
+    [
+      "need",
+      63
+    ],
+    [
+      "look",
+      63
+    ],
+    [
+      "big",
+      62
+    ],
+    [
+      "bout",
+      62
+    ],
+    [
+      "soo",
+      62
+    ],
+    [
+      "riddim",
+      61
+    ],
+    [
+      "daddy",
+      59
+    ],
+    [
+      "kill",
+      59
+    ],
+    [
+      "nah",
+      56
+    ],
+    [
+      "right",
+      54
+    ],
+    [
+      "nuff",
+      53
+    ],
+    [
+      "never",
+      52
+    ],
+    [
+      "bring",
+      52
+    ],
+    [
+      "feel",
+      51
+    ],
+    [
+      "please",
+      51
+    ],
+    [
+      "gonna",
+      50
+    ],
+    [
+      "live",
+      49
+    ],
+    [
+      "tek",
+      49
+    ],
+    [
+      "hear",
+      48
+    ],
+    [
+      "way",
+      48
+    ],
+    [
+      "world",
+      47
+    ],
+    [
+      "dance",
+      47
+    ],
+    [
+      "want",
+      46
+    ],
+    [
+      "put",
+      45
+    ]
+  ],
+  "most_frequent_nonrepeated_words": [
+    [
+      "a",
+      1361
+    ],
+    [
+      "di",
+      782
+    ],
+    [
+      "mi",
+      575
+    ],
+    [
+      "to",
+      556
+    ],
+    [
+      "i",
+      532
+    ],
+    [
+      "and",
+      478
+    ],
+    [
+      "the",
+      427
+    ],
+    [
+      "is",
+      381
+    ],
+    [
+      "it",
+      374
+    ],
+    [
+      "dem",
+      347
+    ],
+    [
+      "fi",
+      342
+    ],
+    [
+      "in",
+      290
+    ],
+    [
+      "we",
+      282
+    ],
+    [
+      "yuh",
+      272
+    ],
+    [
+      "of",
+      271
+    ],
+    [
+      "you",
+      262
+    ],
+    [
+      "nuh",
+      222
+    ],
+    [
+      "up",
+      201
+    ],
+    [
+      "dat",
+      195
+    ],
+    [
+      "when",
+      194
+    ],
+    [
+      "like",
+      189
+    ],
+    [
+      "my",
+      178
+    ],
+    [
+      "for",
+      176
+    ],
+    [
+      "so",
+      174
+    ],
+    [
+      "come",
+      173
+    ],
+    [
+      "all",
+      161
+    ],
+    [
+      "on",
+      158
+    ],
+    [
+      "out",
+      145
+    ],
+    [
+      "inna",
+      141
+    ],
+    [
+      "now",
+      137
+    ],
+    [
+      "me",
+      132
+    ],
+    [
+      "how",
+      128
+    ],
+    [
+      "be",
+      126
+    ],
+    [
+      "do",
+      126
+    ],
+    [
+      "not",
+      125
+    ],
+    [
+      "say",
+      122
+    ],
+    [
+      "if",
+      120
+    ],
+    [
+      "from",
+      118
+    ],
+    [
+      "but",
+      117
+    ],
+    [
+      "wid",
+      114
+    ]
+  ],
+  "dialect_markers": [
+    [
+      "di",
+      937
+    ],
+    [
+      "mi",
+      752
+    ],
+    [
+      "fi",
+      429
+    ],
+    [
+      "dem",
+      386
+    ],
+    [
+      "yuh",
+      370
+    ],
+    [
+      "nuh",
+      249
+    ],
+    [
+      "dat",
+      225
+    ],
+    [
+      "inna",
+      162
+    ],
+    [
+      "wid",
+      125
+    ],
+    [
+      "pon",
+      115
+    ],
+    [
+      "seh",
+      110
+    ],
+    [
+      "waah",
+      105
+    ],
+    [
+      "gwaan",
+      86
+    ],
+    [
+      "neva",
+      84
+    ],
+    [
+      "caw",
+      79
+    ],
+    [
+      "gal",
+      70
+    ],
+    [
+      "riddim",
+      61
+    ],
+    [
+      "mek",
+      47
+    ],
+    [
+      "selecta",
+      39
+    ],
+    [
+      "likkle",
+      33
+    ],
+    [
+      "bwy",
+      32
+    ],
+    [
+      "tink",
+      31
+    ],
+    [
+      "deh",
+      31
+    ],
+    [
+      "haffi",
+      29
+    ],
+    [
+      "uno",
+      26
+    ],
+    [
+      "cyaan",
+      22
+    ],
+    [
+      "gyal",
+      9
+    ],
+    [
+      "bredda",
+      9
+    ],
+    [
+      "duppy",
+      7
+    ],
+    [
+      "wah",
+      1
+    ]
+  ],
+  "bigrams": [
+    [
+      "a di",
+      76
+    ],
+    [
+      "mi a",
+      68
+    ],
+    [
+      "to be",
+      62
+    ],
+    [
+      "daddy ferma",
+      51
+    ],
+    [
+      "in the",
+      49
+    ],
+    [
+      "it a",
+      49
+    ],
+    [
+      "dem a",
+      49
+    ],
+    [
+      "pon di",
+      49
+    ],
+    [
+      "oversize oversize",
+      48
+    ],
+    [
+      "inna di",
+      44
+    ],
+    [
+      "like a",
+      43
+    ],
+    [
+      "is a",
+      43
+    ],
+    [
+      "a mi",
+      42
+    ],
+    [
+      "we a",
+      40
+    ],
+    [
+      "man a",
+      38
+    ],
+    [
+      "if you",
+      37
+    ],
+    [
+      "you a",
+      36
+    ],
+    [
+      "it is",
+      35
+    ],
+    [
+      "is the",
+      34
+    ],
+    [
+      "in a",
+      34
+    ],
+    [
+      "yuh a",
+      34
+    ],
+    [
+      "i do",
+      33
+    ],
+    [
+      "seh mi",
+      33
+    ],
+    [
+      "for the",
+      32
+    ],
+    [
+      "when mi",
+      31
+    ],
+    [
+      "a go",
+      31
+    ],
+    [
+      "wid di",
+      30
+    ],
+    [
+      "million vibes",
+      29
+    ],
+    [
+      "as a",
+      28
+    ],
+    [
+      "and di",
+      28
+    ],
+    [
+      "fi di",
+      28
+    ],
+    [
+      "in di",
+      28
+    ],
+    [
+      "know how",
+      28
+    ],
+    [
+      "oversize selecta",
+      27
+    ],
+    [
+      "i am",
+      27
+    ],
+    [
+      "is di",
+      26
+    ],
+    [
+      "dat mi",
+      26
+    ],
+    [
+      "mi nuh",
+      25
+    ],
+    [
+      "of the",
+      25
+    ],
+    [
+      "so much",
+      25
+    ],
+    [
+      "come fi",
+      25
+    ],
+    [
+      "a run",
+      24
+    ],
+    [
+      "a gonna",
+      24
+    ],
+    [
+      "gonna kill",
+      24
+    ],
+    [
+      "when i",
+      24
+    ],
+    [
+      "moving on",
+      24
+    ],
+    [
+      "tell tell",
+      24
+    ],
+    [
+      "how fi",
+      23
+    ],
+    [
+      "dat is",
+      23
+    ],
+    [
+      "want to",
+      23
+    ],
+    [
+      "when di",
+      22
+    ],
+    [
+      "tell you",
+      22
+    ],
+    [
+      "what is",
+      22
+    ],
+    [
+      "and i",
+      22
+    ],
+    [
+      "waah fi",
+      22
+    ],
+    [
+      "when you",
+      21
+    ],
+    [
+      "all a",
+      21
+    ],
+    [
+      "di whole",
+      21
+    ],
+    [
+      "for a",
+      21
+    ],
+    [
+      "on the",
+      21
+    ]
+  ],
+  "trigrams": [
+    [
+      "oversize oversize oversize",
+      24
+    ],
+    [
+      "oversize oversize selecta",
+      24
+    ],
+    [
+      "we a gonna",
+      24
+    ],
+    [
+      "a gonna kill",
+      24
+    ],
+    [
+      "you a di",
+      22
+    ],
+    [
+      "mi neat mi",
+      19
+    ],
+    [
+      "mi know how",
+      19
+    ],
+    [
+      "know how fi",
+      19
+    ],
+    [
+      "how fi dweet",
+      19
+    ],
+    [
+      "if you loose",
+      18
+    ],
+    [
+      "you loose weight",
+      18
+    ],
+    [
+      "loose weight maybe",
+      18
+    ],
+    [
+      "weight maybe yuh",
+      18
+    ],
+    [
+      "maybe yuh select",
+      18
+    ],
+    [
+      "yuh select betta",
+      18
+    ],
+    [
+      "tell tell tell",
+      16
+    ],
+    [
+      "tell you bout",
+      15
+    ],
+    [
+      "neat mi sweet",
+      14
+    ],
+    [
+      "mi sweet mi",
+      14
+    ],
+    [
+      "sweet mi know",
+      14
+    ],
+    [
+      "digital we digita",
+      13
+    ],
+    [
+      "we digita a",
+      13
+    ],
+    [
+      "digita a al",
+      13
+    ],
+    [
+      "who a di",
+      13
+    ],
+    [
+      "i walk and",
+      13
+    ],
+    [
+      "walk and i",
+      13
+    ],
+    [
+      "mi a go",
+      13
+    ],
+    [
+      "inna di dance",
+      12
+    ],
+    [
+      "a di teacha",
+      12
+    ],
+    [
+      "our world our",
+      12
+    ],
+    [
+      "world our world",
+      12
+    ],
+    [
+      "moving on moving",
+      12
+    ],
+    [
+      "on moving on",
+      12
+    ],
+    [
+      "a go tell",
+      12
+    ],
+    [
+      "go tell you",
+      12
+    ],
+    [
+      "where we gonna",
+      12
+    ],
+    [
+      "nuh need fi",
+      11
+    ],
+    [
+      "you bout yuh",
+      11
+    ],
+    [
+      "bout yuh can't",
+      11
+    ],
+    [
+      "yuh can't come",
+      11
+    ],
+    [
+      "can't come teef",
+      11
+    ],
+    [
+      "come teef me",
+      11
+    ],
+    [
+      "teef me freezer",
+      11
+    ],
+    [
+      "million vibes a",
+      10
+    ],
+    [
+      "gwaan like hotsteppa",
+      10
+    ],
+    [
+      "have class and",
+      10
+    ],
+    [
+      "class and also",
+      10
+    ],
+    [
+      "and also superpowa",
+      10
+    ],
+    [
+      "come fi tell",
+      10
+    ],
+    [
+      "i am di",
+      10
+    ]
+  ]
+}

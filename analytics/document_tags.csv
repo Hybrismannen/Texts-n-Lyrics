@@ -1,0 +1,355 @@
+source,genre_or_form,dimension,tag,matched_token_occurrences
+originals/chat-poetry/Höströst - Höstrusk.txt,home,theme,"Vardag, hem och arbete",3
+originals/other/Blickar möts.txt,home,subject,Kärlek och partnerskap,2
+originals/other/Blickar möts.txt,home,figure,Klara,1
+originals/other/Parentalhood in the stars.txt,home,theme,"Tid, minne och förändring",7
+originals/other/Parentalhood in the stars.txt,home,theme,"Natur, rum och kosmos",4
+originals/other/Parentalhood in the stars.txt,home,theme,"Liv, existens och identitet",6
+originals/other/Parentalhood in the stars.txt,home,theme,"Vardag, hem och arbete",4
+originals/other/Parentalhood in the stars.txt,home,subject,Kärlek och partnerskap,2
+originals/other/Parentalhood in the stars.txt,home,subject,"Barn, familj och föräldraskap",9
+originals/other/Parentalhood in the stars.txt,home,figure,Captain Picard,1
+originals/other/Ton Load.txt,home,theme,"Konflikt, hot och våld",5
+originals/other/Ton Load.txt,home,theme,"Tid, minne och förändring",5
+originals/other/Ton Load.txt,home,theme,"Vardag, hem och arbete",3
+originals/other/Ton Load.txt,home,theme,"Språk, kunskap och tänkande",3
+originals/other/Ton Load.txt,home,subject,Krig och våld,3
+originals/other/We are the Fungi.txt,home,theme,"Musik, ljud och dans",3
+originals/other/We are the Fungi.txt,home,theme,"Natur, rum och kosmos",4
+originals/other/We are the Fungi.txt,home,subject,"Musik, scen och ljud",2
+originals/other/We are the Fungi.txt,home,subject,"Natur, väder och årstider",2
+originals/other/We are the Fungi.txt,home,figure,Eek-A-Mouse,2
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,home,theme,"Musik, ljud och dans",16
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,home,theme,Solidaritet och gemenskap,4
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,home,subject,"Musik, scen och ljud",9
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,home,figure,Daddy Ferma,1
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,theme,"Musik, ljud och dans",11
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,theme,"Konflikt, hot och våld",27
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,subject,"Ekonomi, marknad och klass",3
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,subject,"Musik, scen och ljud",11
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,subject,Krig och våld,19
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,home,figure,Daddy Ferma,2
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,home,theme,"Musik, ljud och dans",25
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,home,theme,"Konflikt, hot och våld",19
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,home,subject,"Musik, scen och ljud",24
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,home,figure,Daddy Ferma,1
+readable/dubplates/Sir Maximus.rtf.txt,home,theme,"Musik, ljud och dans",18
+readable/dubplates/Sir Maximus.rtf.txt,home,theme,"Natur, rum och kosmos",5
+readable/dubplates/Sir Maximus.rtf.txt,home,subject,"Musik, scen och ljud",11
+readable/dubplates/Sir Maximus.rtf.txt,home,subject,"Barn, familj och föräldraskap",5
+readable/dubplates/Sir Maximus.rtf.txt,home,figure,Daddy Ferma,1
+readable/dubplates/Tellus sound.rtf.txt,home,theme,"Musik, ljud och dans",23
+readable/dubplates/Tellus sound.rtf.txt,home,theme,"Liv, existens och identitet",7
+readable/dubplates/Tellus sound.rtf.txt,home,subject,"Musik, scen och ljud",16
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,home,theme,"Musik, ljud och dans",18
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,home,theme,"Konflikt, hot och våld",16
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,home,subject,"Musik, scen och ljud",17
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,home,figure,Daddy Ferma,2
+"readable/grime/Dead manners, Blood banners.rtf.txt",home,theme,"Konflikt, hot och våld",9
+"readable/grime/Dead manners, Blood banners.rtf.txt",home,subject,Krig och våld,5
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,home,theme,"Musik, ljud och dans",10
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,home,subject,"Musik, scen och ljud",6
+readable/lyrics/----.rtf.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Aks mi bout lyrics.doc.txt,home,theme,"Musik, ljud och dans",6
+readable/lyrics/Aks mi bout lyrics.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/All good is digital.doc.txt,home,theme,Kärlek och relationer,3
+readable/lyrics/All good is digital.doc.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/All good is digital.doc.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/All good is digital.doc.txt,home,subject,Teknik och digitalisering,28
+readable/lyrics/All good is digital.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Backseat mind.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/Backseat mind.rtf.txt,home,theme,"Språk, kunskap och tänkande",7
+readable/lyrics/Backseat mind.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/lyrics/Backup of Wordz and tinker.doc.txt,home,theme,"Musik, ljud och dans",8
+readable/lyrics/Backup of Wordz and tinker.doc.txt,home,subject,"Musik, scen och ljud",6
+readable/lyrics/Bad bwy.doc.txt,home,theme,"Konflikt, hot och våld",3
+readable/lyrics/Bad bwy.doc.txt,home,subject,Krig och våld,3
+readable/lyrics/Bad bwy.doc.txt,home,figure,Daddy Ferma,2
+readable/lyrics/Burglary.rtf.txt,home,theme,Kärlek och relationer,10
+readable/lyrics/Burglary.rtf.txt,home,subject,Kärlek och partnerskap,10
+readable/lyrics/Burglary.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,home,theme,Solidaritet och gemenskap,3
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,home,theme,"Liv, existens och identitet",8
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Cinemamurda.rtf.txt,home,theme,"Vardag, hem och arbete",3
+readable/lyrics/Como Nation.rtf.txt,home,theme,"Musik, ljud och dans",11
+readable/lyrics/Como Nation.rtf.txt,home,subject,"Musik, scen och ljud",9
+readable/lyrics/Como Nation.rtf.txt,home,figure,Jah Cure,1
+readable/lyrics/Counteract Zoro låt.doc.txt,home,theme,"Tid, minne och förändring",3
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,home,theme,"Språk, kunskap och tänkande",4
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,home,subject,"Musik, scen och ljud",4
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,home,figure,Daddy Ferma,2
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,home,theme,"Musik, ljud och dans",14
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,home,subject,"Musik, scen och ljud",9
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Draftlyrics.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/Draftlyrics.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/lyrics/Draftlyrics.rtf.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Draftlyrics.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/lyrics/Dubplate 80s.rtf.txt,home,theme,Kärlek och relationer,5
+readable/lyrics/Dubplate 80s.rtf.txt,home,theme,"Musik, ljud och dans",10
+readable/lyrics/Dubplate 80s.rtf.txt,home,theme,"Konflikt, hot och våld",3
+readable/lyrics/Dubplate 80s.rtf.txt,home,subject,Kärlek och partnerskap,2
+readable/lyrics/Dubplate 80s.rtf.txt,home,subject,"Musik, scen och ljud",9
+readable/lyrics/Fast are my last name.doc.txt,home,theme,"Musik, ljud och dans",14
+readable/lyrics/Fast are my last name.doc.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Fast are my last name.doc.txt,home,subject,"Musik, scen och ljud",9
+readable/lyrics/Fast are my last name.doc.txt,home,figure,Daddy Ferma,2
+readable/lyrics/Fast chat stylee live.rtf.txt,home,theme,"Vardag, hem och arbete",4
+readable/lyrics/Fast chat stylee live.rtf.txt,home,subject,"Ekonomi, marknad och klass",3
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,Kärlek och relationer,4
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Musik, ljud och dans",29
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Konflikt, hot och våld",5
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Tid, minne och förändring",3
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Vardag, hem och arbete",4
+readable/lyrics/Ferma DJ - texter.doc.txt,home,theme,"Språk, kunskap och tänkande",5
+readable/lyrics/Ferma DJ - texter.doc.txt,home,subject,"Musik, scen och ljud",20
+readable/lyrics/Ferma DJ - texter.doc.txt,home,subject,Krig och våld,3
+readable/lyrics/Ferma DJ - texter.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Fruitmasta.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Generation fo´.rtf.txt,home,theme,"Liv, existens och identitet",10
+readable/lyrics/Golddigga treaty.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/Golddigga treaty.rtf.txt,home,theme,"Vardag, hem och arbete",4
+readable/lyrics/Golddigga treaty.rtf.txt,home,subject,"Ekonomi, marknad och klass",4
+readable/lyrics/Handbook for mercy.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/lyrics/Handbook for mercy.rtf.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/I see lyrics seh anywhere.doc.txt,home,theme,"Musik, ljud och dans",12
+readable/lyrics/In the eyes of power.rtf.txt,home,theme,"Politik, makt och ojämlikhet",4
+readable/lyrics/In the eyes of power.rtf.txt,home,subject,"Ekonomi, marknad och klass",3
+readable/lyrics/Interrogation X.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/Interrogation X.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/lyrics/It is such a bigga riddim.doc.txt,home,theme,Kärlek och relationer,3
+readable/lyrics/It is such a bigga riddim.doc.txt,home,theme,"Musik, ljud och dans",12
+readable/lyrics/It is such a bigga riddim.doc.txt,home,subject,"Musik, scen och ljud",11
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,home,theme,"Konflikt, hot och våld",10
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,home,theme,"Tid, minne och förändring",5
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,home,theme,"Liv, existens och identitet",10
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,home,theme,"Språk, kunskap och tänkande",6
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,home,subject,Krig och våld,6
+readable/lyrics/Mr Dearhunter.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/Mr Dearhunter.rtf.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Mr Gatcrasha.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Nah idle.rtf.txt,home,theme,"Liv, existens och identitet",6
+readable/lyrics/Nah idle.rtf.txt,home,theme,"Språk, kunskap och tänkande",5
+readable/lyrics/Namnlöst.rtf.txt,home,theme,"Politik, makt och ojämlikhet",11
+readable/lyrics/Namnlöst.rtf.txt,home,theme,"Tid, minne och förändring",7
+readable/lyrics/Namnlöst.rtf.txt,home,theme,"Vardag, hem och arbete",6
+readable/lyrics/Namnlöst.rtf.txt,home,subject,"Ekonomi, marknad och klass",16
+readable/lyrics/Never never.rtf.txt,home,theme,"Natur, rum och kosmos",3
+readable/lyrics/Never never.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Never never.rtf.txt,home,subject,"Natur, väder och årstider",2
+readable/lyrics/Never never.rtf.txt,home,figure,Klara,1
+readable/lyrics/Not a whisper.rtf.txt,home,theme,"Tid, minne och förändring",3
+readable/lyrics/Not a whisper.rtf.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Oh Girl.rtf.txt,home,theme,"Språk, kunskap och tänkande",4
+readable/lyrics/Ovasize selecta.doc.txt,home,theme,"Musik, ljud och dans",12
+readable/lyrics/Ovasize selecta.doc.txt,home,subject,"Musik, scen och ljud",10
+readable/lyrics/Ovasize selecta.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Ovastand.rtf.txt,home,theme,Solidaritet och gemenskap,10
+readable/lyrics/Ovastand.rtf.txt,home,theme,"Tid, minne och förändring",4
+readable/lyrics/Ovastand.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/Ovastand.rtf.txt,home,subject,"Ekonomi, marknad och klass",2
+readable/lyrics/Ovastand.rtf.txt,home,subject,Rättvisa och välfärd,3
+readable/lyrics/People dance again.rtf.txt,home,theme,"Musik, ljud och dans",13
+readable/lyrics/People dance again.rtf.txt,home,subject,Kärlek och partnerskap,2
+readable/lyrics/People dance again.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/lyrics/Picknick rende vouz.doc.txt,home,theme,"Tid, minne och förändring",4
+readable/lyrics/Shake dear.rtf.txt,home,theme,Kärlek och relationer,8
+readable/lyrics/Shake dear.rtf.txt,home,subject,Kärlek och partnerskap,8
+readable/lyrics/Shake dear.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Solid Scary.doc.txt,home,theme,Solidaritet och gemenskap,4
+readable/lyrics/Sound roam silence.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/lyrics/Sound roam silence.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/lyrics/Sound roam silence.rtf.txt,home,subject,"Musik, scen och ljud",4
+readable/lyrics/Sound roam silence.rtf.txt,home,subject,Resor och geografi,2
+readable/lyrics/Sound roam silence.rtf.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Stock Market.rtf.txt,home,theme,"Politik, makt och ojämlikhet",18
+readable/lyrics/Stock Market.rtf.txt,home,theme,"Tid, minne och förändring",10
+readable/lyrics/Stock Market.rtf.txt,home,theme,"Vardag, hem och arbete",10
+readable/lyrics/Stock Market.rtf.txt,home,subject,"Ekonomi, marknad och klass",26
+readable/lyrics/Sudda bort.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/lyrics/Summer breeze.doc.txt,home,theme,"Natur, rum och kosmos",16
+readable/lyrics/Summer breeze.doc.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Summer breeze.doc.txt,home,subject,"Natur, väder och årstider",17
+readable/lyrics/Summer breeze.doc.txt,home,figure,Daddy Ferma,2
+readable/lyrics/Summer breeze.docx.txt,home,theme,"Natur, rum och kosmos",16
+readable/lyrics/Summer breeze.docx.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Summer breeze.docx.txt,home,subject,"Natur, väder och årstider",17
+readable/lyrics/Summer breeze.docx.txt,home,figure,Daddy Ferma,2
+readable/lyrics/Sweet dreams.rtf.txt,home,figure,Jah Cure,1
+readable/lyrics/The Hatter.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/The Hatter.rtf.txt,home,figure,Daddy Ferma,1
+readable/lyrics/The Hatter.rtf.txt,home,figure,The Hatter,1
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",home,theme,Solidaritet och gemenskap,4
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",home,figure,Santa,1
+readable/lyrics/Three Citys.doc.txt,home,theme,Kärlek och relationer,6
+readable/lyrics/Three Citys.doc.txt,home,theme,"Musik, ljud och dans",6
+readable/lyrics/Three Citys.doc.txt,home,theme,"Vardag, hem och arbete",4
+readable/lyrics/Three Citys.doc.txt,home,subject,"Musik, scen och ljud",5
+readable/lyrics/Three Citys.doc.txt,home,subject,Resor och geografi,24
+readable/lyrics/Three Citys.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Till studio session--.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/lyrics/Till studio session--.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Trains show us!.txt.txt,home,theme,"Liv, existens och identitet",4
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,theme,Kärlek och relationer,3
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,theme,"Tid, minne och förändring",6
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,subject,"Natur, väder och årstider",2
+readable/lyrics/Two shoelace inna tangle.rtf.txt,home,figure,Daddy Ferma,1
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,theme,Kärlek och relationer,29
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,theme,"Konflikt, hot och våld",3
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,theme,"Liv, existens och identitet",15
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,theme,"Vardag, hem och arbete",4
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,subject,Kärlek och partnerskap,28
+readable/lyrics/Wad is di meaning of lovin.doc.txt,home,figure,Captain Kirk,1
+readable/lyrics/War end.rtf.txt,home,theme,"Konflikt, hot och våld",15
+readable/lyrics/War end.rtf.txt,home,subject,Krig och våld,15
+readable/lyrics/Wordz and tinker.doc.txt,home,theme,"Musik, ljud och dans",8
+readable/lyrics/Wordz and tinker.doc.txt,home,subject,"Musik, scen och ljud",6
+readable/lyrics/Workmanlike.doc.txt,home,theme,"Musik, ljud och dans",13
+readable/lyrics/Workmanlike.doc.txt,home,theme,"Tid, minne och förändring",5
+readable/lyrics/Workmanlike.doc.txt,home,theme,"Natur, rum och kosmos",3
+readable/lyrics/Workmanlike.doc.txt,home,theme,"Språk, kunskap och tänkande",11
+readable/lyrics/Workmanlike.doc.txt,home,subject,"Musik, scen och ljud",8
+readable/lyrics/Workmanlike.doc.txt,home,figure,Daddy Ferma,1
+readable/lyrics/slackness Lish.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/slackness Lish.rtf.txt,home,subject,Kärlek och partnerskap,2
+readable/lyrics/tyy.docx.txt,home,theme,"Musik, ljud och dans",3
+readable/lyrics/tyy.docx.txt,home,subject,"Musik, scen och ljud",3
+readable/misc/Do somthing.rtf.txt,home,figure,Daddy Ferma,2
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,home,figure,Peter Pan-ta,8
+readable/poetry/A mans life is woeful.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/poetry/Banal et tu i (etui).rtf.txt,home,figure,Icarus,1
+readable/poetry/Bed.rtf.txt,home,subject,Resor och geografi,2
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,home,theme,"Tid, minne och förändring",3
+readable/poetry/Not so much of anything-moment is now .rtf.txt,home,theme,"Tid, minne och förändring",4
+readable/poetry/Not so much of anything-moment is now .rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/poetry/Oral quest.rtf.txt,home,theme,"Liv, existens och identitet",11
+readable/poetry/Oral quest.rtf.txt,home,theme,"Språk, kunskap och tänkande",19
+readable/poetry/Pikant är livet.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/poetry/Pikant är livet.rtf.txt,home,figure,Klara,1
+readable/poetry/Places ought to parade.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/poetry/Places ought to parade.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/poetry/The Hy The Man the story.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/poetry/The Hy The Man the story.rtf.txt,home,theme,"Tid, minne och förändring",4
+readable/poetry/The Hy The Man the story.rtf.txt,home,theme,"Natur, rum och kosmos",3
+readable/poetry/The Hy The Man the story.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/poetry/The Hy The Man the story.rtf.txt,home,theme,"Språk, kunskap och tänkande",4
+readable/poetry/The Hy The Man the story.rtf.txt,home,figure,The Hy The Man,2
+readable/poetry/The Hy The Man the story.rtf.txt,home,figure,Pegasus,4
+readable/poetry/You and Mr Pan.doc.txt,home,theme,"Språk, kunskap och tänkande",6
+readable/poetry/You and Mr Pan.doc.txt,home,figure,Mr Pan,4
+readable/recording/Courtesy.rtf.txt,home,theme,"Natur, rum och kosmos",4
+readable/recording/Courtesy.rtf.txt,home,theme,"Liv, existens och identitet",6
+readable/recording/Courtesy.rtf.txt,home,subject,"Musik, scen och ljud",2
+readable/recording/Courtesy.rtf.txt,home,subject,Krig och våld,2
+readable/recording/Courtesy.rtf.txt,home,subject,"Natur, väder och årstider",3
+readable/recording/Courtesy.rtf.txt,home,figure,Daddy Ferma,1
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,home,theme,"Liv, existens och identitet",4
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,home,theme,"Vardag, hem och arbete",4
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,home,figure,Daddy Ferma,1
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,home,figure,Jim Crow,1
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,Solidaritet och gemenskap,8
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Politik, makt och ojämlikhet",3
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Tid, minne och förändring",7
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Natur, rum och kosmos",15
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Liv, existens och identitet",6
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,theme,"Språk, kunskap och tänkande",5
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,subject,"Musik, scen och ljud",4
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,subject,"Natur, väder och årstider",10
+readable/recording/Daddy Ferma - Devotion.rtf.txt,home,figure,Daddy Ferma,2
+readable/recording/Daddy Ferma - Future passion.rtf.txt,home,theme,Kärlek och relationer,12
+readable/recording/Daddy Ferma - Future passion.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/recording/Daddy Ferma - Future passion.rtf.txt,home,figure,Daddy Ferma,1
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,home,theme,"Tid, minne och förändring",6
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,home,figure,Daddy Ferma,2
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Tid, minne och förändring",8
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Natur, rum och kosmos",4
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Vardag, hem och arbete",6
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,theme,"Språk, kunskap och tänkande",8
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,subject,"Natur, väder och årstider",3
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,figure,Daddy Ferma,1
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,home,figure,Santa,34
+readable/recording/Daddy Ferma - More than ever.rtf.txt,home,theme,"Musik, ljud och dans",5
+readable/recording/Daddy Ferma - More than ever.rtf.txt,home,theme,"Tid, minne och förändring",3
+readable/recording/Daddy Ferma - More than ever.rtf.txt,home,theme,"Språk, kunskap och tänkande",4
+readable/recording/Daddy Ferma - More than ever.rtf.txt,home,subject,"Musik, scen och ljud",4
+readable/recording/Daddy Ferma - More than ever.rtf.txt,home,figure,Daddy Ferma,2
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,theme,"Musik, ljud och dans",3
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,theme,"Tid, minne och förändring",9
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,theme,"Språk, kunskap och tänkande",6
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,subject,"Musik, scen och ljud",3
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,subject,Teknik och digitalisering,4
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,home,figure,Daddy Ferma,2
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,theme,"Musik, ljud och dans",10
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,theme,"Liv, existens och identitet",6
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,theme,"Språk, kunskap och tänkande",8
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,subject,"Ekonomi, marknad och klass",2
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,subject,"Musik, scen och ljud",7
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,home,figure,Daddy Ferma,1
+readable/recording/Ital dutty.rtf.txt,home,subject,"Natur, väder och årstider",2
+readable/recording/Music is life.rtf.txt,home,theme,"Musik, ljud och dans",16
+readable/recording/Music is life.rtf.txt,home,theme,Solidaritet och gemenskap,4
+readable/recording/Music is life.rtf.txt,home,theme,"Konflikt, hot och våld",3
+readable/recording/Music is life.rtf.txt,home,theme,"Liv, existens och identitet",8
+readable/recording/Music is life.rtf.txt,home,subject,"Musik, scen och ljud",14
+readable/recording/Only one I need.rtf.txt,home,theme,"Liv, existens och identitet",6
+readable/recording/Only one I need.rtf.txt,home,subject,Kärlek och partnerskap,6
+readable/recording/Only one I need.rtf.txt,home,figure,Steve Urkel,1
+readable/recording/Tell soo.rtf.txt,home,theme,"Politik, makt och ojämlikhet",3
+readable/recording/Tell soo.rtf.txt,home,subject,"Ekonomi, marknad och klass",3
+readable/recording/Watering my inner.rtf.txt,home,theme,Kärlek och relationer,6
+readable/recording/Watering my inner.rtf.txt,home,theme,"Tid, minne och förändring",3
+readable/recording/Watering my inner.rtf.txt,home,theme,"Liv, existens och identitet",3
+readable/recording/Watering my inner.rtf.txt,home,theme,"Språk, kunskap och tänkande",8
+readable/recording/Watering my inner.rtf.txt,home,subject,Kärlek och partnerskap,6
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,home,theme,Kärlek och relationer,5
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,home,theme,"Natur, rum och kosmos",29
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,home,theme,"Språk, kunskap och tänkande",3
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,home,subject,"Natur, väder och årstider",23
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,home,figure,Daddy Ferma,2
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,Solidaritet och gemenskap,7
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,"Konflikt, hot och våld",4
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,"Tid, minne och förändring",3
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,"Natur, rum och kosmos",4
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,"Liv, existens och identitet",5
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,theme,"Språk, kunskap och tänkande",5
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,subject,Krig och våld,4
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,subject,Resor och geografi,2
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,home,figure,Daddy Ferma,1
+readable/songs/Daddy Ferma - To narrow.rtf.txt,home,theme,"Vardag, hem och arbete",5
+readable/songs/Daddy Ferma - To narrow.rtf.txt,home,theme,"Språk, kunskap och tänkande",5
+readable/songs/Daddy Ferma - To narrow.rtf.txt,home,figure,Daddy Ferma,1
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,theme,Kärlek och relationer,5
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,theme,"Musik, ljud och dans",4
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,theme,"Natur, rum och kosmos",4
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,theme,"Språk, kunskap och tänkande",8
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,subject,Kärlek och partnerskap,5
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,home,figure,Daddy Ferma,1
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,theme,"Musik, ljud och dans",21
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,theme,"Konflikt, hot och våld",5
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,theme,"Tid, minne och förändring",5
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,theme,"Vardag, hem och arbete",3
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,subject,Kärlek och partnerskap,3
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,subject,"Musik, scen och ljud",16
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,subject,Krig och våld,3
+readable/songs/Daddy Ferma - What a ting.rtf.txt,home,figure,Daddy Ferma,1
