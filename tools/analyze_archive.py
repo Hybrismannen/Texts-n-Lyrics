@@ -108,7 +108,8 @@ def tags(text: str, lex: dict, min_total:int=3, min_types:int=2) -> dict:
         if hits>=min_total and types>=min_types: result[name]=hits
     return result
 def genus(path: Path) -> str:
-    return path.parts[1]
+    parts = path.relative_to(ROOT).parts
+    return parts[1] if len(parts) > 1 else parts[0]
 def corpus_paths():
     readable=[p for p in (ROOT/"readable").rglob("*.txt") if "_editorial" not in p.parts]
     direct=list((ROOT/"originals"/"other").glob("*.txt")) + list((ROOT/"originals"/"chat-poetry").glob("*.txt"))
