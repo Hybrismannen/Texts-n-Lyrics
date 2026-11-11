@@ -36,6 +36,14 @@ jobs:
           WIKI_REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git"
           git clone --quiet --depth 1 "$WIKI_REMOTE" /tmp/anthology-wiki
           cp wiki/*.md /tmp/anthology-wiki/
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          for p in Path("/tmp/anthology-wiki").glob("*.md"):
+              content=p.read_text(encoding="utf-8")
+              normalized=re.sub(r"\\]\\(((?:Home|Verkindex|Genre-och-form|Teman-och-motiv|Amnen-och-fokus|Figurer|Semantik|Redaktionell-analys|Korpus-och-metod)\\.md)\\)", lambda m: "]("+m.group(1)[:-3]+")", content)
+              if content!=normalized:p.write_text(normalized,encoding="utf-8")
+          PY
           cd /tmp/anthology-wiki
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
