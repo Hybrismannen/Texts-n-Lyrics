@@ -139,5 +139,8 @@
 - [Konkordans – exempelrader med källor](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/concordance.csv)
 - [Ordgrannar inom tre token](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/semantic_neighbors.csv)
 - [Dokument och tematiska etiketter](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/document_tags.csv)
+- [Ordfrekvens per källfamilj](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/words_by_genre.csv)
+- [Ordfrekvens på verknivå](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/top_words_by_work.csv)
+- [Ämnen per genre](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/topic_by_genre.csv)
 
 **Viktigt:** 'Semantisk analys' betyder här spårbar, regelbaserad betydelse- och kontextindexering, inte en språkmodells djupsemantiska klassning. Ord utan uppenbar synonymi har inte automatiskt slagits ihop. Fullständiga lemmatiseringar för svenska, engelska och jamaicansk patois skulle kräva separat språkvetenskaplig validering.

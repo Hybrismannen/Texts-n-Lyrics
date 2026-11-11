@@ -52,6 +52,28 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 | Kärlek och relationer | 13 | 10.8 % | ▰▰ |
 | Solidaritet och gemenskap | 8 | 6.7 % | ▰ |
 | Politik, makt och ojämlikhet | 5 | 4.2 % | ▰ |
+## Retoriskt fokus – provisorisk indexering
+
+| Fokus | Källfiler |
+| --- | --- |
+| Ej fastställt | 53 |
+| Musik och scen | 36 |
+| Språk och reflektion | 13 |
+| Kärlek och relation | 13 |
+| Samhällskritik | 5 |
+## Sakområden – ämnesklassning
+
+| Ämne | Källfiler |
+| --- | --- |
+| Musik, scen och ljud | 41 |
+| Kärlek och partnerskap | 12 |
+| Krig och våld | 10 |
+| Natur, väder och årstider | 10 |
+| Ekonomi, marknad och klass | 9 |
+| Resor och geografi | 4 |
+| Barn, familj och föräldraskap | 2 |
+| Teknik och digitalisering | 2 |
+| Rättvisa och välfärd | 1 |
 ## Vanliga innehållsord
 
 | Ordform | Antal | Källfiler |

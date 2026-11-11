@@ -1,0 +1,101 @@
+genre,theme,tagged_files,all_genre_files,share_percent
+Dikt i samtalsarkiv,Kärlek och relationer,0,1,0.0
+Dikt i samtalsarkiv,"Musik, ljud och dans",0,1,0.0
+Dikt i samtalsarkiv,Solidaritet och gemenskap,0,1,0.0
+Dikt i samtalsarkiv,"Politik, makt och ojämlikhet",0,1,0.0
+Dikt i samtalsarkiv,"Konflikt, hot och våld",0,1,0.0
+Dikt i samtalsarkiv,"Tid, minne och förändring",0,1,0.0
+Dikt i samtalsarkiv,"Natur, rum och kosmos",0,1,0.0
+Dikt i samtalsarkiv,"Liv, existens och identitet",0,1,0.0
+Dikt i samtalsarkiv,"Vardag, hem och arbete",1,1,100.0
+Dikt i samtalsarkiv,"Språk, kunskap och tänkande",0,1,0.0
+Dikt och prosalyrik,Kärlek och relationer,0,14,0.0
+Dikt och prosalyrik,"Musik, ljud och dans",1,14,7.14
+Dikt och prosalyrik,Solidaritet och gemenskap,0,14,0.0
+Dikt och prosalyrik,"Politik, makt och ojämlikhet",0,14,0.0
+Dikt och prosalyrik,"Konflikt, hot och våld",0,14,0.0
+Dikt och prosalyrik,"Tid, minne och förändring",4,14,28.57
+Dikt och prosalyrik,"Natur, rum och kosmos",1,14,7.14
+Dikt och prosalyrik,"Liv, existens och identitet",7,14,50.0
+Dikt och prosalyrik,"Vardag, hem och arbete",0,14,0.0
+Dikt och prosalyrik,"Språk, kunskap och tänkande",3,14,21.43
+Dubplate,Kärlek och relationer,0,6,0.0
+Dubplate,"Musik, ljud och dans",6,6,100.0
+Dubplate,Solidaritet och gemenskap,1,6,16.67
+Dubplate,"Politik, makt och ojämlikhet",0,6,0.0
+Dubplate,"Konflikt, hot och våld",3,6,50.0
+Dubplate,"Tid, minne och förändring",0,6,0.0
+Dubplate,"Natur, rum och kosmos",1,6,16.67
+Dubplate,"Liv, existens och identitet",3,6,50.0
+Dubplate,"Vardag, hem och arbete",0,6,0.0
+Dubplate,"Språk, kunskap och tänkande",0,6,0.0
+Fristående låtprojekt,Kärlek och relationer,2,5,40.0
+Fristående låtprojekt,"Musik, ljud och dans",2,5,40.0
+Fristående låtprojekt,Solidaritet och gemenskap,1,5,20.0
+Fristående låtprojekt,"Politik, makt och ojämlikhet",0,5,0.0
+Fristående låtprojekt,"Konflikt, hot och våld",2,5,40.0
+Fristående låtprojekt,"Tid, minne och förändring",2,5,40.0
+Fristående låtprojekt,"Natur, rum och kosmos",3,5,60.0
+Fristående låtprojekt,"Liv, existens och identitet",1,5,20.0
+Fristående låtprojekt,"Vardag, hem och arbete",2,5,40.0
+Fristående låtprojekt,"Språk, kunskap och tänkande",4,5,80.0
+Fristående text,Kärlek och relationer,0,5,0.0
+Fristående text,"Musik, ljud och dans",1,5,20.0
+Fristående text,Solidaritet och gemenskap,0,5,0.0
+Fristående text,"Politik, makt och ojämlikhet",0,5,0.0
+Fristående text,"Konflikt, hot och våld",1,5,20.0
+Fristående text,"Tid, minne och förändring",2,5,40.0
+Fristående text,"Natur, rum och kosmos",2,5,40.0
+Fristående text,"Liv, existens och identitet",1,5,20.0
+Fristående text,"Vardag, hem och arbete",2,5,40.0
+Fristående text,"Språk, kunskap och tänkande",1,5,20.0
+Grime / junglist,Kärlek och relationer,0,2,0.0
+Grime / junglist,"Musik, ljud och dans",1,2,50.0
+Grime / junglist,Solidaritet och gemenskap,0,2,0.0
+Grime / junglist,"Politik, makt och ojämlikhet",0,2,0.0
+Grime / junglist,"Konflikt, hot och våld",1,2,50.0
+Grime / junglist,"Tid, minne och förändring",0,2,0.0
+Grime / junglist,"Natur, rum och kosmos",0,2,0.0
+Grime / junglist,"Liv, existens och identitet",0,2,0.0
+Grime / junglist,"Vardag, hem och arbete",0,2,0.0
+Grime / junglist,"Språk, kunskap och tänkande",0,2,0.0
+Inspelningslyrik (blandat),Kärlek och relationer,2,18,11.11
+Inspelningslyrik (blandat),"Musik, ljud och dans",7,18,38.89
+Inspelningslyrik (blandat),Solidaritet och gemenskap,2,18,11.11
+Inspelningslyrik (blandat),"Politik, makt och ojämlikhet",2,18,11.11
+Inspelningslyrik (blandat),"Konflikt, hot och våld",1,18,5.56
+Inspelningslyrik (blandat),"Tid, minne och förändring",7,18,38.89
+Inspelningslyrik (blandat),"Natur, rum och kosmos",3,18,16.67
+Inspelningslyrik (blandat),"Liv, existens och identitet",9,18,50.0
+Inspelningslyrik (blandat),"Vardag, hem och arbete",2,18,11.11
+Inspelningslyrik (blandat),"Språk, kunskap och tänkande",6,18,33.33
+Musiklyrik / dancehall-reggae (blandat),Kärlek och relationer,9,66,13.64
+Musiklyrik / dancehall-reggae (blandat),"Musik, ljud och dans",26,66,39.39
+Musiklyrik / dancehall-reggae (blandat),Solidaritet och gemenskap,4,66,6.06
+Musiklyrik / dancehall-reggae (blandat),"Politik, makt och ojämlikhet",3,66,4.55
+Musiklyrik / dancehall-reggae (blandat),"Konflikt, hot och våld",6,66,9.09
+Musiklyrik / dancehall-reggae (blandat),"Tid, minne och förändring",13,66,19.7
+Musiklyrik / dancehall-reggae (blandat),"Natur, rum och kosmos",4,66,6.06
+Musiklyrik / dancehall-reggae (blandat),"Liv, existens och identitet",15,66,22.73
+Musiklyrik / dancehall-reggae (blandat),"Vardag, hem och arbete",8,66,12.12
+Musiklyrik / dancehall-reggae (blandat),"Språk, kunskap och tänkande",15,66,22.73
+Svensk rap / visa,Kärlek och relationer,0,1,0.0
+Svensk rap / visa,"Musik, ljud och dans",0,1,0.0
+Svensk rap / visa,Solidaritet och gemenskap,0,1,0.0
+Svensk rap / visa,"Politik, makt och ojämlikhet",0,1,0.0
+Svensk rap / visa,"Konflikt, hot och våld",0,1,0.0
+Svensk rap / visa,"Tid, minne och förändring",0,1,0.0
+Svensk rap / visa,"Natur, rum och kosmos",0,1,0.0
+Svensk rap / visa,"Liv, existens och identitet",0,1,0.0
+Svensk rap / visa,"Vardag, hem och arbete",0,1,0.0
+Svensk rap / visa,"Språk, kunskap och tänkande",0,1,0.0
+Övrig sångtext,Kärlek och relationer,0,2,0.0
+Övrig sångtext,"Musik, ljud och dans",0,2,0.0
+Övrig sångtext,Solidaritet och gemenskap,0,2,0.0
+Övrig sångtext,"Politik, makt och ojämlikhet",0,2,0.0
+Övrig sångtext,"Konflikt, hot och våld",0,2,0.0
+Övrig sångtext,"Tid, minne och förändring",0,2,0.0
+Övrig sångtext,"Natur, rum och kosmos",0,2,0.0
+Övrig sångtext,"Liv, existens och identitet",1,2,50.0
+Övrig sångtext,"Vardag, hem och arbete",0,2,0.0
+Övrig sångtext,"Språk, kunskap och tänkande",0,2,0.0

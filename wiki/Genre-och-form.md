@@ -17,6 +17,88 @@ Genre här är en **provisorisk formklassning från ursprunglig arkivplacering**
 | Dikt i samtalsarkiv | 1 | 0.8 % |
 | Svensk rap / visa | 1 | 0.8 % |
 
+## Tema per källfamilj
+
+| Källfamilj | Tema | Filer | Andel inom gruppen |
+| --- | --- | --- | --- |
+| Musiklyrik / dancehall-reggae (blandat) | Kärlek och relationer | 9 | 13.6 % |
+| Musiklyrik / dancehall-reggae (blandat) | Musik, ljud och dans | 26 | 39.4 % |
+| Musiklyrik / dancehall-reggae (blandat) | Solidaritet och gemenskap | 4 | 6.1 % |
+| Musiklyrik / dancehall-reggae (blandat) | Politik, makt och ojämlikhet | 3 | 4.5 % |
+| Musiklyrik / dancehall-reggae (blandat) | Konflikt, hot och våld | 6 | 9.1 % |
+| Musiklyrik / dancehall-reggae (blandat) | Tid, minne och förändring | 13 | 19.7 % |
+| Musiklyrik / dancehall-reggae (blandat) | Natur, rum och kosmos | 4 | 6.1 % |
+| Musiklyrik / dancehall-reggae (blandat) | Liv, existens och identitet | 15 | 22.7 % |
+| Musiklyrik / dancehall-reggae (blandat) | Vardag, hem och arbete | 8 | 12.1 % |
+| Musiklyrik / dancehall-reggae (blandat) | Språk, kunskap och tänkande | 15 | 22.7 % |
+| Inspelningslyrik (blandat) | Kärlek och relationer | 2 | 11.1 % |
+| Inspelningslyrik (blandat) | Musik, ljud och dans | 7 | 38.9 % |
+| Inspelningslyrik (blandat) | Solidaritet och gemenskap | 2 | 11.1 % |
+| Inspelningslyrik (blandat) | Politik, makt och ojämlikhet | 2 | 11.1 % |
+| Inspelningslyrik (blandat) | Tid, minne och förändring | 7 | 38.9 % |
+| Inspelningslyrik (blandat) | Natur, rum och kosmos | 3 | 16.7 % |
+| Inspelningslyrik (blandat) | Liv, existens och identitet | 9 | 50.0 % |
+| Inspelningslyrik (blandat) | Vardag, hem och arbete | 2 | 11.1 % |
+| Inspelningslyrik (blandat) | Språk, kunskap och tänkande | 6 | 33.3 % |
+| Dikt och prosalyrik | Tid, minne och förändring | 4 | 28.6 % |
+| Dikt och prosalyrik | Liv, existens och identitet | 7 | 50.0 % |
+| Dikt och prosalyrik | Språk, kunskap och tänkande | 3 | 21.4 % |
+| Dubplate | Musik, ljud och dans | 6 | 100.0 % |
+| Dubplate | Konflikt, hot och våld | 3 | 50.0 % |
+| Dubplate | Liv, existens och identitet | 3 | 50.0 % |
+| Fristående text | Tid, minne och förändring | 2 | 40.0 % |
+| Fristående text | Natur, rum och kosmos | 2 | 40.0 % |
+| Fristående text | Vardag, hem och arbete | 2 | 40.0 % |
+| Fristående låtprojekt | Kärlek och relationer | 2 | 40.0 % |
+| Fristående låtprojekt | Musik, ljud och dans | 2 | 40.0 % |
+| Fristående låtprojekt | Konflikt, hot och våld | 2 | 40.0 % |
+| Fristående låtprojekt | Tid, minne och förändring | 2 | 40.0 % |
+| Fristående låtprojekt | Natur, rum och kosmos | 3 | 60.0 % |
+| Fristående låtprojekt | Vardag, hem och arbete | 2 | 40.0 % |
+| Fristående låtprojekt | Språk, kunskap och tänkande | 4 | 80.0 % |
+
+## Vanligaste innehållsord per källfamilj
+
+### Musiklyrik / dancehall-reggae (blandat)
+
+man (75), neva (60), dis (54), life (49), look (48), back (46), love (46), ferma (45), time (42), run (42), riddim (39), nuff (39), tell (38), soo (37), bout (36), good (36), big (36), lyrics (34), hear (33), want (32), walk (32), ting (31), please (31), bring (31), need (30), daddy (29), nah (27), digital (26), around (26), jus (26), summer (26), tek (25), never (25), oversize (25), dance (24), still (24), money (24), talk (23), way (23), vibes (23), watch (23), style (23), hold (22), live (22), it's (22), feel (22), again (22), outta (22), sound (22), lovin (22), put (21), ova (21), easy (21), dweet (21), million (21), open (21), stop (21), old (21), hard (20), new (20), hand (20), woman (20), same (19), thru (19), less (19), bad (19), inside (19), sweet (19), fast (19), neat (19), try (18), keep (18), kind (18), music (18), story (18), ask (17), round (17), give (17), away (17), maybe (17), anyting (16), seen (16), whole (16), nuttin (16), selecta (16), before (16), far (16), meaning (16), chat (15), care (15), right (15), nice (15), name (15), feeling (15), betta (14), let (14), use (14), heart (14), dancehall (14), call (14), coz (14), start (14), unno (14), ready (14), real (14), about (14), dont (14), loose (14), always (14), war (14), long (14), own (14), cyaan (14), sudd
+
+### Inspelningslyrik (blandat)
+
+tell (54), good (30), world (30), santa (29), love (26), nah (25), man (24), moving (24), freezer (23), haf (20), bout (20), dis (20), life (19), ting (19), day (19), right (17), bring (17), neva (17), run (15), riddim (15), social (15), need (14), daddy (14), soo (14), fridge (14), talk (13), back (13), ferma (13), time (13), still (12), put (12), strong (12), nutting (12), teef (12), way (11), sooo (11), tek (11), ova (11), can't (11), black (10), work (10), years (10), plenty (10), music (10), walk (9), story (9), big (9), together (9), less (9), around (9), empty (9), night (9), it's (8), feel (8), sun (8), focus (8), please (8), lyrics (8), new (8), let (8), famous (8), about (8), long (8), nuff (8), ohh (8), bad (7), red (7), call (7), don't (7), everybody (7), listen (7), thats (7), belong (7), deep (7), best (7), always (7), reach (7), girl (7), cyaan (7), eeh (7), try (6), sound (6), courtesyyyy (6), taken (6), stop (6), face (6), set (6), own (6), same (6), thru (6), devotion (6), wonder (6), stay (6), chorus (6), universal (6), hold (6), cyaah (6), twin (6), gone (6), fast (6), want (6), open (6), truth (6), trick (6), chat (6), so-ocial (6), straight (6), half (6), fine (6), spread (5), poor (5), iffa (5), care (5), free (5), inside (5), line (5), history (5), living 
+
+### Dikt och prosalyrik
+
+questions (15), ask (13), maka (10), löst (10), time (8), never (8), life (7), man (7), set (7), live (6), reveal (6), side (6), dess (6), living (6), vara (6), long (5), kind (5), another (5), story (5), vad (5), need (5), less (4), hope (4), early (4), seen (4), claim (4), stand (4), around (4), way (4), please (4), something (4), tell (4), race (4), inside (4), heliga (4), tär (4), lära (4), bör (4), men (4), fler (4), ros (4), slut (4), later (4), pegasus (4), faxizi (4), pan (4), again (3), missed (3), keen (3), still (3), mind (3), cut (3), put (3), new (3), present (3), win (3), thru (3), self (3), hands (3), word (3), it’s (3), good (3), prolong (3), dikt (3), ways (3), breeze (3), thou (3), after (3), straight (3), hur (3), låt (3), anything (3), don't (3), hold (3), use (3), fail (3), least (3), about (3), fall (3), it's (3), fan (3), ranccon (3), once (3), great (3), fine (3), touch (3), inner (2), must (2), completely (2), view (2), fatal (2), scene (2), gentle (2), pressure (2), cover (2), used (2), slim (2), picture (2), sense (2), envy (2), far (2), away (2), farther (2), stray (2), famous (2), ones (2), fair (2), honest (2), mood (2), wish (2), piece (2), lavish (2), ample (2), farce (2), next (2), shall (2), climb (2), center (2), fast (2), closer (2), end (2), a
+
+### Dubplate
+
+oversize (50), sound (44), kill (40), gonna (24), selecta (22), loose (18), dance (17), wolverine (15), hi-fi (14), betta (14), don (14), everybody (13), waiting (12), dis (12), million (12), vibes (12), weight (12), maybe (12), select (12), tellus (12), gun (11), real (11), big (11), maximus (11), time (10), ferma (9), critical (9), night (9), soundbwy (9), fit (9), class (9), whole (8), dubplate (8), life (8), ready (8), daddy (7), play (7), along (7), belly (7), moon (6), hear (6), dappa (6), listen (6), look (6), wooorld (6), hand (6), champion (6), mastaplan (6), tunes (5), haf (5), live (5), tell (5), never (5), walk (5), neva (5), set (5), blend (5), act (5), skill (5), doh (5), way (5), outta (5), tune (4), love (4), music (4), talk (4), heart (4), riddim (4), trigger (4), clash (4), body (4), let (4), style (4), nuff (4), chat (4), sir (4), greatest (4), eva (4), land (4), step (4), pay (4), tribute (4), fatha (4), son (4), fat (4), slim (4), hotsteppa (4), superpowa (4), citical (3), arrive (3), run (3), pick (3), gwan (3), stand (3), aim (3), born (3), turn (3), stop (3), call (3), sweet (3), name (3), dead (3), put (3), cut (3), selectabwy (3), man (3), next (3), need (3), star (3), soon (3), leave (3), brim (3), joka (3), wait (2), young (2), always (2), loyal (2), t
+
+### Fristående text
+
+min (12), fungi (10), ton (9), load (9), ding (9), möter (8), blick (8), bad (7), non (7), it’s (6), full (6), back (5), don’t (5), good (5), never (5), ask (5), whut (5), men (4), inte (4), goes (4), need (4), everything (4), mind (4), aks (4), coppa (4), fret (4), how’s (4), bet (4), road (4), set (4), ting (4), band (4), oss (3), hur (3), ana (3), mig (3), stars (3), fun (3), shit (3), same (3), high (3), joke (3), fried (3), that’s (3), wild (3), big (3), fire (3), care (3), let (3), andra (2), högre (2), helt (2), allting (2), känner (2), eller (2), runt (2), kropp (2), stanna (2), kommer (2), parenting (2), times (2), history (2), years (2), must (2), everyday (2), i’m (2), lost (2), feel (2), keeps (2), parents (2), blame (2), game (2), parent (2), always (2), look (2), long (2), hard (2), day (2), red (2), rim (2), find (2), hear (2), still (2), love (2), end (2), run (2), ofta (2), gräver (2), thru (2), put (2), flow (2), act (2), grow (2), man (2), far (2), take (2), dis (2), kill (2), what’s (2), mum (2), cry (2), dead (2), taste (2), read (2), money (2), gone (2), reason (2), season (2), lyrics (2), again (2), facist (2), can’t (2), turn (2), forget (2), jimmy (2), understand (2), cos (2), white (2), schottis (2), klara (1), slår (1), gnistor (1), varandra (1), tänder
+
+### Fristående låtprojekt
+
+off (21), tree (20), top (17), ease (16), gonna (15), watch (13), lyrics (13), live (11), sky (10), lie (10), together (10), ana (10), love (9), soo (9), tek (9), right (9), dung (8), anything (8), stand (8), ting (8), ferma (7), dis (7), wanna (7), ohh (7), girl (7), daddy (6), walk (6), time (6), ova (6), fine (6), day (6), tell (5), tun (5), corner (5), man (5), back (5), social (5), free (5), night (5), don't (5), set (5), narrow (5), need (5), blue (4), chosen (4), few (4), way (4), betta (4), please (4), thru (4), spot (4), place (4), talk (4), want (4), gravi-tation (4), hold (4), force (4), barrier (4), move (4), give (4), send (4), nuttin (4), makks (4), riddim (3), look (3), proud (3), real (3), world (3), seat (3), done (3), lets (3), it's (3), peace (3), open (3), hide (3), work (3), think (3), wide (3), plan (3), include (3), promise (3), land (3), haf (3), stay (3), put (3), bed (3), body (3), ways (3), choose (3), words (3), line (3), describe (3), finesse (3), realm (3), encompass (3), slip (3), note (3), door (3), answer (3), ill (3), looking (3), standing (3), waiting (3), hope (3), nobody (3), tune (3), hi-fi (2), cuss (2), original (2), touch (2), arrange (2), red (2), thing (2), beauty (2), dats (2), around (2), food (2), good (2), heat (2), warm (2), dessert
+
+### Grime / junglist
+
+lyrics (5), dead (3), kill (3), tek (3), badman (3), mental (2), brain (2), life (2), bout (2), reaper (2), done (2), lets (2), tell (2), massive (2), ting (2), dis (2), junglist (2), since (2), ties (2), ova (2), real (2), night (2), strong (2), heavy (2), blue (2), dance (2), man (2), grime (1), dubstep (1), manners (1), blood (1), banners (1), basic (1), adjective (1), perspective (1), plea (1), course (1), effective (1), attack (1), passive (1), issue (1), blow (1), tissue (1), sure (1), corps (1), fine (1), statue (1), easy (1), nifty (1), move (1), shadow (1), swiftly (1), fanatical (1), science (1), grim (1), alliance (1), pop (1), gun (1), splash (1), morning (1), sun (1), rise (1), fall (1), puzzle (1), bits (1), fit (1), misfits (1), claim (1), enter (1), sandman (1), hunt (1), desert (1), storm (1), armed (1), drummer (1), ply (1), trade (1), merchandize (1), head (1), spike (1), kids (1), mum (1), want (1), weekend (1), use (1), bird (1), chaser (1), birds (1), pick (1), face (1), sir (1), amazing (1), serenade (1), bring (1), same (1), time (1), sing (1), soundtrack (1), thy (1), called (1), weekly (1), shipment (1), installment (1), cash (1), register (1), decent (1), pleasant (1), yess (1), jungelist (1), live (1), bleeps (1), huh (1), act (1), bullish (1), pour (1
+
+### Övrig sångtext
+
+mera (21), panta (19), walk (16), feel (16), right (9), home (9), something (8), alone (8), alla (8), peter (7), pan-ta (7), inte (6), town (4), never (4), göra (4), oss (4), irie (3), yah (3), tell (3), dis (3), vet (3), ida (3), väx (3), din (3), själ (3), vilja (3), men (3), ting (2), daddy (2), ferma (2), stop (2), act (2), again (2), memba (2), låt (2), världen (2), staden (2), igen (2), plockar (2), flera (2), bort (2), vad (2), man (2), dom (2), kommer (2), många (2), slut (2), hur (2), bör (2), intro (1), special (1), dedication (1), hear (1), someting (1), original (1), soo (1), forever (1), decision (1), matta (1), effort (1), put (1), shoo (1), aid (1), need (1), try (1), horror (1), bleed (1), tek (1), lead (1), plan (1), please (1), speed (1), nuff (1), respect (1), everything (1), outta (1), greed (1), explain (1), human (1), prosperity (1), noo (1), lie (1), support (1), others (1), pass (1), high (1), dark (1), ages (1), comes (1), goes (1), aids (1), medicine (1), shows (1), walked (1), bad (1), roads (1), want (1), clean (1), blood (1), flows (1), skit (1), iries (1), supporting (1), ride (1), place (1), heart (1), follow (1), beads (1), keep (1), trace (1), track (1), skank (1), check (1), give (1), project (1), shout (1), reason (1), jus (1), galang (1), lets 
+
+### Dikt i samtalsarkiv
+
+oss (4), men (3), skogen (3), svamp (2), gula (2), inte (2), röda (2), något (2), toppslätskivling (2), visar (2), vara (2), svampar (2), foten (2), finna (2), känns (2), höströst (1), höstrusk (1), dagens (1), demokratiska (1), baluns (1), inväntad (1), stadgans (1), pardon (1), inbjudna (1), dans (1), befolkning (1), trans (1), vad (1), önskar (1), min (1), kära (1), vän (1), fred (1), jorden (1), vänstertrafik (1), billigare (1), kaffe (1), närmsta (1), fik (1), prästerskapet (1), lyssnar (1), intakt (1), agenda (1), varaktigt (1), plockar (1), folket (1), står (1), ingenstans (1), hur (1), intet (1), heller (1), upp (1), kamp (1), skogens (1), tama (1), frestelse (1), ger (1), tur (1), kantarellens (1), söta (1), önskvärda (1), lockelse (1), förväxlas (1), brun (1), flugsvamp (1), noga (1), plock (1), flugsvampens (1), hatt (1), inger (1), skrämsel (1), likaså (1), ser (1), dock (1), papegojvaxing (1), gröning (1), centrerar (1), bild (1), liten (1), rock (1), omhuldade (1), gröna (1), kremlor (1), svajar (1), stolta (1), dolda (1), gällande (1), dess (1), betydelse (1), skock (1), blåmusseron (1), tenderar (1), blekna (1), anta (1), brunvit (1), nyans (1), åldern (1), höst (1), nock (1), tydligt (1), blå (1), vid (1), tryck (1), även (1), brungrann (1), färgskala (1), äro (1
+
+### Svensk rap / visa
+
+men (8), inte (7), tid (6), vår (6), vad (4), kalla (4), rädda (4), dom (4), eller (3), samma (3), maktens (3), kårar (3), slingrar (3), ner (3), längst (3), ryggen (3), folket (3), skall (3), finna (3), tryggt (3), hem (3), vänligt (3), bestämt (3), ropar (3), kamraten (3), dags (3), starka (3), strukturella (3), vapen (3), andra (3), vinden (3), dig (3), alla (3), systemfel (2), fler (2), kommer (2), dra (2), mindre (2), lika (2), dragen (2), vissa (2), sak (2), får (2), lyrical (1), bonde (1), periodiska (1), vinternattens (1), utmärkande (1), tidens (1), vila (1), kila (1), vandra (1), långt (1), kort (1), relativt (1), känsla (1), knipa (1), ångest (1), öppen (1), gata (1), skratta (1), gapa (1), propagandans (1), föda (1), äts (1), serveras (1), mantrat (1), enkelt (1), upprepas (1), tills (1), låter (1), sant (1), mitten (1), kant (1), hör (1), läst (1), hört (1), sett (1), upplevt (1), fortsatt (1), skevt (1), uppväxt (1), posten (1), kom (1), brevt (1), hur (1), hårda (1), ord (1), stavas (1), lent (1), fördomens (1), ånga (1), smyger (1), daggen (1), dolken (1), kamouflerat (1), kam (1), sakta (1), stråken (1), vilka (1), fastnar (1), synfälten (1), syns (1), snön (1), matchat (1), färgen (1), varligt (1), stora (1), många (1), varför (1), stärka (1), kallt (1), blåser 
+
 ## Verk i varje form
 
 ### Musiklyrik / dancehall-reggae (blandat) (66)

@@ -1,0 +1,961 @@
+source,wordform,count,is_content_word
+originals/chat-poetry/Höströst - Höstrusk.txt,att,14,False
+originals/chat-poetry/Höströst - Höstrusk.txt,och,12,False
+originals/chat-poetry/Höströst - Höstrusk.txt,en,10,False
+originals/chat-poetry/Höströst - Höstrusk.txt,i,9,False
+originals/chat-poetry/Höströst - Höstrusk.txt,som,9,False
+originals/chat-poetry/Höströst - Höstrusk.txt,till,8,False
+originals/chat-poetry/Höströst - Höstrusk.txt,det,8,False
+originals/chat-poetry/Höströst - Höstrusk.txt,på,7,False
+originals/other/Blickar möts.txt,du,17,False
+originals/other/Blickar möts.txt,vi,14,False
+originals/other/Blickar möts.txt,min,12,True
+originals/other/Blickar möts.txt,när,11,False
+originals/other/Blickar möts.txt,det,10,False
+originals/other/Blickar möts.txt,möter,8,True
+originals/other/Blickar möts.txt,blick,8,True
+originals/other/Blickar möts.txt,är,7,False
+originals/other/Parentalhood in the stars.txt,the,19,False
+originals/other/Parentalhood in the stars.txt,i,18,False
+originals/other/Parentalhood in the stars.txt,my,11,False
+originals/other/Parentalhood in the stars.txt,but,10,False
+originals/other/Parentalhood in the stars.txt,to,10,False
+originals/other/Parentalhood in the stars.txt,we,10,False
+originals/other/Parentalhood in the stars.txt,in,9,False
+originals/other/Parentalhood in the stars.txt,like,9,False
+originals/other/Svensk text.txt,ofta,2,True
+originals/other/Svensk text.txt,gräver,2,True
+originals/other/Svensk text.txt,varannan,1,True
+originals/other/Svensk text.txt,ser,1,True
+originals/other/Svensk text.txt,det,1,False
+originals/other/Svensk text.txt,mer,1,False
+originals/other/Svensk text.txt,blir,1,False
+originals/other/Svensk text.txt,de,1,False
+originals/other/Ton Load.txt,a,24,False
+originals/other/Ton Load.txt,di,17,False
+originals/other/Ton Load.txt,me,15,False
+originals/other/Ton Load.txt,and,15,False
+originals/other/Ton Load.txt,like,15,False
+originals/other/Ton Load.txt,when,14,False
+originals/other/Ton Load.txt,dem,14,False
+originals/other/Ton Load.txt,the,13,False
+originals/other/We are the Fungi.txt,the,15,False
+originals/other/We are the Fungi.txt,we,12,False
+originals/other/We are the Fungi.txt,fungi,10,True
+originals/other/We are the Fungi.txt,are,9,False
+originals/other/We are the Fungi.txt,ding,9,True
+originals/other/We are the Fungi.txt,a,6,False
+originals/other/We are the Fungi.txt,is,5,False
+originals/other/We are the Fungi.txt,it’s,4,True
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,dem,24,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,a,22,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,di,21,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,for,14,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,waiting,12,True
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,we,11,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,yuh,10,False
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,of,10,False
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,a,14,False
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,gun,11,True
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,we,11,False
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,to,10,False
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,mi,9,False
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,wolverine,8,True
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,kill,8,True
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,my,8,False
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,a,33,False
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,oversize,22,True
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,yuh,19,False
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,kill,17,True
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,sound,14,True
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,we,14,False
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,million,12,True
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,vibes,12,True
+readable/dubplates/Sir Maximus.rtf.txt,a,36,False
+readable/dubplates/Sir Maximus.rtf.txt,di,30,False
+readable/dubplates/Sir Maximus.rtf.txt,you,14,False
+readable/dubplates/Sir Maximus.rtf.txt,maximus,11,True
+readable/dubplates/Sir Maximus.rtf.txt,him,11,False
+readable/dubplates/Sir Maximus.rtf.txt,inna,7,False
+readable/dubplates/Sir Maximus.rtf.txt,don,6,True
+readable/dubplates/Sir Maximus.rtf.txt,real,6,True
+readable/dubplates/Tellus sound.rtf.txt,di,41,False
+readable/dubplates/Tellus sound.rtf.txt,a,20,False
+readable/dubplates/Tellus sound.rtf.txt,you,19,False
+readable/dubplates/Tellus sound.rtf.txt,sound,14,True
+readable/dubplates/Tellus sound.rtf.txt,and,13,False
+readable/dubplates/Tellus sound.rtf.txt,tellus,12,True
+readable/dubplates/Tellus sound.rtf.txt,in,9,False
+readable/dubplates/Tellus sound.rtf.txt,everybody,8,True
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,oversize,28,True
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,a,25,False
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,yuh,20,False
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,we,18,False
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,dem,16,False
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,kill,15,True
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,and,14,False
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,gonna,12,True
+"readable/grime/Dead manners, Blood banners.rtf.txt",i,9,False
+"readable/grime/Dead manners, Blood banners.rtf.txt",a,6,False
+"readable/grime/Dead manners, Blood banners.rtf.txt",you,5,False
+"readable/grime/Dead manners, Blood banners.rtf.txt",the,5,False
+"readable/grime/Dead manners, Blood banners.rtf.txt",like,4,False
+"readable/grime/Dead manners, Blood banners.rtf.txt",dead,3,True
+"readable/grime/Dead manners, Blood banners.rtf.txt",kill,3,True
+"readable/grime/Dead manners, Blood banners.rtf.txt",well,3,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,mi,10,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,a,10,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,like,9,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,di,9,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,and,5,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,see,4,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,gwaan,4,False
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,uno,4,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,är,16,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,att,15,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,de,9,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,i,8,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,men,8,True
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,och,7,False
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,inte,7,True
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,till,7,False
+readable/lyrics/----.rtf.txt,a,6,False
+readable/lyrics/----.rtf.txt,it,5,False
+readable/lyrics/----.rtf.txt,mi,4,False
+readable/lyrics/----.rtf.txt,di,4,False
+readable/lyrics/----.rtf.txt,aks,3,True
+readable/lyrics/----.rtf.txt,is,3,False
+readable/lyrics/----.rtf.txt,world,3,True
+readable/lyrics/----.rtf.txt,up,3,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,mi,19,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,dem,12,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,a,11,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,nuh,10,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,i,10,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,is,7,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,dat,7,False
+readable/lyrics/Aks mi bout lyrics.doc.txt,fi,7,False
+readable/lyrics/All good is digital.doc.txt,digital,25,True
+readable/lyrics/All good is digital.doc.txt,we,20,False
+readable/lyrics/All good is digital.doc.txt,is,20,False
+readable/lyrics/All good is digital.doc.txt,a,17,False
+readable/lyrics/All good is digital.doc.txt,digita,13,True
+readable/lyrics/All good is digital.doc.txt,al,13,True
+readable/lyrics/All good is digital.doc.txt,you,11,False
+readable/lyrics/All good is digital.doc.txt,yuh,9,False
+readable/lyrics/Any Kind of.rtf.txt,a,8,False
+readable/lyrics/Any Kind of.rtf.txt,people,4,False
+readable/lyrics/Any Kind of.rtf.txt,mi,3,False
+readable/lyrics/Any Kind of.rtf.txt,it,3,False
+readable/lyrics/Any Kind of.rtf.txt,seh,2,False
+readable/lyrics/Any Kind of.rtf.txt,any,2,False
+readable/lyrics/Any Kind of.rtf.txt,kind,2,True
+readable/lyrics/Any Kind of.rtf.txt,come,2,False
+readable/lyrics/Backseat mind.rtf.txt,a,34,False
+readable/lyrics/Backseat mind.rtf.txt,di,22,False
+readable/lyrics/Backseat mind.rtf.txt,and,9,False
+readable/lyrics/Backseat mind.rtf.txt,fi,9,False
+readable/lyrics/Backseat mind.rtf.txt,need,8,True
+readable/lyrics/Backseat mind.rtf.txt,man,7,True
+readable/lyrics/Backseat mind.rtf.txt,tink,7,False
+readable/lyrics/Backseat mind.rtf.txt,dem,7,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,the,18,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,i,8,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,come,8,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,is,8,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,to,6,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,and,5,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,di,5,False
+readable/lyrics/Backup of Wordz and tinker.doc.txt,nuh,5,False
+readable/lyrics/Bad bwy.doc.txt,a,17,False
+readable/lyrics/Bad bwy.doc.txt,mi,14,False
+readable/lyrics/Bad bwy.doc.txt,yuh,7,False
+readable/lyrics/Bad bwy.doc.txt,him,7,False
+readable/lyrics/Bad bwy.doc.txt,suh,7,False
+readable/lyrics/Bad bwy.doc.txt,if,6,False
+readable/lyrics/Bad bwy.doc.txt,bwy,5,False
+readable/lyrics/Bad bwy.doc.txt,dat,5,False
+readable/lyrics/Blood first.rtf.txt,a,19,False
+readable/lyrics/Blood first.rtf.txt,you,17,False
+readable/lyrics/Blood first.rtf.txt,fi,12,False
+readable/lyrics/Blood first.rtf.txt,who,9,False
+readable/lyrics/Blood first.rtf.txt,are,9,False
+readable/lyrics/Blood first.rtf.txt,negativity,9,True
+readable/lyrics/Blood first.rtf.txt,bring,9,True
+readable/lyrics/Blood first.rtf.txt,walk,9,True
+readable/lyrics/Burglary.rtf.txt,i,18,False
+readable/lyrics/Burglary.rtf.txt,your,17,False
+readable/lyrics/Burglary.rtf.txt,and,15,False
+readable/lyrics/Burglary.rtf.txt,a,14,False
+readable/lyrics/Burglary.rtf.txt,you,11,False
+readable/lyrics/Burglary.rtf.txt,but,10,False
+readable/lyrics/Burglary.rtf.txt,am,8,True
+readable/lyrics/Burglary.rtf.txt,not,8,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,a,13,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,we,7,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,one,6,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,di,6,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,murder,5,True
+readable/lyrics/CSI-Murder Thee.rtf.txt,go,5,False
+readable/lyrics/CSI-Murder Thee.rtf.txt,hold,4,True
+readable/lyrics/CSI-Murder Thee.rtf.txt,up,4,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,for,7,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,we,6,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,och,5,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,of,5,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,di,5,False
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,bangarang,4,True
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,club,4,True
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,all,4,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,the,16,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,to,13,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,my,11,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,life,6,True
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,i,5,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,a,5,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,me,4,False
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,that,4,False
+readable/lyrics/Cinemamurda.rtf.txt,a,29,False
+readable/lyrics/Cinemamurda.rtf.txt,mi,19,False
+readable/lyrics/Cinemamurda.rtf.txt,di,15,False
+readable/lyrics/Cinemamurda.rtf.txt,him,12,False
+readable/lyrics/Cinemamurda.rtf.txt,fi,7,False
+readable/lyrics/Cinemamurda.rtf.txt,inna,5,False
+readable/lyrics/Cinemamurda.rtf.txt,pon,5,False
+readable/lyrics/Cinemamurda.rtf.txt,did,5,False
+readable/lyrics/Como Nation.rtf.txt,di,14,False
+readable/lyrics/Como Nation.rtf.txt,a,11,False
+readable/lyrics/Como Nation.rtf.txt,me,6,False
+readable/lyrics/Como Nation.rtf.txt,vers,6,True
+readable/lyrics/Como Nation.rtf.txt,is,5,False
+readable/lyrics/Como Nation.rtf.txt,inna,5,False
+readable/lyrics/Como Nation.rtf.txt,we,5,False
+readable/lyrics/Como Nation.rtf.txt,du,5,False
+readable/lyrics/Counteract Zoro låt.doc.txt,a,12,False
+readable/lyrics/Counteract Zoro låt.doc.txt,of,11,False
+readable/lyrics/Counteract Zoro låt.doc.txt,mi,10,False
+readable/lyrics/Counteract Zoro låt.doc.txt,got,7,False
+readable/lyrics/Counteract Zoro låt.doc.txt,yuh,7,False
+readable/lyrics/Counteract Zoro låt.doc.txt,suh,6,False
+readable/lyrics/Counteract Zoro låt.doc.txt,weight,6,True
+readable/lyrics/Counteract Zoro låt.doc.txt,i,5,False
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,neva,8,True
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,go,8,False
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,away,8,True
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,a,8,False
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,mi,5,False
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,say,4,False
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,ey,4,True
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,fi,4,False
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,di,20,False
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,a,19,False
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,she,11,False
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,nothing,9,True
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,me-e-e,9,True
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,like,9,False
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,woma-aan,9,True
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,up,8,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,a,16,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,the,11,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,di,9,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,dem,9,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,mi,7,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,is,7,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,nuh,6,False
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,come,6,False
+readable/lyrics/Draftlyrics.rtf.txt,a,9,False
+readable/lyrics/Draftlyrics.rtf.txt,the,7,False
+readable/lyrics/Draftlyrics.rtf.txt,from,6,False
+readable/lyrics/Draftlyrics.rtf.txt,is,6,False
+readable/lyrics/Draftlyrics.rtf.txt,and,6,False
+readable/lyrics/Draftlyrics.rtf.txt,di,4,False
+readable/lyrics/Draftlyrics.rtf.txt,to,4,False
+readable/lyrics/Draftlyrics.rtf.txt,wid,4,False
+readable/lyrics/Dubplate 80s.rtf.txt,a,14,False
+readable/lyrics/Dubplate 80s.rtf.txt,to,11,False
+readable/lyrics/Dubplate 80s.rtf.txt,di,8,False
+readable/lyrics/Dubplate 80s.rtf.txt,sound,7,True
+readable/lyrics/Dubplate 80s.rtf.txt,and,7,False
+readable/lyrics/Dubplate 80s.rtf.txt,is,7,False
+readable/lyrics/Dubplate 80s.rtf.txt,we,7,False
+readable/lyrics/Dubplate 80s.rtf.txt,be,6,False
+readable/lyrics/Fast are my last name.doc.txt,mi,31,False
+readable/lyrics/Fast are my last name.doc.txt,a,28,False
+readable/lyrics/Fast are my last name.doc.txt,di,20,False
+readable/lyrics/Fast are my last name.doc.txt,fi,9,False
+readable/lyrics/Fast are my last name.doc.txt,it,9,False
+readable/lyrics/Fast are my last name.doc.txt,to,8,False
+readable/lyrics/Fast are my last name.doc.txt,inna,7,False
+readable/lyrics/Fast are my last name.doc.txt,pon,6,False
+readable/lyrics/Fast chat stylee live.rtf.txt,waah,9,False
+readable/lyrics/Fast chat stylee live.rtf.txt,di,9,False
+readable/lyrics/Fast chat stylee live.rtf.txt,fast,7,True
+readable/lyrics/Fast chat stylee live.rtf.txt,chat,7,True
+readable/lyrics/Fast chat stylee live.rtf.txt,well,6,False
+readable/lyrics/Fast chat stylee live.rtf.txt,everybody,6,True
+readable/lyrics/Fast chat stylee live.rtf.txt,fi,6,False
+readable/lyrics/Fast chat stylee live.rtf.txt,stylee,6,True
+readable/lyrics/Ferma DJ - texter.doc.txt,a,80,False
+readable/lyrics/Ferma DJ - texter.doc.txt,mi,63,False
+readable/lyrics/Ferma DJ - texter.doc.txt,di,33,False
+readable/lyrics/Ferma DJ - texter.doc.txt,it,24,False
+readable/lyrics/Ferma DJ - texter.doc.txt,and,24,False
+readable/lyrics/Ferma DJ - texter.doc.txt,yuh,22,False
+readable/lyrics/Ferma DJ - texter.doc.txt,in,21,False
+readable/lyrics/Ferma DJ - texter.doc.txt,nuh,21,False
+readable/lyrics/Fruitmasta.rtf.txt,di,13,False
+readable/lyrics/Fruitmasta.rtf.txt,a,8,False
+readable/lyrics/Fruitmasta.rtf.txt,dem,8,False
+readable/lyrics/Fruitmasta.rtf.txt,fi,5,False
+readable/lyrics/Fruitmasta.rtf.txt,of,4,False
+readable/lyrics/Fruitmasta.rtf.txt,and,4,False
+readable/lyrics/Fruitmasta.rtf.txt,spice,4,True
+readable/lyrics/Fruitmasta.rtf.txt,fruitmasta,3,True
+readable/lyrics/Generation fo´.rtf.txt,dem,12,False
+readable/lyrics/Generation fo´.rtf.txt,a,11,False
+readable/lyrics/Generation fo´.rtf.txt,life,7,True
+readable/lyrics/Generation fo´.rtf.txt,fi,6,False
+readable/lyrics/Generation fo´.rtf.txt,all,5,False
+readable/lyrics/Generation fo´.rtf.txt,out,5,False
+readable/lyrics/Generation fo´.rtf.txt,youth,5,True
+readable/lyrics/Generation fo´.rtf.txt,how,4,False
+readable/lyrics/Golddigga treaty.rtf.txt,mi,16,False
+readable/lyrics/Golddigga treaty.rtf.txt,a,12,False
+readable/lyrics/Golddigga treaty.rtf.txt,nuh,9,False
+readable/lyrics/Golddigga treaty.rtf.txt,yuh,8,False
+readable/lyrics/Golddigga treaty.rtf.txt,di,8,False
+readable/lyrics/Golddigga treaty.rtf.txt,fi,7,False
+readable/lyrics/Golddigga treaty.rtf.txt,is,6,False
+readable/lyrics/Golddigga treaty.rtf.txt,the,5,False
+readable/lyrics/Handbook for mercy.rtf.txt,the,7,False
+readable/lyrics/Handbook for mercy.rtf.txt,a,6,False
+readable/lyrics/Handbook for mercy.rtf.txt,and,5,False
+readable/lyrics/Handbook for mercy.rtf.txt,di,4,False
+readable/lyrics/Handbook for mercy.rtf.txt,is,4,False
+readable/lyrics/Handbook for mercy.rtf.txt,from,4,False
+readable/lyrics/Handbook for mercy.rtf.txt,wid,4,False
+readable/lyrics/Handbook for mercy.rtf.txt,in,4,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,lyrics,11,True
+readable/lyrics/I see lyrics seh anywhere.doc.txt,mi,8,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,di,8,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,seen,8,True
+readable/lyrics/I see lyrics seh anywhere.doc.txt,i,7,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,see,4,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,inna,4,False
+readable/lyrics/I see lyrics seh anywhere.doc.txt,out,4,False
+readable/lyrics/In the eyes of power.rtf.txt,the,4,False
+readable/lyrics/In the eyes of power.rtf.txt,dem,4,False
+readable/lyrics/In the eyes of power.rtf.txt,of,3,False
+readable/lyrics/In the eyes of power.rtf.txt,in,2,False
+readable/lyrics/In the eyes of power.rtf.txt,eyes,2,True
+readable/lyrics/In the eyes of power.rtf.txt,need,2,True
+readable/lyrics/In the eyes of power.rtf.txt,get,2,False
+readable/lyrics/In the eyes of power.rtf.txt,to,2,False
+readable/lyrics/Interrogation X.rtf.txt,a,17,False
+readable/lyrics/Interrogation X.rtf.txt,dem,9,False
+readable/lyrics/Interrogation X.rtf.txt,yuh,9,False
+readable/lyrics/Interrogation X.rtf.txt,inna,7,False
+readable/lyrics/Interrogation X.rtf.txt,nah,6,True
+readable/lyrics/Interrogation X.rtf.txt,fi,6,False
+readable/lyrics/Interrogation X.rtf.txt,see,5,False
+readable/lyrics/Interrogation X.rtf.txt,waah,3,False
+readable/lyrics/It is such a bigga riddim.doc.txt,a,11,False
+readable/lyrics/It is such a bigga riddim.doc.txt,it,10,False
+readable/lyrics/It is such a bigga riddim.doc.txt,to,7,False
+readable/lyrics/It is such a bigga riddim.doc.txt,is,5,False
+readable/lyrics/It is such a bigga riddim.doc.txt,riddim,5,True
+readable/lyrics/It is such a bigga riddim.doc.txt,now,5,False
+readable/lyrics/It is such a bigga riddim.doc.txt,come,4,False
+readable/lyrics/It is such a bigga riddim.doc.txt,back,4,True
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,a,63,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,i,54,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,mi,33,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,yuh,31,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,di,31,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,to,26,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,it,23,False
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,the,20,False
+readable/lyrics/Mr Dearhunter.rtf.txt,mi,31,False
+readable/lyrics/Mr Dearhunter.rtf.txt,a,20,False
+readable/lyrics/Mr Dearhunter.rtf.txt,fi,12,False
+readable/lyrics/Mr Dearhunter.rtf.txt,yuh,11,False
+readable/lyrics/Mr Dearhunter.rtf.txt,how,10,False
+readable/lyrics/Mr Dearhunter.rtf.txt,to,10,False
+readable/lyrics/Mr Dearhunter.rtf.txt,neat,9,True
+readable/lyrics/Mr Dearhunter.rtf.txt,sweet,9,True
+readable/lyrics/Mr Gatcrasha.rtf.txt,a,15,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,to,11,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,we,10,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,so,9,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,me,8,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,mr,6,True
+readable/lyrics/Mr Gatcrasha.rtf.txt,for,6,False
+readable/lyrics/Mr Gatcrasha.rtf.txt,have,6,False
+readable/lyrics/Nah idle.rtf.txt,a,12,False
+readable/lyrics/Nah idle.rtf.txt,whoy,12,True
+readable/lyrics/Nah idle.rtf.txt,is,10,False
+readable/lyrics/Nah idle.rtf.txt,all,9,False
+readable/lyrics/Nah idle.rtf.txt,you,9,False
+readable/lyrics/Nah idle.rtf.txt,of,9,False
+readable/lyrics/Nah idle.rtf.txt,di,8,False
+readable/lyrics/Nah idle.rtf.txt,aha,8,True
+readable/lyrics/Namnlöst.rtf.txt,a,17,False
+readable/lyrics/Namnlöst.rtf.txt,the,13,False
+readable/lyrics/Namnlöst.rtf.txt,to,8,False
+readable/lyrics/Namnlöst.rtf.txt,it,7,False
+readable/lyrics/Namnlöst.rtf.txt,we,5,False
+readable/lyrics/Namnlöst.rtf.txt,money,5,True
+readable/lyrics/Namnlöst.rtf.txt,how,5,False
+readable/lyrics/Namnlöst.rtf.txt,should,5,False
+readable/lyrics/Never never.rtf.txt,you,22,False
+readable/lyrics/Never never.rtf.txt,neva,13,True
+readable/lyrics/Never never.rtf.txt,di,12,False
+readable/lyrics/Never never.rtf.txt,a,10,False
+readable/lyrics/Never never.rtf.txt,is,9,False
+readable/lyrics/Never never.rtf.txt,to,8,False
+readable/lyrics/Never never.rtf.txt,love,8,True
+readable/lyrics/Never never.rtf.txt,when,7,False
+readable/lyrics/Not a whisper.rtf.txt,a,17,False
+readable/lyrics/Not a whisper.rtf.txt,to,11,False
+readable/lyrics/Not a whisper.rtf.txt,is,10,False
+readable/lyrics/Not a whisper.rtf.txt,it,8,False
+readable/lyrics/Not a whisper.rtf.txt,well,6,False
+readable/lyrics/Not a whisper.rtf.txt,but,5,False
+readable/lyrics/Not a whisper.rtf.txt,as,5,False
+readable/lyrics/Not a whisper.rtf.txt,we,5,False
+readable/lyrics/Oh Girl.rtf.txt,a,12,False
+readable/lyrics/Oh Girl.rtf.txt,you,11,False
+readable/lyrics/Oh Girl.rtf.txt,on,8,False
+readable/lyrics/Oh Girl.rtf.txt,i,8,False
+readable/lyrics/Oh Girl.rtf.txt,mi,8,False
+readable/lyrics/Oh Girl.rtf.txt,girl,5,True
+readable/lyrics/Oh Girl.rtf.txt,walk,5,True
+readable/lyrics/Oh Girl.rtf.txt,like,5,False
+readable/lyrics/Ovasize selecta.doc.txt,a,32,False
+readable/lyrics/Ovasize selecta.doc.txt,di,23,False
+readable/lyrics/Ovasize selecta.doc.txt,oversize,22,True
+readable/lyrics/Ovasize selecta.doc.txt,mi,15,False
+readable/lyrics/Ovasize selecta.doc.txt,and,13,False
+readable/lyrics/Ovasize selecta.doc.txt,who,12,False
+readable/lyrics/Ovasize selecta.doc.txt,teacha,12,True
+readable/lyrics/Ovasize selecta.doc.txt,yuh,11,False
+readable/lyrics/Ovastand.rtf.txt,a,14,False
+readable/lyrics/Ovastand.rtf.txt,is,13,False
+readable/lyrics/Ovastand.rtf.txt,bout,13,True
+readable/lyrics/Ovastand.rtf.txt,they,12,False
+readable/lyrics/Ovastand.rtf.txt,see,12,False
+readable/lyrics/Ovastand.rtf.txt,fi,9,False
+readable/lyrics/Ovastand.rtf.txt,to,8,False
+readable/lyrics/Ovastand.rtf.txt,not,8,False
+readable/lyrics/People dance again.rtf.txt,a,18,False
+readable/lyrics/People dance again.rtf.txt,and,16,False
+readable/lyrics/People dance again.rtf.txt,di,15,False
+readable/lyrics/People dance again.rtf.txt,mi,14,False
+readable/lyrics/People dance again.rtf.txt,dance,10,True
+readable/lyrics/People dance again.rtf.txt,dem,9,False
+readable/lyrics/People dance again.rtf.txt,fi,8,False
+readable/lyrics/People dance again.rtf.txt,when,7,False
+readable/lyrics/Picknick rende vouz.doc.txt,la,11,True
+readable/lyrics/Picknick rende vouz.doc.txt,to,11,False
+readable/lyrics/Picknick rende vouz.doc.txt,laa,8,True
+readable/lyrics/Picknick rende vouz.doc.txt,the,8,False
+readable/lyrics/Picknick rende vouz.doc.txt,i,7,False
+readable/lyrics/Picknick rende vouz.doc.txt,lalala,6,True
+readable/lyrics/Picknick rende vouz.doc.txt,lala,5,True
+readable/lyrics/Picknick rende vouz.doc.txt,is,5,False
+readable/lyrics/Shake dear.rtf.txt,a,14,False
+readable/lyrics/Shake dear.rtf.txt,me,13,False
+readable/lyrics/Shake dear.rtf.txt,so,8,False
+readable/lyrics/Shake dear.rtf.txt,to,8,False
+readable/lyrics/Shake dear.rtf.txt,love,7,True
+readable/lyrics/Shake dear.rtf.txt,gal,7,False
+readable/lyrics/Shake dear.rtf.txt,could,6,False
+readable/lyrics/Shake dear.rtf.txt,be,6,False
+readable/lyrics/Skrattkommitén.rtf.txt,det,11,False
+readable/lyrics/Skrattkommitén.rtf.txt,så,7,False
+readable/lyrics/Skrattkommitén.rtf.txt,som,6,False
+readable/lyrics/Skrattkommitén.rtf.txt,i,6,False
+readable/lyrics/Skrattkommitén.rtf.txt,en,6,False
+readable/lyrics/Skrattkommitén.rtf.txt,på,5,False
+readable/lyrics/Skrattkommitén.rtf.txt,ett,4,False
+readable/lyrics/Skrattkommitén.rtf.txt,för,4,False
+readable/lyrics/Solid Scary.doc.txt,a,8,False
+readable/lyrics/Solid Scary.doc.txt,so,6,False
+readable/lyrics/Solid Scary.doc.txt,for,6,False
+readable/lyrics/Solid Scary.doc.txt,nuh,6,False
+readable/lyrics/Solid Scary.doc.txt,dem,5,False
+readable/lyrics/Solid Scary.doc.txt,is,4,False
+readable/lyrics/Solid Scary.doc.txt,all,4,False
+readable/lyrics/Solid Scary.doc.txt,he,4,False
+readable/lyrics/Sound roam silence.rtf.txt,to,12,False
+readable/lyrics/Sound roam silence.rtf.txt,of,11,False
+readable/lyrics/Sound roam silence.rtf.txt,a,7,False
+readable/lyrics/Sound roam silence.rtf.txt,the,6,False
+readable/lyrics/Sound roam silence.rtf.txt,it,6,False
+readable/lyrics/Sound roam silence.rtf.txt,ho,6,True
+readable/lyrics/Sound roam silence.rtf.txt,come,5,False
+readable/lyrics/Sound roam silence.rtf.txt,and,5,False
+readable/lyrics/Stock Market.rtf.txt,a,25,False
+readable/lyrics/Stock Market.rtf.txt,the,24,False
+readable/lyrics/Stock Market.rtf.txt,to,12,False
+readable/lyrics/Stock Market.rtf.txt,is,11,False
+readable/lyrics/Stock Market.rtf.txt,how,10,False
+readable/lyrics/Stock Market.rtf.txt,money,9,True
+readable/lyrics/Stock Market.rtf.txt,it,8,False
+readable/lyrics/Stock Market.rtf.txt,we,7,False
+readable/lyrics/Sudda bort.rtf.txt,sudda,14,True
+readable/lyrics/Sudda bort.rtf.txt,alla,10,True
+readable/lyrics/Sudda bort.rtf.txt,är,9,False
+readable/lyrics/Sudda bort.rtf.txt,som,7,False
+readable/lyrics/Sudda bort.rtf.txt,bort,6,True
+readable/lyrics/Sudda bort.rtf.txt,nu,6,False
+readable/lyrics/Sudda bort.rtf.txt,det,5,False
+readable/lyrics/Sudda bort.rtf.txt,diskrimineringsgrunder,5,True
+readable/lyrics/Summer breeze.doc.txt,summer,13,True
+readable/lyrics/Summer breeze.doc.txt,a,12,False
+readable/lyrics/Summer breeze.doc.txt,and,10,False
+readable/lyrics/Summer breeze.doc.txt,to,9,False
+readable/lyrics/Summer breeze.doc.txt,the,8,False
+readable/lyrics/Summer breeze.doc.txt,breeze,7,True
+readable/lyrics/Summer breeze.doc.txt,di,6,False
+readable/lyrics/Summer breeze.doc.txt,of,6,False
+readable/lyrics/Summer breeze.docx.txt,summer,13,True
+readable/lyrics/Summer breeze.docx.txt,a,12,False
+readable/lyrics/Summer breeze.docx.txt,and,10,False
+readable/lyrics/Summer breeze.docx.txt,to,9,False
+readable/lyrics/Summer breeze.docx.txt,the,8,False
+readable/lyrics/Summer breeze.docx.txt,breeze,7,True
+readable/lyrics/Summer breeze.docx.txt,now,6,False
+readable/lyrics/Summer breeze.docx.txt,of,6,False
+readable/lyrics/Sweet dreams.rtf.txt,tek,2,True
+readable/lyrics/Sweet dreams.rtf.txt,up,2,False
+readable/lyrics/Sweet dreams.rtf.txt,di,2,False
+readable/lyrics/Sweet dreams.rtf.txt,mi,2,False
+readable/lyrics/Sweet dreams.rtf.txt,to,2,False
+readable/lyrics/Sweet dreams.rtf.txt,i,2,False
+readable/lyrics/Sweet dreams.rtf.txt,nuh,2,False
+readable/lyrics/Sweet dreams.rtf.txt,offer,1,True
+readable/lyrics/The Hatter.rtf.txt,a,17,False
+readable/lyrics/The Hatter.rtf.txt,mi,10,False
+readable/lyrics/The Hatter.rtf.txt,dem,8,False
+readable/lyrics/The Hatter.rtf.txt,like,5,False
+readable/lyrics/The Hatter.rtf.txt,nuh,5,False
+readable/lyrics/The Hatter.rtf.txt,it,5,False
+readable/lyrics/The Hatter.rtf.txt,di,4,False
+readable/lyrics/The Hatter.rtf.txt,hatter,3,True
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",is,14,False
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",the,11,False
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",and,10,False
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",when,8,False
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",snow,7,True
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",falling,7,True
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",to,7,False
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",please,6,True
+readable/lyrics/Three Citys.doc.txt,mi,62,False
+readable/lyrics/Three Citys.doc.txt,di,18,False
+readable/lyrics/Three Citys.doc.txt,a,16,False
+readable/lyrics/Three Citys.doc.txt,seh,11,False
+readable/lyrics/Three Citys.doc.txt,go,10,False
+readable/lyrics/Three Citys.doc.txt,fi,10,False
+readable/lyrics/Three Citys.doc.txt,dat,8,False
+readable/lyrics/Three Citys.doc.txt,travel,7,True
+readable/lyrics/Till studio session--.rtf.txt,to,6,False
+readable/lyrics/Till studio session--.rtf.txt,mi,5,False
+readable/lyrics/Till studio session--.rtf.txt,di,5,False
+readable/lyrics/Till studio session--.rtf.txt,a,4,False
+readable/lyrics/Till studio session--.rtf.txt,the,3,False
+readable/lyrics/Till studio session--.rtf.txt,from,3,False
+readable/lyrics/Till studio session--.rtf.txt,is,3,False
+readable/lyrics/Till studio session--.rtf.txt,we,3,False
+readable/lyrics/Trains show us!.txt.txt,the,5,False
+readable/lyrics/Trains show us!.txt.txt,passing,3,True
+readable/lyrics/Trains show us!.txt.txt,thru,3,True
+readable/lyrics/Trains show us!.txt.txt,country,3,True
+readable/lyrics/Trains show us!.txt.txt,to,3,False
+readable/lyrics/Trains show us!.txt.txt,a,2,False
+readable/lyrics/Trains show us!.txt.txt,me,2,False
+readable/lyrics/Trains show us!.txt.txt,that,2,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,me,26,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,mi,19,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,a,17,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,di,12,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,dem,12,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,its,10,False
+readable/lyrics/Two shoelace inna tangle.rtf.txt,it's,10,True
+readable/lyrics/Two shoelace inna tangle.rtf.txt,i,10,False
+readable/lyrics/WC-WC 2010.rtf.txt,and,10,False
+readable/lyrics/WC-WC 2010.rtf.txt,di,9,False
+readable/lyrics/WC-WC 2010.rtf.txt,is,6,False
+readable/lyrics/WC-WC 2010.rtf.txt,the,6,False
+readable/lyrics/WC-WC 2010.rtf.txt,to,5,False
+readable/lyrics/WC-WC 2010.rtf.txt,down,5,False
+readable/lyrics/WC-WC 2010.rtf.txt,a,4,False
+readable/lyrics/WC-WC 2010.rtf.txt,up,4,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,a,39,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,di,22,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,lovin,21,True
+readable/lyrics/Wad is di meaning of lovin.doc.txt,mi,15,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,is,13,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,yuh,12,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,dat,11,False
+readable/lyrics/Wad is di meaning of lovin.doc.txt,meaning,10,True
+readable/lyrics/War end.rtf.txt,war,12,True
+readable/lyrics/War end.rtf.txt,a,12,False
+readable/lyrics/War end.rtf.txt,mi,7,False
+readable/lyrics/War end.rtf.txt,nuh,6,False
+readable/lyrics/War end.rtf.txt,fi,5,False
+readable/lyrics/War end.rtf.txt,see,4,False
+readable/lyrics/War end.rtf.txt,and,3,False
+readable/lyrics/War end.rtf.txt,we,3,False
+readable/lyrics/Wordz and tinker.doc.txt,the,18,False
+readable/lyrics/Wordz and tinker.doc.txt,i,8,False
+readable/lyrics/Wordz and tinker.doc.txt,come,8,False
+readable/lyrics/Wordz and tinker.doc.txt,is,8,False
+readable/lyrics/Wordz and tinker.doc.txt,to,6,False
+readable/lyrics/Wordz and tinker.doc.txt,and,5,False
+readable/lyrics/Wordz and tinker.doc.txt,di,5,False
+readable/lyrics/Wordz and tinker.doc.txt,nuh,5,False
+readable/lyrics/Workmanlike.doc.txt,a,35,False
+readable/lyrics/Workmanlike.doc.txt,mi,22,False
+readable/lyrics/Workmanlike.doc.txt,you,18,False
+readable/lyrics/Workmanlike.doc.txt,di,17,False
+readable/lyrics/Workmanlike.doc.txt,it,14,False
+readable/lyrics/Workmanlike.doc.txt,to,11,False
+readable/lyrics/Workmanlike.doc.txt,do,10,False
+readable/lyrics/Workmanlike.doc.txt,i,10,False
+readable/lyrics/refräng.doc.txt,is,4,False
+readable/lyrics/refräng.doc.txt,my,4,False
+readable/lyrics/refräng.doc.txt,up,4,False
+readable/lyrics/refräng.doc.txt,ohh,2,True
+readable/lyrics/refräng.doc.txt,fast,2,True
+readable/lyrics/refräng.doc.txt,last,2,True
+readable/lyrics/refräng.doc.txt,name,2,True
+readable/lyrics/refräng.doc.txt,who,2,False
+readable/lyrics/slackness Lish.rtf.txt,mi,14,False
+readable/lyrics/slackness Lish.rtf.txt,a,6,False
+readable/lyrics/slackness Lish.rtf.txt,to,4,False
+readable/lyrics/slackness Lish.rtf.txt,it,3,False
+readable/lyrics/slackness Lish.rtf.txt,di,3,False
+readable/lyrics/slackness Lish.rtf.txt,yuh,3,False
+readable/lyrics/slackness Lish.rtf.txt,u,3,True
+readable/lyrics/slackness Lish.rtf.txt,fi,2,False
+readable/lyrics/tyy.docx.txt,mi,5,False
+readable/lyrics/tyy.docx.txt,opa,4,True
+readable/lyrics/tyy.docx.txt,it,3,False
+readable/lyrics/tyy.docx.txt,we,3,False
+readable/lyrics/tyy.docx.txt,million,2,True
+readable/lyrics/tyy.docx.txt,vibes,2,True
+readable/lyrics/tyy.docx.txt,dem,2,False
+readable/lyrics/tyy.docx.txt,sound,2,True
+readable/misc/Do somthing.rtf.txt,i,29,False
+readable/misc/Do somthing.rtf.txt,and,18,False
+readable/misc/Do somthing.rtf.txt,walk,16,True
+readable/misc/Do somthing.rtf.txt,feel,16,True
+readable/misc/Do somthing.rtf.txt,do,10,False
+readable/misc/Do somthing.rtf.txt,when,9,False
+readable/misc/Do somthing.rtf.txt,right,9,True
+readable/misc/Do somthing.rtf.txt,home,9,True
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,mera,21,True
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,panta,19,True
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,är,16,False
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,vi,14,False
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,att,10,False
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,kan,9,False
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,alla,8,True
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,och,8,False
+readable/poetry/A mans life is woeful.rtf.txt,a,11,False
+readable/poetry/A mans life is woeful.rtf.txt,the,9,False
+readable/poetry/A mans life is woeful.rtf.txt,of,8,False
+readable/poetry/A mans life is woeful.rtf.txt,is,4,False
+readable/poetry/A mans life is woeful.rtf.txt,to,4,False
+readable/poetry/A mans life is woeful.rtf.txt,be,4,False
+readable/poetry/A mans life is woeful.rtf.txt,on,4,False
+readable/poetry/A mans life is woeful.rtf.txt,your,3,False
+readable/poetry/Banal et tu i (etui).rtf.txt,to,7,False
+readable/poetry/Banal et tu i (etui).rtf.txt,for,6,False
+readable/poetry/Banal et tu i (etui).rtf.txt,when,4,False
+readable/poetry/Banal et tu i (etui).rtf.txt,so,4,False
+readable/poetry/Banal et tu i (etui).rtf.txt,is,4,False
+readable/poetry/Banal et tu i (etui).rtf.txt,a,3,False
+readable/poetry/Banal et tu i (etui).rtf.txt,in,3,False
+readable/poetry/Banal et tu i (etui).rtf.txt,as,3,False
+readable/poetry/Bed.rtf.txt,to,12,False
+readable/poetry/Bed.rtf.txt,the,10,False
+readable/poetry/Bed.rtf.txt,of,10,False
+readable/poetry/Bed.rtf.txt,i,8,False
+readable/poetry/Bed.rtf.txt,a,7,False
+readable/poetry/Bed.rtf.txt,my,6,False
+readable/poetry/Bed.rtf.txt,would,5,False
+readable/poetry/Bed.rtf.txt,not,5,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,to,10,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,a,8,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,in,8,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,the,4,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,would,4,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,not,3,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,an,2,False
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,when,2,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,i,6,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,to,6,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,not,5,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,of,3,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,in,3,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,would,2,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,for,2,False
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,and,2,False
+readable/poetry/Maka Löst dikt.doc.txt,det,6,False
+readable/poetry/Maka Löst dikt.doc.txt,i,6,False
+readable/poetry/Maka Löst dikt.doc.txt,maka,5,True
+readable/poetry/Maka Löst dikt.doc.txt,löst,5,True
+readable/poetry/Maka Löst dikt.doc.txt,ej,5,True
+readable/poetry/Maka Löst dikt.doc.txt,till,5,False
+readable/poetry/Maka Löst dikt.doc.txt,på,4,False
+readable/poetry/Maka Löst dikt.doc.txt,så,4,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,the,12,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,i,10,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,is,9,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,to,9,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,a,8,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,me,7,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,not,5,False
+readable/poetry/Not so much of anything-moment is now .rtf.txt,for,5,False
+readable/poetry/Oral quest.rtf.txt,i,20,False
+readable/poetry/Oral quest.rtf.txt,questions,15,True
+readable/poetry/Oral quest.rtf.txt,do,12,False
+readable/poetry/Oral quest.rtf.txt,the,12,False
+readable/poetry/Oral quest.rtf.txt,ask,11,True
+readable/poetry/Oral quest.rtf.txt,to,8,False
+readable/poetry/Oral quest.rtf.txt,as,6,False
+readable/poetry/Oral quest.rtf.txt,of,6,False
+readable/poetry/Pikant är livet.rtf.txt,vara,5,True
+readable/poetry/Pikant är livet.rtf.txt,att,4,False
+readable/poetry/Pikant är livet.rtf.txt,hon,4,False
+readable/poetry/Pikant är livet.rtf.txt,och,3,False
+readable/poetry/Pikant är livet.rtf.txt,det,3,False
+readable/poetry/Pikant är livet.rtf.txt,när,3,False
+readable/poetry/Pikant är livet.rtf.txt,fan,3,True
+readable/poetry/Pikant är livet.rtf.txt,med,3,False
+readable/poetry/Places ought to parade.rtf.txt,the,9,False
+readable/poetry/Places ought to parade.rtf.txt,in,9,False
+readable/poetry/Places ought to parade.rtf.txt,to,7,False
+readable/poetry/Places ought to parade.rtf.txt,does,4,False
+readable/poetry/Places ought to parade.rtf.txt,a,4,False
+readable/poetry/Places ought to parade.rtf.txt,of,4,False
+readable/poetry/Places ought to parade.rtf.txt,ranccon,3,True
+readable/poetry/Places ought to parade.rtf.txt,not,3,False
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,det,6,False
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,i,6,False
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,maka,5,True
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,löst,5,True
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,ej,5,True
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,till,5,False
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,på,4,False
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,så,4,False
+readable/poetry/The Hy The Man the story.rtf.txt,the,44,False
+readable/poetry/The Hy The Man the story.rtf.txt,i,21,False
+readable/poetry/The Hy The Man the story.rtf.txt,a,15,False
+readable/poetry/The Hy The Man the story.rtf.txt,to,15,False
+readable/poetry/The Hy The Man the story.rtf.txt,was,12,False
+readable/poetry/The Hy The Man the story.rtf.txt,of,12,False
+readable/poetry/The Hy The Man the story.rtf.txt,this,12,False
+readable/poetry/The Hy The Man the story.rtf.txt,on,11,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,är,7,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,för,5,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,som,5,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,en,5,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,på,5,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,och,5,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,med,4,False
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,i,3,False
+readable/poetry/You and Mr Pan.doc.txt,is,16,False
+readable/poetry/You and Mr Pan.doc.txt,you,13,False
+readable/poetry/You and Mr Pan.doc.txt,a,12,False
+readable/poetry/You and Mr Pan.doc.txt,to,11,False
+readable/poetry/You and Mr Pan.doc.txt,i,9,False
+readable/poetry/You and Mr Pan.doc.txt,he,8,False
+readable/poetry/You and Mr Pan.doc.txt,what,7,False
+readable/poetry/You and Mr Pan.doc.txt,so,7,False
+readable/recording/Black belt .rtf.txt,a,12,False
+readable/recording/Black belt .rtf.txt,di,11,False
+readable/recording/Black belt .rtf.txt,him,8,False
+readable/recording/Black belt .rtf.txt,yuh,5,False
+readable/recording/Black belt .rtf.txt,gal,5,False
+readable/recording/Black belt .rtf.txt,nuh,5,False
+readable/recording/Black belt .rtf.txt,belt,4,True
+readable/recording/Black belt .rtf.txt,man,4,True
+readable/recording/Courtesy.rtf.txt,our,19,False
+readable/recording/Courtesy.rtf.txt,world,18,True
+readable/recording/Courtesy.rtf.txt,i,15,False
+readable/recording/Courtesy.rtf.txt,the,12,False
+readable/recording/Courtesy.rtf.txt,is,10,False
+readable/recording/Courtesy.rtf.txt,a,10,False
+readable/recording/Courtesy.rtf.txt,from,10,False
+readable/recording/Courtesy.rtf.txt,man,8,True
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,a,15,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,di,10,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,fi,10,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,mi,9,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,one,8,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,and,8,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,i,7,False
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,to,6,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,di,26,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,and,24,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,i,20,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,to,20,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,a,18,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,we,13,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,from,12,False
+readable/recording/Daddy Ferma - Devotion.rtf.txt,fi,11,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,on,28,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,moving,24,True
+readable/recording/Daddy Ferma - Future passion.rtf.txt,for,15,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,and,13,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,we,11,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,you,9,False
+readable/recording/Daddy Ferma - Future passion.rtf.txt,love,8,True
+readable/recording/Daddy Ferma - Future passion.rtf.txt,na,7,True
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,di,30,False
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,mi,29,False
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,a,24,False
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,freezer,23,True
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,go,14,False
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,you,14,False
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,fridge,14,True
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,tell,13,True
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,di,33,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,santa,29,True
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,a,14,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,fi,12,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,all,11,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,to,11,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,i,10,False
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,as,9,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,we,19,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,a,14,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,di,13,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,mi,9,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,dem,8,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,fi,7,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,it,7,False
+readable/recording/Daddy Ferma - More than ever.rtf.txt,and,6,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,a,16,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,di,13,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,social,12,True
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,and,9,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,we,8,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,dat,8,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,fi,7,False
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,in,6,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,dem,5,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,mi,5,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,di,4,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,want,4,True
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,gal,3,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,v,3,True
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,a,3,False
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,it,3,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,a,23,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,di,18,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,mi,14,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,i,13,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,to,13,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,it,13,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,my,10,False
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,and,10,False
+readable/recording/Ital dutty.rtf.txt,a,8,False
+readable/recording/Ital dutty.rtf.txt,dutty,5,True
+readable/recording/Ital dutty.rtf.txt,dem,5,False
+readable/recording/Ital dutty.rtf.txt,ital,4,True
+readable/recording/Ital dutty.rtf.txt,deh,4,False
+readable/recording/Ital dutty.rtf.txt,gwaan,3,False
+readable/recording/Ital dutty.rtf.txt,seh,3,False
+readable/recording/Ital dutty.rtf.txt,di,3,False
+readable/recording/Music is life.rtf.txt,di,16,False
+readable/recording/Music is life.rtf.txt,a,10,False
+readable/recording/Music is life.rtf.txt,music,8,True
+readable/recording/Music is life.rtf.txt,to,8,False
+readable/recording/Music is life.rtf.txt,mi,6,False
+readable/recording/Music is life.rtf.txt,is,5,False
+readable/recording/Music is life.rtf.txt,so,5,False
+readable/recording/Music is life.rtf.txt,let,5,True
+readable/recording/Nah leave mi sound.rtf.txt,fi,7,False
+readable/recording/Nah leave mi sound.rtf.txt,dem,6,False
+readable/recording/Nah leave mi sound.rtf.txt,sound,5,True
+readable/recording/Nah leave mi sound.rtf.txt,mi,4,False
+readable/recording/Nah leave mi sound.rtf.txt,soundbwy,4,True
+readable/recording/Nah leave mi sound.rtf.txt,dis,3,True
+readable/recording/Nah leave mi sound.rtf.txt,leave,2,True
+readable/recording/Nah leave mi sound.rtf.txt,neva,2,True
+readable/recording/No is no - permanently.rtf.txt,mi,6,False
+readable/recording/No is no - permanently.rtf.txt,a,4,False
+readable/recording/No is no - permanently.rtf.txt,dem,4,False
+readable/recording/No is no - permanently.rtf.txt,nuh,3,False
+readable/recording/No is no - permanently.rtf.txt,fi,3,False
+readable/recording/No is no - permanently.rtf.txt,no,2,False
+readable/recording/No is no - permanently.rtf.txt,neva,2,True
+readable/recording/No is no - permanently.rtf.txt,nah,2,True
+readable/recording/Only one I need.rtf.txt,yuh,24,False
+readable/recording/Only one I need.rtf.txt,a,18,False
+readable/recording/Only one I need.rtf.txt,nuh,15,False
+readable/recording/Only one I need.rtf.txt,gal,13,False
+readable/recording/Only one I need.rtf.txt,do,13,False
+readable/recording/Only one I need.rtf.txt,up,11,False
+readable/recording/Only one I need.rtf.txt,say,10,False
+readable/recording/Only one I need.rtf.txt,fi,9,False
+readable/recording/Tell soo.rtf.txt,tell,34,True
+readable/recording/Tell soo.rtf.txt,a,13,False
+readable/recording/Tell soo.rtf.txt,yuh,11,False
+readable/recording/Tell soo.rtf.txt,dem,11,False
+readable/recording/Tell soo.rtf.txt,nuh,9,False
+readable/recording/Tell soo.rtf.txt,sooo,8,True
+readable/recording/Tell soo.rtf.txt,mi,6,False
+readable/recording/Tell soo.rtf.txt,cyaan,6,True
+readable/recording/Watering my inner.rtf.txt,a,38,False
+readable/recording/Watering my inner.rtf.txt,to,17,False
+readable/recording/Watering my inner.rtf.txt,the,14,False
+readable/recording/Watering my inner.rtf.txt,i,10,False
+readable/recording/Watering my inner.rtf.txt,di,9,False
+readable/recording/Watering my inner.rtf.txt,is,9,False
+readable/recording/Watering my inner.rtf.txt,out,9,False
+readable/recording/Watering my inner.rtf.txt,be,9,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,di,39,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,a,33,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,you,23,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,mi,20,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,tree,20,True
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,fi,18,False
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,top,17,True
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,ease,16,True
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,a,12,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,the,11,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,and,8,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,di,8,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,by,8,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,is,7,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,to,7,False
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,you,6,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,a,39,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,to,18,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,dem,15,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,we,14,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,where,12,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,gonna,12,True
+readable/songs/Daddy Ferma - To narrow.rtf.txt,di,12,False
+readable/songs/Daddy Ferma - To narrow.rtf.txt,do,10,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,a,28,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,to,17,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,and,13,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,i,13,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,the,12,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,you,11,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,is,11,False
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,di,10,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,a,37,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,di,31,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,mi,22,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,you,18,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,lyrics,13,True
+readable/songs/Daddy Ferma - What a ting.rtf.txt,i,12,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,it,10,False
+readable/songs/Daddy Ferma - What a ting.rtf.txt,and,9,False
