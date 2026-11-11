@@ -20,6 +20,7 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 | [Ämnen och fokus](wiki/Amnen-och-fokus.md) | Ämnesklassning separat från textens huvudfokus |
 | [Figurer och referenser](wiki/Figurer.md) | Artistpersonae, fiktiva figurer och kulturreferenser |
 | [Semantisk ordatlas](wiki/Semantik.md) | Mest använda ord, innehållsord, patois, fraser och kontext |
+| [Redaktionell närläsning](wiki/Redaktionell-analys.md) | Exempel på perspektiv, återkommande uttryck och genreblandning |
 | [Metod och datakvalitet](wiki/Korpus-och-metod.md) | Källor, definitionsregler, begränsningar |
 | [Rådata](analytics/) | CSV-filer, JSON och konkordans |
 | [Original](originals/) / [läsbara utgåvor](readable/) | Oförändrade original och separat textextraktion |

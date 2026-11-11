@@ -15,7 +15,7 @@
 
 ## Genre och ursprunglig form
 
-![Arkivfördelning](../analytics/charts/source_families.svg)
+![Arkivfördelning](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/source_families.svg)
 
 | Form/källfamilj | Filer | Andel |
 | --- | --- | --- |
@@ -32,7 +32,7 @@
 
 ## Tematiska signaler
 
-![Temamarkörer](../analytics/charts/themes.svg)
+![Temamarkörer](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/themes.svg)
 
 | Tematisk dimension | Filer | Andel | Fördelning |
 | --- | --- | --- | --- |
