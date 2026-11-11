@@ -125,6 +125,7 @@ def main():
     allwords=Counter(); allwords_no_refrain=Counter(); document_frequency=Counter()
     bigrams=Counter(); trigrams=Counter(); dialects=Counter()
     rows=[]; concordance=[]; semantic_context=defaultdict(Counter)
+    by_family=defaultdict(Counter); by_family_docfreq=defaultdict(Counter)
     for p in paths:
         rel=p.relative_to(ROOT).as_posix()
         original=p.read_text(encoding="utf-8-sig",errors="replace")
@@ -173,6 +174,8 @@ def main():
           "themes":themes,"subjects":subjects,"figures":figures,"focus":focus,
           "word_top":counts.most_common(8),"content_top":[x for x in counts.most_common() if x[0] not in STOP and len(x[0])>2][:8],
           "hash":hashlib.sha256(text.encode()).hexdigest()})
+        by_family[FAMILY.get(family,family)].update(words)
+        by_family_docfreq[FAMILY.get(family,family)].update(set(words))
     # Scope: all source files vs primary files excluding named alternate/backup files
     primary_rows=[r for r in rows if r["primary"]]
     occurrences=sum(x["tokens"] for x in rows)
@@ -209,6 +212,29 @@ def main():
     writecsv("bigrams.csv",["bigram","count"],[[" ".join(k),v] for k,v in bigrams.most_common()])
     writecsv("trigrams.csv",["trigram","count"],[[" ".join(k),v] for k,v in trigrams.most_common()])
     writecsv("concordance.csv",["word","source","line"],concordance)
+    # One file and one genre are distinct grains; do not sum overlapping theme groups.
+    writecsv("words_by_genre.csv",["source_genre","wordform","occurrences","document_frequency","per_1000_genre_tokens"],[
+      [fam,w,n,by_family_docfreq[fam][w],round(1000*n/max(1,sum(counts.values())),3)]
+      for fam,counts in sorted(by_family.items()) for w,n in counts.most_common()])
+    writecsv("top_words_by_work.csv",["source","wordform","count","is_content_word"],[
+      [r["path"],word,n,word not in STOP] for r in rows for word,n in r["word_top"]])
+    writecsv("theme_by_genre.csv",["genre","theme","tagged_files","all_genre_files","share_percent"],[
+      [gen,theme,sum(theme in r["themes"] for r in rows if r["genre"]==gen),sum(r["genre"]==gen for r in rows),
+        round(100*sum(theme in r["themes"] for r in rows if r["genre"]==gen)/max(1,sum(r["genre"]==gen for r in rows)),2)]
+      for gen in sorted(set(r["genre"] for r in rows)) for theme in THEMES])
+    writecsv("topic_by_genre.csv",["genre","topic","tagged_files","all_genre_files","share_percent"],[
+      [gen,sub,sum(sub in r["subjects"] for r in rows if r["genre"]==gen),sum(r["genre"]==gen for r in rows),
+        round(100*sum(sub in r["subjects"] for r in rows if r["genre"]==gen)/max(1,sum(r["genre"]==gen for r in rows)),2)]
+      for gen in sorted(set(r["genre"] for r in rows)) for sub in SUBJECTS])
+    theme_pairs=Counter()
+    for record in rows:
+      ordered=sorted(record["themes"])
+      for i in range(len(ordered)):
+        for j in range(i+1,len(ordered)):
+          theme_pairs[(ordered[i],ordered[j])]+=1
+    writecsv("theme_pairs.csv",["first_theme","second_theme","shared_source_files"],[
+      [a,b,n] for (a,b),n in theme_pairs.most_common()])
+
     writecsv("document_tags.csv",["source","genre_or_form","dimension","tag","matched_token_occurrences"],[
       [r["path"],r["genre"],d,k,n] for r in rows for d,label in [("theme","themes"),("subject","subjects"),("figure","figures")] for k,n in r[label].items()])
     writecsv("semantic_neighbors.csv",["key_word","neighbor","count"],[
@@ -244,11 +270,26 @@ def main():
      "> Kategorierna ovan är **lexikala indikatorer**, inte fastställda litteraturvetenskapliga tolkningar. Ett verk kan matcha flera teman. Dokument/fil är inte detsamma som unikt litterärt verk. \n")
     write(WIKI/"Genre-och-form.md","# Genre, form och källfamiljer\n\n"+nav+"\n\n"+
       "Genre här är en **provisorisk formklassning från ursprunglig arkivplacering**. Mappen 'recording' är inte en musikgenre, och många dokument är genreblandade.\n\n"+
-      table([["Form/källfamilj","Källfiler","Andel"],*family_rows])+"\n## Verk i varje form\n\n"+
+      table([["Form/källfamilj","Källfiler","Andel"],*family_rows])+
+      "\n## Tema per källfamilj\n\n"+
+      table([["Källfamilj","Tema","Filer","Andel inom gruppen"],*[
+        [gen,theme,sum(theme in r["themes"] for r in rows if r["genre"]==gen),
+        str(round(100*sum(theme in r["themes"] for r in rows if r["genre"]==gen)/max(1,n),1))+" %"]
+        for gen,n in genres.most_common() for theme in THEMES
+        if sum(theme in r["themes"] for r in rows if r["genre"]==gen)>=2]])+
+      "\n## Vanligaste innehållsord per källfamilj\n\n"+
+      "\n".join("### "+gen+"\n\n"+", ".join(w+" ("+str(n)+")" for w,n in by_family[gen].most_common() if w not in STOP and len(w)>2)[:1300]+"\n"
+        for gen,n in genres.most_common())+
+      "\n## Verk i varje form\n\n"+
       "\n".join(f"### {name} ({n})\n\n"+", ".join(ref(r["path"],r["title"]) for r in rows if r["genre"]==name)+"\n" for name,n in genres.most_common()))
     write(WIKI/"Teman-och-motiv.md","# Teman och motiv\n\n"+nav+"\n\n"+
       "Ett tema markeras när minst **tre ordträffar och två olika indikatorord** finns i samma källfil. Det är en transparent indexeringsregel, inte bevis på verkets budskap.\n\n"+
       table([["Tema","Antal källfiler","Andel"],*[r[:3] for r in theme_rows]])+
+      "\n## Samförekomst mellan teman\n\n"+
+      table([["Tema 1","Tema 2","Gemensamma filer"],*[
+        [a,b,n] for (a,b),n in theme_pairs.most_common(18)]])+
+      "\nMer data: [tema per källfamilj]("+REPO+"/blob/main/analytics/theme_by_genre.csv) och [temapar]("+
+      REPO+"/blob/main/analytics/theme_pairs.csv).\n\n"+
       "\n".join(f"\n### {name} — {n} filer\n\n"+", ".join(ref(r["path"],r["title"]) for r in rows if name in r["themes"])+"\n" for name,n in themes.most_common()))
     write(WIKI/"Amnen-och-fokus.md","# Ämnen och textens fokus\n\n"+nav+"\n\n"+
       "Ämne avser konkret behandlad sakfråga. Tema avser återkommande motiv. Fokus är en **provisorisk enkelklassning** genom prioriterade lexikala regler; det är inte säkerställd författaravsikt.\n\n## Ämnen\n\n"+
@@ -274,7 +315,10 @@ def main():
       "- [Trigrams]("+REPO+"/blob/main/analytics/trigrams.csv)",
       "- [Konkordans – exempelrader med källor]("+REPO+"/blob/main/analytics/concordance.csv)",
       "- [Ordgrannar inom tre token]("+REPO+"/blob/main/analytics/semantic_neighbors.csv)",
-      "- [Dokument och tematiska etiketter]("+REPO+"/blob/main/analytics/document_tags.csv)"])+
+      "- [Dokument och tematiska etiketter]("+REPO+"/blob/main/analytics/document_tags.csv)",
+      "- [Ordfrekvens per källfamilj]("+REPO+"/blob/main/analytics/words_by_genre.csv)",
+      "- [Ordfrekvens på verknivå]("+REPO+"/blob/main/analytics/top_words_by_work.csv)",
+      "- [Ämnen per genre]("+REPO+"/blob/main/analytics/topic_by_genre.csv)"])+
       "\n\n**Viktigt:** 'Semantisk analys' betyder här spårbar, regelbaserad betydelse- och kontextindexering, inte en språkmodells djupsemantiska klassning. Ord utan uppenbar synonymi har inte automatiskt slagits ihop. Fullständiga lemmatiseringar för svenska, engelska och jamaicansk patois skulle kräva separat språkvetenskaplig validering.\n")
     write(WIKI/"Korpus-och-metod.md","# Korpus och metod\n\n"+nav+"\n\n"+
       "## Analysenhet och täckning\n\n- Enheten är **en textfil**, inte ett unikt litterärt verk.\n"+
@@ -324,6 +368,10 @@ def main():
       "| [Original](originals/) / [läsbara utgåvor](readable/) | Oförändrade original och separat textextraktion |\n\n"
       "## Genrer och former – efter källarkivets familjer\n\n"+table([["Form/källfamilj","Källfiler","Andel"],*family_rows])+
       "## Återkommande teman – lexikala indikatorer\n\n"+table([["Tema","Källfiler","Andel","Visuell andel"],*theme_rows])+
+      "## Retoriskt fokus – provisorisk indexering\n\n"+
+      table([["Fokus","Källfiler"],*[[name,n] for name,n in focuses.most_common()]])+
+      "## Sakområden – ämnesklassning\n\n"+
+      table([["Ämne","Källfiler"],*[[name,n] for name,n in subjects.most_common()]])+
       "## Vanliga innehållsord\n\n"+table([["Ordform","Antal","Källfiler"],*[[w,n,document_frequency[w]] for w,n in corpus["most_frequent_content_words"][:15]]])+
       "\n## Röst och återkommande figurregister\n\n"+table([["Namn","Typ","Filer"],*[[n,FIGURES[n][0],v] for n,v in figures.most_common(10)]])+
       "\n## Redaktionell och vetenskaplig integritet\n\n"
