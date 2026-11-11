@@ -280,10 +280,10 @@ def main():
     WIKI.mkdir(exist_ok=True)
     nav=("[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · "
          "[Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · "
-         "[Figurer](Figurer.md) · [Semantik](Semantik.md) · [Metod](Korpus-och-metod.md)")
+         "[Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)")
     write(WIKI/"_Sidebar.md","\n".join(["# Texts-n-Lyrics",*[f"- [{name}]({page})" for name,page in [
       ("Hem","Home"),("Verkindex","Verkindex"),("Genre och form","Genre-och-form"),("Teman och motiv","Teman-och-motiv"),
-      ("Ämnen och fokus","Amnen-och-fokus"),("Figurer","Figurer"),("Semantik","Semantik"),("Korpus och metod","Korpus-och-metod")]]])+"\n")
+      ("Ämnen och fokus","Amnen-och-fokus"),("Figurer","Figurer"),("Semantik","Semantik"),("Redaktionell analys","Redaktionell-analys"),("Korpus och metod","Korpus-och-metod")]]])+"\n")
     write(WIKI/"Home.md", "# Texts-n-Lyrics – verk och språklig atlas\n\n"+nav+"\n\n"+
      "## Översikt\n\n"+table([["Mått","Verdi"],["Analysbara källfiler",len(rows)],["Primära källfiler (exklusive uttryckligt märkta varianter)",len(primary_rows)],
      ["Ordförekomster (inklusive upprepade refränger)",f"{occurrences:,}"],["Ordförekomster efter upprepade rader tagits bort",f"{nr_words:,}"],
