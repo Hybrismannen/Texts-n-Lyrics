@@ -1,0 +1,46 @@
+name: Publish corpus atlas to native GitHub Wiki
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'wiki/**'
+      - '.github/workflows/publish-native-wiki.yml'
+permissions:
+  contents: write
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check whether the native Wiki has been initialized
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          WIKI_REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+          if git ls-remote "$WIKI_REMOTE" HEAD >/dev/null 2>&1; then
+            echo 'initialized=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'initialized=false' >> "$GITHUB_OUTPUT"
+            echo "::notice::Native Wiki not initialized. In the repository Wiki tab create the first Home page, then rerun this workflow."
+          fi
+      - name: Sync generated pages without deleting unrelated pages
+        if: steps.check.outputs.initialized == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          WIKI_REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+          git clone --quiet --depth 1 "$WIKI_REMOTE" /tmp/anthology-wiki
+          cp wiki/*.md /tmp/anthology-wiki/
+          cd /tmp/anthology-wiki
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.md'
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Texts-n-Lyrics literary and semantic atlas"
+            git push
+          fi
