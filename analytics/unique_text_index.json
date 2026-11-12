@@ -2,9 +2,9 @@
   "definition": "One canonical, non-empty original text per normalized textual identity. Strong near-identical sources and explicit backups/versions collapse into canonical. Unreadable sources remain uncounted and visible. Editorial-only copies are excluded.",
   "source_files": 120,
   "readable_files": 116,
-  "canonical_unique_texts": 116,
-  "excluded_duplicate_or_version": 2,
-  "unreadable_or_too_short": 2,
+  "canonical_unique_texts": 117,
+  "excluded_duplicate_or_version": 3,
+  "unreadable_or_too_short": 0,
   "editorial_only_files": 2,
   "other_readable_file_count": 114,
   "records": [
@@ -790,14 +790,15 @@
     },
     {
       "original": "originals/lyrics/Untitled-archive-01.rtf",
-      "readable": null,
-      "text_hash": null,
-      "tokens": 0,
+      "readable": "readable/lyrics/----.rtf.txt",
+      "text_hash": "531a7a650c4bcab98e6e9aacf1969e10561442bc1a9db1a8b4e203fefc5f62b4",
+      "tokens": 103,
       "is_version": false,
       "title_key": "untitledarchive01",
-      "status": "unreadable_or_too_short",
-      "canonical": null,
-      "similarity": null
+      "status": "canonical",
+      "canonical": "originals/lyrics/Untitled-archive-01.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
     },
     {
       "original": "originals/lyrics/WC-WC 2010.rtf",
@@ -885,14 +886,15 @@
     },
     {
       "original": "originals/lyrics/_versions/Summer breeze - alternate.docx",
-      "readable": null,
-      "text_hash": null,
-      "tokens": 0,
+      "readable": "readable/lyrics/Summer breeze.docx.txt",
+      "text_hash": "d04e9d938e6cfd48482ab146ab38ebd035d24d24e9cbbad48e87a444188a0e10",
+      "tokens": 373,
       "is_version": true,
       "title_key": "summerbreeze",
-      "status": "unreadable_or_too_short",
-      "canonical": null,
-      "similarity": null
+      "status": "duplicate_or_version",
+      "canonical": "originals/lyrics/Summer breeze.doc",
+      "similarity": 0.8298,
+      "reason": "explicit_named_version"
     },
     {
       "original": "originals/lyrics/refräng.doc",
@@ -1793,7 +1795,8 @@
     {
       "canonical": "originals/lyrics/Summer breeze.doc",
       "members": [
-        "originals/lyrics/Summer breeze.doc"
+        "originals/lyrics/Summer breeze.doc",
+        "originals/lyrics/_versions/Summer breeze - alternate.docx"
       ]
     },
     {
@@ -1836,6 +1839,12 @@
       "canonical": "originals/lyrics/Two shoelace inna tangle.rtf",
       "members": [
         "originals/lyrics/Two shoelace inna tangle.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Untitled-archive-01.rtf",
+      "members": [
+        "originals/lyrics/Untitled-archive-01.rtf"
       ]
     },
     {
@@ -2147,5 +2156,5 @@
       ]
     }
   ],
-  "unmatched_text_files": 5
+  "unmatched_text_files": 3
 }
