@@ -10,6 +10,7 @@ from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from urllib.parse import quote
+from unique_texts import build as build_unique_index
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "analytics"
@@ -129,17 +130,19 @@ def tags(text: str, lex: dict, min_total:int=3, min_types:int=2) -> dict:
 def genus(path: Path) -> str:
     parts = path.relative_to(ROOT).parts
     return parts[1] if len(parts) > 1 else parts[0]
-def corpus_paths():
-    readable=[p for p in (ROOT/"readable").rglob("*.txt") if "_editorial" not in p.parts]
-    direct=list((ROOT/"originals"/"other").glob("*.txt")) + list((ROOT/"originals"/"chat-poetry").glob("*.txt"))
-    return sorted(readable+direct)
+def corpus_paths(index:dict):
+    """Exactly one source-linked readable text per canonical original; never originals+copies."""
+    return sorted(ROOT/r["readable"] for r in index["records"]
+                  if r["status"]=="canonical" and r["readable"])
 def primary(path: str) -> bool:
-    low=path.casefold()
-    return not any(k in low for k in ["/_versions/","/_unclassified/","backup of","säkerhetskopia"])
+    # corpus_paths already selects canonical texts only.
+    return True
 def figure_tags(text: str) -> dict:
     return {n:sum(mentions(text,t) for t in terms) for n,(_,terms) in FIGURES.items() if sum(mentions(text,t) for t in terms)>0}
 def main():
-    paths=corpus_paths()
+    unique_index=build_unique_index()
+    paths=corpus_paths(unique_index)
+    assert len(paths)==unique_index["canonical_unique_texts"],"Unique-text source mismatch"
     if not paths: raise SystemExit("No source text available")
     allwords=Counter(); allwords_no_refrain=Counter(); document_frequency=Counter()
     bigrams=Counter(); trigrams=Counter(); dialects=Counter()
@@ -195,7 +198,7 @@ def main():
           "hash":hashlib.sha256(text.encode()).hexdigest()})
         by_family[FAMILY.get(family,family)].update(words)
         by_family_docfreq[FAMILY.get(family,family)].update(set(words))
-    # Scope: all source files vs primary files excluding named alternate/backup files
+    # Scope: ONLY canonical unique source texts, not physical file copies or versions.
     primary_rows=[r for r in rows if r["primary"]]
     occurrences=sum(x["tokens"] for x in rows)
     nr_words=sum(x["nonrepeated_tokens"] for x in rows)
@@ -206,10 +209,15 @@ def main():
     figures=Counter(k for r in rows for k in r["figures"])
     exact=defaultdict(list)
     for r in rows: exact[r["hash"]].append(r["path"])
-    duplicates=[v for v in exact.values() if len(v)>1]
+    duplicates=[g["members"] for g in unique_index["groups"] if len(g["members"])>1]
     corpus={
       "updated_at":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-      "scope":"Source files, not verified unique works. Editorial transcriptions excluded.",
+      "scope":"Canonical unique source texts only; readable copies and versions excluded. A collection file may still hold multiple works.",
+      "physical_original_files":unique_index["source_files"],
+      "readable_copy_files":unique_index["readable_files"],
+      "canonical_unique_texts":unique_index["canonical_unique_texts"],
+      "copies_or_versions_excluded":unique_index["excluded_duplicate_or_version"],
+      "unreadable_originals_excluded":unique_index["unreadable_or_too_short"],
       "documents":len(rows),"primary_documents":len(primary_rows),
       "tokens_including_refrains":occurrences,"tokens_without_repeated_lines":nr_words,
       "distinct_wordforms":len(allwords),"exact_duplicate_groups":duplicates,
@@ -278,19 +286,20 @@ def main():
     svg_bar_chart(OUT/"charts"/"content_words.svg","Mest använda innehållsord",
       corpus["most_frequent_content_words"][:16],color="#4d6287")
     WIKI.mkdir(exist_ok=True)
-    nav=("[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · "
+    nav=("[Hem](Home.md) · [Unika texter](Unika-texter.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · "
          "[Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · "
          "[Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)")
     write(WIKI/"_Sidebar.md","\n".join(["# Texts-n-Lyrics",*[f"- [{name}]({page}.md)" for name,page in [
-      ("Hem","Home"),("Verkindex","Verkindex"),("Genre och form","Genre-och-form"),("Teman och motiv","Teman-och-motiv"),
+      ("Hem","Home"),("Unika texter","Unika-texter"),("Verkindex","Verkindex"),("Genre och form","Genre-och-form"),("Teman och motiv","Teman-och-motiv"),
       ("Ämnen och fokus","Amnen-och-fokus"),("Figurer","Figurer"),("Semantik","Semantik"),("Redaktionell analys","Redaktionell-analys"),("Korpus och metod","Korpus-och-metod")]]])+"\n")
+# source count on wiki: only canonical texts
     write(WIKI/"Home.md", "# Texts-n-Lyrics – verk och språklig atlas\n\n"+nav+"\n\n"+
-     "## Översikt\n\n"+table([["Mått","Verdi"],["Analysbara källfiler",len(rows)],["Primära källfiler (exklusive uttryckligt märkta varianter)",len(primary_rows)],
+     "## Översikt\n\n"+table([["Mått","Verdi"],["Unika källtexter",len(rows)],["Fysiska originalfiler",unique_index["source_files"]],["Dubbletter eller versioner (ej räknade)",unique_index["excluded_duplicate_or_version"]],["Läskopior (räknas ej separat)",unique_index["readable_files"]],
      ["Ordförekomster (inklusive upprepade refränger)",f"{occurrences:,}"],["Ordförekomster efter upprepade rader tagits bort",f"{nr_words:,}"],
-     ["Distinkta ordformer",f"{len(allwords):,}"],["Exakta dubbla textversioner",len(duplicates)]])+
+     ["Distinkta ordformer",f"{len(allwords):,}"],["Sammanslagna textfamiljer",len(duplicates)]])+
      "\n## Genre och ursprunglig form\n\n![Arkivfördelning](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/source_families.svg)\n\n"+table([["Form/källfamilj","Filer","Andel"],*family_rows])+
      "\n## Tematiska signaler\n\n![Temamarkörer](https://raw.githubusercontent.com/Hybrismannen/Texts-n-Lyrics/main/analytics/charts/themes.svg)\n\n"+table([["Tematisk dimension","Filer","Andel","Fördelning"],*theme_rows])+
-     "\n## Vidare analys\n\n- [Läs direkt ur verkindex](Verkindex.md)\n- [Ämne respektive retoriskt fokus](Amnen-och-fokus.md)\n- [Figurer, karaktärer och artistpersonae](Figurer.md)\n- [Ordformer, innehållsord, dialekt, n-gram och konkordans](Semantik.md)\n- [Korpus, osäkerhet, urval och metod](Korpus-och-metod.md)\n\n"+
+     "\n## Vidare analys\n\n- [Säkrade unika texter och borttagna dubbelräkningar](Unika-texter.md)\n- [Läs direkt ur verkindex](Verkindex.md)\n- [Ämne respektive retoriskt fokus](Amnen-och-fokus.md)\n- [Figurer, karaktärer och artistpersonae](Figurer.md)\n- [Ordformer, innehållsord, dialekt, n-gram och konkordans](Semantik.md)\n- [Korpus, osäkerhet, urval och metod](Korpus-och-metod.md)\n\n"+
      "> Kategorierna ovan är **lexikala indikatorer**, inte fastställda litteraturvetenskapliga tolkningar. Ett verk kan matcha flera teman. Dokument/fil är inte detsamma som unikt litterärt verk. \n")
     write(WIKI/"Genre-och-form.md","# Genre, form och källfamiljer\n\n"+nav+"\n\n"+
       "Genre här är en **provisorisk formklassning från ursprunglig arkivplacering**. Mappen 'recording' är inte en musikgenre, och många dokument är genreblandade.\n\n"+
@@ -358,9 +367,9 @@ def main():
       "- [Ämnen per genre]("+REPO+"/blob/main/analytics/topic_by_genre.csv)"])+
       "\n\n**Viktigt:** 'Semantisk analys' betyder här spårbar, regelbaserad betydelse- och kontextindexering, inte en språkmodells djupsemantiska klassning. Ord utan uppenbar synonymi har inte automatiskt slagits ihop. Fullständiga lemmatiseringar för svenska, engelska och jamaicansk patois skulle kräva separat språkvetenskaplig validering.\n")
     write(WIKI/"Korpus-och-metod.md","# Korpus och metod\n\n"+nav+"\n\n"+
-      "## Analysenhet och täckning\n\n- Enheten är **en textfil**, inte ett unikt litterärt verk.\n"+
-      f"- Omfattning: **{len(rows)} analysbara filer**. Editoriala transkriptioner ligger utanför korpus.\n"+
-      f"- Explicit versions-/backupmärkta filer: **{len(rows)-len(primary_rows)}** (gäller inte oidentifierade innehållsvarianter).\n"+
+      "## Analysenhet och täckning\n\n- Enheten är **en kanoniskt unik källtext**, inte ett fysiskt filobjekt eller säkert ett litterärt verk.\n"+
+      f"- Omfattning: **{len(rows)} unika källtexter** från {unique_index['source_files']} originalfiler. Editoriala transkriptioner ingår inte.\n"+
+      f"- Sammanslagna källversioner: **{unique_index['excluded_duplicate_or_version']}**; läskopior räknas inte igen.\n"+
       "- Läsbara versioner analyseras; originalformaten förblir oförändrade i originals/.\n"+
       "- Dokument i samlingsfiler kan motsvara flera verk. Inga upphov har gissats fram.\n"+
       "- Ursprungsdatum saknas för många verk. Git-importdatum får inte användas som skrivdatum.\n\n"+
@@ -382,18 +391,40 @@ def main():
       "- [Källmanifest med Git-hashar]("+REPO+"/blob/main/catalog/SOURCE_MANIFEST.md)\n\n"+
       "Det går att köra analysen lokalt med kommandot 'python3 tools/analyze_archive.py'.\n")
     write(WIKI/"Verkindex.md","# Verkindex\n\n"+nav+"\n\n"+
-      f"**{len(rows)} textfiler** med spårbara länkar till själva texten. Vissa rader avser ett utkast eller en alternativ version, inte ett nytt verk.\n\n"+
+      f"**{len(rows)} unika källtexter** med spårbara länkar till själva texten. Original, alternativa versioner och läskopia räknas inte flera gånger. Ett samlingsdokument kan däremot innehålla flera verk.\n\n"+
       table([["Titel","Form/källfamilj","Ord","Fokus","Primär källa"],*[
         [ref(r["path"],r["title"]),r["genre"],r["tokens"],r["focus"],"Ja" if r["primary"] else "Version/backup"] for r in sorted(rows,key=lambda x:(x["genre"],x["title"].casefold()))]]))
+    # Canonical index with every source, readable counterpart and merge rationale.
+    canonical_rows=[r for r in unique_index["records"] if r["status"]=="canonical"]
+    merged_rows=[r for r in unique_index["records"] if r["status"]=="duplicate_or_version"]
+    missing_rows=[r for r in unique_index["records"] if r["status"]=="unreadable_or_too_short"]
+    write(WIKI/"Unika-texter.md","# Unika textkällor och deduplicering\n\n"+nav+"\n\n"+
+      "## Kanonisk sammanräkning\n\n"+
+      table([["Definition","Antal"],["Fysiska originalfiler",unique_index["source_files"]],
+        ["Kanoniskt unika källtexter",len(rows)],["Sammanslagna kopior/varianter",len(merged_rows)],
+        ["Ej textläsbara källor",len(missing_rows)],["Läskopior (räknas aldrig separat)",unique_index["readable_files"]],
+        ["Redaktionella transkriptioner (uteslutna)",unique_index["editorial_only_files"]]])+
+      "\n## De unika originalen\n\n"+
+      table([["Original","Läskopia","Ord"],*[[ref(x["original"],Path(x["original"]).name),
+         ref(x["readable"],"Läs text") if x["readable"] else "Ingen",x["tokens"]] for x in canonical_rows]])+
+      "\n## Uteslutna dubbelräkningar\n\n"+
+      table([["Kopia eller version","Kanoniskt original","Orsak","Likhet, 5-grams Jaccard"],*[
+         [ref(x["original"],Path(x["original"]).name),ref(x["canonical"],Path(x["canonical"]).name),
+          x.get("reason",""),str(x.get("similarity",""))] for x in merged_rows]])+
+      "\n## Ej analyserbara källor\n\n"+
+      table([["Sökväg","Status"],*[[x["original"],"Saknar läsbar text"] for x in missing_rows]])+
+      "\n**Metod:** normaliserade skiftlägen, Unicode och mellanrum; stark femordsöverensstämmelse (Jaccard minst 0,93) eller uttryckligen märkt version med matchande bastitel. Äldre fulltextregister och samlingsfiler räknas inte som ytterligare självständiga verk utan uppdelning. Ingen fil raderas.\n\n"+
+      "[Ladda ned hela spårbarhetsregistret](../analytics/unique_text_index.csv) · [JSON med detaljer](../analytics/unique_text_index.json)\n")
     # Non-wiki GitHub README (generated)
     readme=("# Texts-n-Lyrics · Linus Fast\n\n"
       "Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, prosalyrik, reggae-/dancehalltexter, rap, grime, dubplates och musikaliska berättelser.\n\n"
-      "## Arkivet i siffror\n\n"+table([["Källfiler med analyserbar text","Ordförekomster","Distinkta ordformer","Upprepade rader borttagna (ord)"],
+      "## Arkivet i siffror – unika källtexter\n\n"+table([["Unika textkällor","Ordförekomster","Distinkta ordformer","Upprepade rader borttagna (ord)"],
       [str(len(rows)),f"{occurrences:,}",f"{len(allwords):,}",f"{nr_words:,}"]])+
-      "**Tolkning:** siffrorna avser källfiler, inte verifierat antal unika verk. Refräng- och säkerhetskopieeffekter redovisas separat.\n\n"
+      f"**Deduplicering:** {unique_index['source_files']} fysiska original → **{len(rows)} unika källtexter**; {unique_index['excluded_duplicate_or_version']} dubbletter/versioner exkluderade. {unique_index['readable_files']} läskopior räknas inte separat. En källtext kan innehålla flera verk, så antalet är inte ett slutgiltigt antal litterära verk.\n\n"
       "## Utforska samlingen\n\n"
       "| Ingång | Beskrivning |\n| --- | --- |\n"
       "| [Wiki/atlas – startsida](wiki/Home.md) | Förklaringar, navigering och statistisk översikt |\n"
+      "| [Unika texter](wiki/Unika-texter.md) | Kanoniska källtexter och sammanslagna kopior |\n"
       "| [Verkindex](wiki/Verkindex.md) | Bläddra per titel, form, omfång och fokus |\n"
       "| [Genre och form](wiki/Genre-och-form.md) | Källfamiljer och provisoriska genreklasser |\n"
       "| [Teman och motiv](wiki/Teman-och-motiv.md) | Kärlek, samhälle, musik, natur, existens m.m. |\n"
