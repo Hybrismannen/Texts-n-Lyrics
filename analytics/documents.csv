@@ -1,5 +1,6 @@
 path,title,form_source,primary,tokens,distinct_wordforms,nonrepeated_line_tokens,lexical_diversity,focus,themes,subjects,figures
 originals/chat-poetry/Höströst - Höstrusk.txt,Höströst - Höstrusk,Dikt i samtalsarkiv,True,351,230,351,0.6553,Ej fastställt,"Vardag, hem och arbete",,
+originals/lyrics/Trains show us!.txt,Trains show us!,Musiklyrik / dancehall-reggae (blandat),True,93,73,93,0.7849,Ej fastställt,"Liv, existens och identitet",,
 originals/other/Blickar möts.txt,Blickar möts,Fristående text,True,259,135,224,0.5212,Ej fastställt,,Kärlek och partnerskap,Klara
 originals/other/Parentalhood in the stars.txt,Parentalhood in the stars,Fristående text,True,473,266,473,0.5624,Ej fastställt,"Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Vardag, hem och arbete","Kärlek och partnerskap; Barn, familj och föräldraskap",Captain Picard
 originals/other/Svensk text.txt,Svensk text,Fristående text,True,40,38,40,0.95,Ej fastställt,,,
@@ -19,7 +20,6 @@ readable/lyrics/Aks mi bout lyrics.doc.txt,Aks mi bout lyrics,Musiklyrik / dance
 readable/lyrics/All good is digital.doc.txt,All good is digital,Musiklyrik / dancehall-reggae (blandat),True,434,187,283,0.4309,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Liv, existens och identitet",Teknik och digitalisering,Daddy Ferma
 readable/lyrics/Any Kind of.rtf.txt,Any Kind of,Musiklyrik / dancehall-reggae (blandat),True,78,53,68,0.6795,Ej fastställt,,,
 readable/lyrics/Backseat mind.rtf.txt,Backseat mind,Musiklyrik / dancehall-reggae (blandat),True,316,108,161,0.3418,Musik och scen,"Musik, ljud och dans; Språk, kunskap och tänkande","Musik, scen och ljud",
-readable/lyrics/Backup of Wordz and tinker.doc.txt,Backup of Wordz and tinker,Musiklyrik / dancehall-reggae (blandat),False,366,225,351,0.6148,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
 readable/lyrics/Bad bwy.doc.txt,Bad bwy,Musiklyrik / dancehall-reggae (blandat),True,246,123,201,0.5,Ej fastställt,"Konflikt, hot och våld",Krig och våld,Daddy Ferma
 readable/lyrics/Blood first.rtf.txt,Blood first,Musiklyrik / dancehall-reggae (blandat),True,353,160,249,0.4533,Ej fastställt,,,
 readable/lyrics/Burglary.rtf.txt,Burglary,Musiklyrik / dancehall-reggae (blandat),True,474,237,346,0.5,Kärlek och relation,Kärlek och relationer,"Kärlek och partnerskap; Musik, scen och ljud",
@@ -64,13 +64,11 @@ readable/lyrics/Sound roam silence.rtf.txt,Sound roam silence,Musiklyrik / dance
 readable/lyrics/Stock Market.rtf.txt,Stock Market,Musiklyrik / dancehall-reggae (blandat),True,416,202,334,0.4856,Samhällskritik,"Politik, makt och ojämlikhet; Tid, minne och förändring; Vardag, hem och arbete","Ekonomi, marknad och klass",
 readable/lyrics/Sudda bort.rtf.txt,Sudda bort,Musiklyrik / dancehall-reggae (blandat),True,206,108,166,0.5243,Ej fastställt,"Liv, existens och identitet",,
 readable/lyrics/Summer breeze.doc.txt,Summer breeze,Musiklyrik / dancehall-reggae (blandat),True,374,220,346,0.5882,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
-readable/lyrics/Summer breeze.docx.txt,Summer breeze,Musiklyrik / dancehall-reggae (blandat),True,373,220,345,0.5898,Språk och reflektion,"Natur, rum och kosmos; Språk, kunskap och tänkande","Natur, väder och årstider",Daddy Ferma
 readable/lyrics/Sweet dreams.rtf.txt,Sweet dreams,Musiklyrik / dancehall-reggae (blandat),True,62,55,62,0.8871,Ej fastställt,,,Jah Cure
 readable/lyrics/The Hatter.rtf.txt,The Hatter,Musiklyrik / dancehall-reggae (blandat),True,174,105,174,0.6034,Ej fastställt,"Liv, existens och identitet",,Daddy Ferma; The Hatter
 "readable/lyrics/The shine is able, the loss is stable.rtf.txt","The shine is able, the loss is stable",Musiklyrik / dancehall-reggae (blandat),True,293,140,212,0.4778,Ej fastställt,Solidaritet och gemenskap,,Santa
 readable/lyrics/Three Citys.doc.txt,Three Citys,Musiklyrik / dancehall-reggae (blandat),True,489,194,333,0.3967,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Vardag, hem och arbete","Musik, scen och ljud; Resor och geografi",Daddy Ferma
 readable/lyrics/Till studio session--.rtf.txt,Till studio session--,Musiklyrik / dancehall-reggae (blandat),True,139,103,139,0.741,Musik och scen,"Musik, ljud och dans","Musik, scen och ljud",
-readable/lyrics/Trains show us!.txt.txt,Trains show us!.txt,Musiklyrik / dancehall-reggae (blandat),True,93,73,93,0.7849,Ej fastställt,"Liv, existens och identitet",,
 readable/lyrics/Two shoelace inna tangle.rtf.txt,Two shoelace inna tangle,Musiklyrik / dancehall-reggae (blandat),True,518,265,452,0.5116,Kärlek och relation,"Kärlek och relationer; Musik, ljud och dans; Tid, minne och förändring; Liv, existens och identitet","Musik, scen och ljud; Natur, väder och årstider",Daddy Ferma
 readable/lyrics/WC-WC 2010.rtf.txt,WC-WC 2010,Musiklyrik / dancehall-reggae (blandat),True,213,152,210,0.7136,Ej fastställt,,,
 readable/lyrics/Wad is di meaning of lovin.doc.txt,Wad is di meaning of lovin,Musiklyrik / dancehall-reggae (blandat),True,491,229,434,0.4664,Kärlek och relation,"Kärlek och relationer; Konflikt, hot och våld; Liv, existens och identitet; Vardag, hem och arbete; Språk, kunskap och tänkande",Kärlek och partnerskap,Captain Kirk
@@ -92,7 +90,6 @@ readable/poetry/Not so much of anything-moment is now .rtf.txt,Not so much of an
 readable/poetry/Oral quest.rtf.txt,Oral quest,Dikt och prosalyrik,True,305,159,286,0.5213,Språk och reflektion,"Liv, existens och identitet; Språk, kunskap och tänkande",,
 readable/poetry/Pikant är livet.rtf.txt,Pikant är livet,Dikt och prosalyrik,True,127,88,114,0.6929,Ej fastställt,"Liv, existens och identitet",,Klara
 readable/poetry/Places ought to parade.rtf.txt,Places ought to parade,Dikt och prosalyrik,True,221,168,221,0.7602,Ej fastställt,"Tid, minne och förändring; Liv, existens och identitet",,
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,Säkerhetskopia avMaka Löst dikt,Dikt och prosalyrik,False,177,126,170,0.7119,Ej fastställt,,,
 readable/poetry/The Hy The Man the story.rtf.txt,The Hy The Man the story,Dikt och prosalyrik,True,556,286,556,0.5144,Musik och scen,"Musik, ljud och dans; Tid, minne och förändring; Natur, rum och kosmos; Liv, existens och identitet; Språk, kunskap och tänkande",,The Hy The Man; Pegasus
 readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,Triumf för é allt. - dikt-visa,Dikt och prosalyrik,True,180,130,172,0.7222,Ej fastställt,,,
 readable/poetry/You and Mr Pan.doc.txt,You and Mr Pan,Dikt och prosalyrik,True,306,162,289,0.5294,Språk och reflektion,"Språk, kunskap och tänkande",,Mr Pan

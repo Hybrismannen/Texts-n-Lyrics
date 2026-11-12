@@ -1,5 +1,6 @@
 # Texts-n-Lyrics
 - [Hem](Home.md)
+- [Unika texter](Unika-texter.md)
 - [Verkindex](Verkindex.md)
 - [Genre och form](Genre-och-form.md)
 - [Teman och motiv](Teman-och-motiv.md)

@@ -1,8 +1,8 @@
 # Verkindex
 
-[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
+[Hem](Home.md) · [Unika texter](Unika-texter.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
 
-**120 textfiler** med spårbara länkar till själva texten. Vissa rader avser ett utkast eller en alternativ version, inte ett nytt verk.
+**117 unika källtexter** med spårbara länkar till själva texten. Original, alternativa versioner och läskopia räknas inte flera gånger. Ett samlingsdokument kan däremot innehålla flera verk.
 
 | Titel | Form/källfamilj | Ord | Fokus | Primär källa |
 | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@
 | [Oral quest](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Oral%20quest.rtf.txt) | Dikt och prosalyrik | 305 | Språk och reflektion | Ja |
 | [Pikant är livet](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Pikant%20%C3%A4r%20livet.rtf.txt) | Dikt och prosalyrik | 127 | Ej fastställt | Ja |
 | [Places ought to parade](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Places%20ought%20to%20parade.rtf.txt) | Dikt och prosalyrik | 221 | Ej fastställt | Ja |
-| [Säkerhetskopia avMaka Löst dikt](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/S%C3%A4kerhetskopia%20avMaka%20L%C3%B6st%20dikt.doc.txt) | Dikt och prosalyrik | 177 | Ej fastställt | Version/backup |
 | [The Hy The Man the story](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/The%20Hy%20The%20Man%20the%20story.rtf.txt) | Dikt och prosalyrik | 556 | Musik och scen | Ja |
 | [Triumf för é allt. - dikt-visa](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Triumf%20f%C3%B6r%20%C3%A9%20allt.%20-%20dikt-visa.rtf.txt) | Dikt och prosalyrik | 180 | Ej fastställt | Ja |
 | [You and Mr Pan](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/You%20and%20Mr%20Pan.doc.txt) | Dikt och prosalyrik | 306 | Språk och reflektion | Ja |
@@ -62,7 +61,6 @@
 | [All good is digital](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/All%20good%20is%20digital.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 434 | Kärlek och relation | Ja |
 | [Any Kind of](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Any%20Kind%20of.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 78 | Ej fastställt | Ja |
 | [Backseat mind](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Backseat%20mind.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 316 | Musik och scen | Ja |
-| [Backup of Wordz and tinker](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Backup%20of%20Wordz%20and%20tinker.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 366 | Musik och scen | Version/backup |
 | [Bad bwy](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Bad%20bwy.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 246 | Ej fastställt | Ja |
 | [Blood first](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Blood%20first.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 353 | Ej fastställt | Ja |
 | [Burglary](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Burglary.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 474 | Kärlek och relation | Ja |
@@ -109,13 +107,12 @@
 | [Stock Market](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Stock%20Market.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 416 | Samhällskritik | Ja |
 | [Sudda bort](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Sudda%20bort.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 206 | Ej fastställt | Ja |
 | [Summer breeze](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Summer%20breeze.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 374 | Språk och reflektion | Ja |
-| [Summer breeze](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Summer%20breeze.docx.txt) | Musiklyrik / dancehall-reggae (blandat) | 373 | Språk och reflektion | Ja |
 | [Sweet dreams](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Sweet%20dreams.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 62 | Ej fastställt | Ja |
 | [The Hatter](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/The%20Hatter.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 174 | Ej fastställt | Ja |
 | [The shine is able, the loss is stable](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/The%20shine%20is%20able%2C%20the%20loss%20is%20stable.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 293 | Ej fastställt | Ja |
 | [Three Citys](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Three%20Citys.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 489 | Kärlek och relation | Ja |
 | [Till studio session--](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Till%20studio%20session--.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 139 | Musik och scen | Ja |
-| [Trains show us!.txt](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Trains%20show%20us%21.txt.txt) | Musiklyrik / dancehall-reggae (blandat) | 93 | Ej fastställt | Ja |
+| [Trains show us!](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Trains%20show%20us%21.txt) | Musiklyrik / dancehall-reggae (blandat) | 93 | Ej fastställt | Ja |
 | [Two shoelace inna tangle](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Two%20shoelace%20inna%20tangle.rtf.txt) | Musiklyrik / dancehall-reggae (blandat) | 518 | Kärlek och relation | Ja |
 | [tyy](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/tyy.docx.txt) | Musiklyrik / dancehall-reggae (blandat) | 70 | Musik och scen | Ja |
 | [Wad is di meaning of lovin](https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Wad%20is%20di%20meaning%20of%20lovin.doc.txt) | Musiklyrik / dancehall-reggae (blandat) | 491 | Kärlek och relation | Ja |

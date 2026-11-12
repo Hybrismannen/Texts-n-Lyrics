@@ -1,5 +1,6 @@
 source,genre_or_form,dimension,tag,matched_token_occurrences
 originals/chat-poetry/Höströst - Höstrusk.txt,Dikt i samtalsarkiv,theme,"Vardag, hem och arbete",3
+originals/lyrics/Trains show us!.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Liv, existens och identitet",4
 originals/other/Blickar möts.txt,Fristående text,subject,Kärlek och partnerskap,2
 originals/other/Blickar möts.txt,Fristående text,figure,Klara,1
 originals/other/Parentalhood in the stars.txt,Fristående text,theme,"Tid, minne och förändring",7
@@ -62,8 +63,6 @@ readable/lyrics/All good is digital.doc.txt,Musiklyrik / dancehall-reggae (bland
 readable/lyrics/Backseat mind.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Musik, ljud och dans",3
 readable/lyrics/Backseat mind.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Språk, kunskap och tänkande",7
 readable/lyrics/Backseat mind.rtf.txt,Musiklyrik / dancehall-reggae (blandat),subject,"Musik, scen och ljud",3
-readable/lyrics/Backup of Wordz and tinker.doc.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Musik, ljud och dans",8
-readable/lyrics/Backup of Wordz and tinker.doc.txt,Musiklyrik / dancehall-reggae (blandat),subject,"Musik, scen och ljud",6
 readable/lyrics/Bad bwy.doc.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Konflikt, hot och våld",3
 readable/lyrics/Bad bwy.doc.txt,Musiklyrik / dancehall-reggae (blandat),subject,Krig och våld,3
 readable/lyrics/Bad bwy.doc.txt,Musiklyrik / dancehall-reggae (blandat),figure,Daddy Ferma,2
@@ -180,10 +179,6 @@ readable/lyrics/Summer breeze.doc.txt,Musiklyrik / dancehall-reggae (blandat),th
 readable/lyrics/Summer breeze.doc.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Språk, kunskap och tänkande",3
 readable/lyrics/Summer breeze.doc.txt,Musiklyrik / dancehall-reggae (blandat),subject,"Natur, väder och årstider",17
 readable/lyrics/Summer breeze.doc.txt,Musiklyrik / dancehall-reggae (blandat),figure,Daddy Ferma,2
-readable/lyrics/Summer breeze.docx.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Natur, rum och kosmos",16
-readable/lyrics/Summer breeze.docx.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Språk, kunskap och tänkande",3
-readable/lyrics/Summer breeze.docx.txt,Musiklyrik / dancehall-reggae (blandat),subject,"Natur, väder och årstider",17
-readable/lyrics/Summer breeze.docx.txt,Musiklyrik / dancehall-reggae (blandat),figure,Daddy Ferma,2
 readable/lyrics/Sweet dreams.rtf.txt,Musiklyrik / dancehall-reggae (blandat),figure,Jah Cure,1
 readable/lyrics/The Hatter.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Liv, existens och identitet",4
 readable/lyrics/The Hatter.rtf.txt,Musiklyrik / dancehall-reggae (blandat),figure,Daddy Ferma,1
@@ -198,7 +193,6 @@ readable/lyrics/Three Citys.doc.txt,Musiklyrik / dancehall-reggae (blandat),subj
 readable/lyrics/Three Citys.doc.txt,Musiklyrik / dancehall-reggae (blandat),figure,Daddy Ferma,1
 readable/lyrics/Till studio session--.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Musik, ljud och dans",4
 readable/lyrics/Till studio session--.rtf.txt,Musiklyrik / dancehall-reggae (blandat),subject,"Musik, scen och ljud",2
-readable/lyrics/Trains show us!.txt.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Liv, existens och identitet",4
 readable/lyrics/Two shoelace inna tangle.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,Kärlek och relationer,3
 readable/lyrics/Two shoelace inna tangle.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Musik, ljud och dans",4
 readable/lyrics/Two shoelace inna tangle.rtf.txt,Musiklyrik / dancehall-reggae (blandat),theme,"Tid, minne och förändring",6

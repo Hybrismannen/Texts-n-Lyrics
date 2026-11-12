@@ -5,57 +5,57 @@
 <text x="30" y="118" font-size="15" fill="#25474f" font-family="system-ui,Arial">man</text>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#e2ebec"/>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">120</text>
+<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">119</text>
 <text x="30" y="161" font-size="15" fill="#25474f" font-family="system-ui,Arial">tell</text>
 <rect x="475" y="145" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="145" width="434" height="22" rx="6" fill="#4d6287"/>
+<rect x="475" y="145" width="438" height="22" rx="6" fill="#4d6287"/>
 <text x="955" y="161" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">112</text>
 <text x="30" y="204" font-size="15" fill="#25474f" font-family="system-ui,Arial">dis</text>
 <rect x="475" y="188" width="465" height="22" rx="6" fill="#e2ebec"/>
 <rect x="475" y="188" width="391" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">101</text>
+<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">100</text>
 <text x="30" y="247" font-size="15" fill="#25474f" font-family="system-ui,Arial">love</text>
 <rect x="475" y="231" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="231" width="337" height="22" rx="6" fill="#4d6287"/>
+<rect x="475" y="231" width="340" height="22" rx="6" fill="#4d6287"/>
 <text x="955" y="247" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">87</text>
 <text x="30" y="290" font-size="15" fill="#25474f" font-family="system-ui,Arial">life</text>
 <rect x="475" y="274" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="274" width="333" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="290" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">86</text>
+<rect x="475" y="274" width="332" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="290" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">85</text>
 <text x="30" y="333" font-size="15" fill="#25474f" font-family="system-ui,Arial">neva</text>
 <rect x="475" y="317" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="317" width="326" height="22" rx="6" fill="#4d6287"/>
+<rect x="475" y="317" width="328" height="22" rx="6" fill="#4d6287"/>
 <text x="955" y="333" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">84</text>
 <text x="30" y="376" font-size="15" fill="#25474f" font-family="system-ui,Arial">time</text>
 <rect x="475" y="360" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="360" width="314" height="22" rx="6" fill="#4d6287"/>
+<rect x="475" y="360" width="317" height="22" rx="6" fill="#4d6287"/>
 <text x="955" y="376" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">81</text>
 <text x="30" y="419" font-size="15" fill="#25474f" font-family="system-ui,Arial">good</text>
 <rect x="475" y="403" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="403" width="302" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="419" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">78</text>
-<text x="30" y="462" font-size="15" fill="#25474f" font-family="system-ui,Arial">ferma</text>
+<rect x="475" y="403" width="301" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="419" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">77</text>
+<text x="30" y="462" font-size="15" fill="#25474f" font-family="system-ui,Arial">sound</text>
 <rect x="475" y="446" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="446" width="294" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="462" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">76</text>
-<text x="30" y="505" font-size="15" fill="#25474f" font-family="system-ui,Arial">sound</text>
+<rect x="475" y="446" width="293" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="462" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">75</text>
+<text x="30" y="505" font-size="15" fill="#25474f" font-family="system-ui,Arial">oversize</text>
 <rect x="475" y="489" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="489" width="291" height="22" rx="6" fill="#4d6287"/>
+<rect x="475" y="489" width="293" height="22" rx="6" fill="#4d6287"/>
 <text x="955" y="505" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">75</text>
-<text x="30" y="548" font-size="15" fill="#25474f" font-family="system-ui,Arial">oversize</text>
+<text x="30" y="548" font-size="15" fill="#25474f" font-family="system-ui,Arial">ferma</text>
 <rect x="475" y="532" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="532" width="291" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="548" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">75</text>
-<text x="30" y="591" font-size="15" fill="#25474f" font-family="system-ui,Arial">back</text>
+<rect x="475" y="532" width="285" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="548" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">73</text>
+<text x="30" y="591" font-size="15" fill="#25474f" font-family="system-ui,Arial">walk</text>
 <rect x="475" y="575" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="575" width="275" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="591" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">71</text>
-<text x="30" y="634" font-size="15" fill="#25474f" font-family="system-ui,Arial">walk</text>
+<rect x="475" y="575" width="270" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="591" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">69</text>
+<text x="30" y="634" font-size="15" fill="#25474f" font-family="system-ui,Arial">ting</text>
 <rect x="475" y="618" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="618" width="271" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="634" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">70</text>
-<text x="30" y="677" font-size="15" fill="#25474f" font-family="system-ui,Arial">ting</text>
+<rect x="475" y="618" width="262" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="634" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">67</text>
+<text x="30" y="677" font-size="15" fill="#25474f" font-family="system-ui,Arial">back</text>
 <rect x="475" y="661" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="661" width="264" height="22" rx="6" fill="#4d6287"/>
-<text x="955" y="677" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">68</text>
+<rect x="475" y="661" width="258" height="22" rx="6" fill="#4d6287"/>
+<text x="955" y="677" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">66</text>
 </svg>

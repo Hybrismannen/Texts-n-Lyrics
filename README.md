@@ -2,18 +2,19 @@
 
 Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, prosalyrik, reggae-/dancehalltexter, rap, grime, dubplates och musikaliska berättelser.
 
-## Arkivet i siffror
+## Arkivet i siffror – unika källtexter
 
-| Källfiler med analyserbar text | Ordförekomster | Distinkta ordformer | Upprepade rader borttagna (ord) |
+| Unika textkällor | Ordförekomster | Distinkta ordformer | Upprepade rader borttagna (ord) |
 | --- | --- | --- | --- |
-| 120 | 38,887 | 5,944 | 32,957 |
-**Tolkning:** siffrorna avser källfiler, inte verifierat antal unika verk. Refräng- och säkerhetskopieeffekter redovisas separat.
+| 117 | 37,971 | 5,941 | 32,091 |
+**Deduplicering:** 120 fysiska original → **117 unika källtexter**; 3 dubbletter/versioner exkluderade. 116 läskopior räknas inte separat. En källtext kan innehålla flera verk, så antalet är inte ett slutgiltigt antal litterära verk.
 
 ## Utforska samlingen
 
 | Ingång | Beskrivning |
 | --- | --- |
 | [Wiki/atlas – startsida](wiki/Home.md) | Förklaringar, navigering och statistisk översikt |
+| [Unika texter](wiki/Unika-texter.md) | Kanoniska källtexter och sammanslagna kopior |
 | [Verkindex](wiki/Verkindex.md) | Bläddra per titel, form, omfång och fokus |
 | [Genre och form](wiki/Genre-och-form.md) | Källfamiljer och provisoriska genreklasser |
 | [Teman och motiv](wiki/Teman-och-motiv.md) | Kärlek, samhälle, musik, natur, existens m.m. |
@@ -31,49 +32,49 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 
 | Form/källfamilj | Källfiler | Andel |
 | --- | --- | --- |
-| Musiklyrik / dancehall-reggae (blandat) | 66 | 55.0 % |
-| Inspelningslyrik (blandat) | 18 | 15.0 % |
-| Dikt och prosalyrik | 14 | 11.7 % |
-| Dubplate | 6 | 5.0 % |
-| Fristående text | 5 | 4.2 % |
-| Fristående låtprojekt | 5 | 4.2 % |
+| Musiklyrik / dancehall-reggae (blandat) | 64 | 54.7 % |
+| Inspelningslyrik (blandat) | 18 | 15.4 % |
+| Dikt och prosalyrik | 13 | 11.1 % |
+| Dubplate | 6 | 5.1 % |
+| Fristående text | 5 | 4.3 % |
+| Fristående låtprojekt | 5 | 4.3 % |
 | Grime / junglist | 2 | 1.7 % |
 | Övrig sångtext | 2 | 1.7 % |
-| Dikt i samtalsarkiv | 1 | 0.8 % |
-| Svensk rap / visa | 1 | 0.8 % |
+| Dikt i samtalsarkiv | 1 | 0.9 % |
+| Svensk rap / visa | 1 | 0.9 % |
 ## Återkommande teman – lexikala indikatorer
 
 ![Teman per källfil](analytics/charts/themes.svg)
 
 | Tema | Källfiler | Andel | Visuell andel |
 | --- | --- | --- | --- |
-| Musik, ljud och dans | 44 | 36.7 % | ▰▰▰▰▰▰ |
-| Liv, existens och identitet | 37 | 30.8 % | ▰▰▰▰▰ |
-| Språk, kunskap och tänkande | 29 | 24.2 % | ▰▰▰▰ |
-| Tid, minne och förändring | 28 | 23.3 % | ▰▰▰▰ |
-| Vardag, hem och arbete | 15 | 12.5 % | ▰▰ |
-| Natur, rum och kosmos | 14 | 11.7 % | ▰▰ |
-| Konflikt, hot och våld | 14 | 11.7 % | ▰▰ |
-| Kärlek och relationer | 13 | 10.8 % | ▰▰ |
-| Solidaritet och gemenskap | 8 | 6.7 % | ▰ |
-| Politik, makt och ojämlikhet | 5 | 4.2 % | ▰ |
+| Musik, ljud och dans | 43 | 36.8 % | ▰▰▰▰▰▰ |
+| Liv, existens och identitet | 37 | 31.6 % | ▰▰▰▰▰ |
+| Tid, minne och förändring | 28 | 23.9 % | ▰▰▰▰ |
+| Språk, kunskap och tänkande | 28 | 23.9 % | ▰▰▰▰ |
+| Vardag, hem och arbete | 15 | 12.8 % | ▰▰ |
+| Konflikt, hot och våld | 14 | 12.0 % | ▰▰ |
+| Natur, rum och kosmos | 13 | 11.1 % | ▰▰ |
+| Kärlek och relationer | 13 | 11.1 % | ▰▰ |
+| Solidaritet och gemenskap | 8 | 6.8 % | ▰ |
+| Politik, makt och ojämlikhet | 5 | 4.3 % | ▰ |
 ## Retoriskt fokus – provisorisk indexering
 
 | Fokus | Källfiler |
 | --- | --- |
-| Ej fastställt | 53 |
-| Musik och scen | 36 |
-| Språk och reflektion | 13 |
+| Ej fastställt | 52 |
+| Musik och scen | 35 |
 | Kärlek och relation | 13 |
+| Språk och reflektion | 12 |
 | Samhällskritik | 5 |
 ## Sakområden – ämnesklassning
 
 | Ämne | Källfiler |
 | --- | --- |
-| Musik, scen och ljud | 41 |
+| Musik, scen och ljud | 40 |
 | Kärlek och partnerskap | 12 |
 | Krig och våld | 10 |
-| Natur, väder och årstider | 10 |
+| Natur, väder och årstider | 9 |
 | Ekonomi, marknad och klass | 9 |
 | Resor och geografi | 4 |
 | Barn, familj och föräldraskap | 2 |
@@ -85,27 +86,27 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 
 | Ordform | Antal | Källfiler |
 | --- | --- | --- |
-| man | 120 | 54 |
+| man | 119 | 53 |
 | tell | 112 | 40 |
-| dis | 101 | 53 |
+| dis | 100 | 52 |
 | love | 87 | 34 |
-| life | 86 | 48 |
+| life | 85 | 47 |
 | neva | 84 | 35 |
 | time | 81 | 35 |
-| good | 78 | 39 |
-| ferma | 76 | 43 |
+| good | 77 | 38 |
 | sound | 75 | 17 |
 | oversize | 75 | 4 |
-| back | 71 | 42 |
-| walk | 70 | 27 |
-| ting | 68 | 32 |
-| run | 65 | 37 |
+| ferma | 73 | 41 |
+| walk | 69 | 26 |
+| ting | 67 | 31 |
+| back | 66 | 40 |
+| need | 63 | 33 |
 
 ## Röst och återkommande figurregister
 
 | Namn | Typ | Filer |
 | --- | --- | --- |
-| Daddy Ferma | artistpersona | 38 |
+| Daddy Ferma | artistpersona | 37 |
 | Klara | namngiven person i text | 3 |
 | Jah Cure | artistreferens | 2 |
 | Santa | kulturfigur | 2 |

@@ -7,6 +7,14 @@ originals/chat-poetry/Höströst - Höstrusk.txt,som,9,False
 originals/chat-poetry/Höströst - Höstrusk.txt,till,8,False
 originals/chat-poetry/Höströst - Höstrusk.txt,det,8,False
 originals/chat-poetry/Höströst - Höstrusk.txt,på,7,False
+originals/lyrics/Trains show us!.txt,the,5,False
+originals/lyrics/Trains show us!.txt,passing,3,True
+originals/lyrics/Trains show us!.txt,thru,3,True
+originals/lyrics/Trains show us!.txt,country,3,True
+originals/lyrics/Trains show us!.txt,to,3,False
+originals/lyrics/Trains show us!.txt,a,2,False
+originals/lyrics/Trains show us!.txt,me,2,False
+originals/lyrics/Trains show us!.txt,that,2,False
 originals/other/Blickar möts.txt,du,17,False
 originals/other/Blickar möts.txt,vi,14,False
 originals/other/Blickar möts.txt,min,12,True
@@ -159,14 +167,6 @@ readable/lyrics/Backseat mind.rtf.txt,need,8,True
 readable/lyrics/Backseat mind.rtf.txt,man,7,True
 readable/lyrics/Backseat mind.rtf.txt,tink,7,False
 readable/lyrics/Backseat mind.rtf.txt,dem,7,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,the,18,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,i,8,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,come,8,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,is,8,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,to,6,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,and,5,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,di,5,False
-readable/lyrics/Backup of Wordz and tinker.doc.txt,nuh,5,False
 readable/lyrics/Bad bwy.doc.txt,a,17,False
 readable/lyrics/Bad bwy.doc.txt,mi,14,False
 readable/lyrics/Bad bwy.doc.txt,yuh,7,False
@@ -519,14 +519,6 @@ readable/lyrics/Summer breeze.doc.txt,the,8,False
 readable/lyrics/Summer breeze.doc.txt,breeze,7,True
 readable/lyrics/Summer breeze.doc.txt,di,6,False
 readable/lyrics/Summer breeze.doc.txt,of,6,False
-readable/lyrics/Summer breeze.docx.txt,summer,13,True
-readable/lyrics/Summer breeze.docx.txt,a,12,False
-readable/lyrics/Summer breeze.docx.txt,and,10,False
-readable/lyrics/Summer breeze.docx.txt,to,9,False
-readable/lyrics/Summer breeze.docx.txt,the,8,False
-readable/lyrics/Summer breeze.docx.txt,breeze,7,True
-readable/lyrics/Summer breeze.docx.txt,now,6,False
-readable/lyrics/Summer breeze.docx.txt,of,6,False
 readable/lyrics/Sweet dreams.rtf.txt,tek,2,True
 readable/lyrics/Sweet dreams.rtf.txt,up,2,False
 readable/lyrics/Sweet dreams.rtf.txt,di,2,False
@@ -567,14 +559,6 @@ readable/lyrics/Till studio session--.rtf.txt,the,3,False
 readable/lyrics/Till studio session--.rtf.txt,from,3,False
 readable/lyrics/Till studio session--.rtf.txt,is,3,False
 readable/lyrics/Till studio session--.rtf.txt,we,3,False
-readable/lyrics/Trains show us!.txt.txt,the,5,False
-readable/lyrics/Trains show us!.txt.txt,passing,3,True
-readable/lyrics/Trains show us!.txt.txt,thru,3,True
-readable/lyrics/Trains show us!.txt.txt,country,3,True
-readable/lyrics/Trains show us!.txt.txt,to,3,False
-readable/lyrics/Trains show us!.txt.txt,a,2,False
-readable/lyrics/Trains show us!.txt.txt,me,2,False
-readable/lyrics/Trains show us!.txt.txt,that,2,False
 readable/lyrics/Two shoelace inna tangle.rtf.txt,me,26,False
 readable/lyrics/Two shoelace inna tangle.rtf.txt,mi,19,False
 readable/lyrics/Two shoelace inna tangle.rtf.txt,a,17,False
@@ -743,14 +727,6 @@ readable/poetry/Places ought to parade.rtf.txt,a,4,False
 readable/poetry/Places ought to parade.rtf.txt,of,4,False
 readable/poetry/Places ought to parade.rtf.txt,ranccon,3,True
 readable/poetry/Places ought to parade.rtf.txt,not,3,False
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,det,6,False
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,i,6,False
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,maka,5,True
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,löst,5,True
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,ej,5,True
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,till,5,False
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,på,4,False
-readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,så,4,False
 readable/poetry/The Hy The Man the story.rtf.txt,the,44,False
 readable/poetry/The Hy The Man the story.rtf.txt,i,21,False
 readable/poetry/The Hy The Man the story.rtf.txt,a,15,False

@@ -1,12 +1,12 @@
 # Korpus och metod
 
-[Hem](Home.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
+[Hem](Home.md) · [Unika texter](Unika-texter.md) · [Verkindex](Verkindex.md) · [Genre och form](Genre-och-form.md) · [Teman](Teman-och-motiv.md) · [Ämnen och fokus](Amnen-och-fokus.md) · [Figurer](Figurer.md) · [Semantik](Semantik.md) · [Redaktionell analys](Redaktionell-analys.md) · [Metod](Korpus-och-metod.md)
 
 ## Analysenhet och täckning
 
-- Enheten är **en textfil**, inte ett unikt litterärt verk.
-- Omfattning: **120 analysbara filer**. Editoriala transkriptioner ligger utanför korpus.
-- Explicit versions-/backupmärkta filer: **2** (gäller inte oidentifierade innehållsvarianter).
+- Enheten är **en kanoniskt unik källtext**, inte ett fysiskt filobjekt eller säkert ett litterärt verk.
+- Omfattning: **117 unika källtexter** från 120 originalfiler. Editoriala transkriptioner ingår inte.
+- Sammanslagna källversioner: **3**; läskopior räknas inte igen.
 - Läsbara versioner analyseras; originalformaten förblir oförändrade i originals/.
 - Dokument i samlingsfiler kan motsvara flera verk. Inga upphov har gissats fram.
 - Ursprungsdatum saknas för många verk. Git-importdatum får inte användas som skrivdatum.

@@ -5,34 +5,34 @@
 <text x="30" y="118" font-size="15" fill="#25474f" font-family="system-ui,Arial">Musiklyrik / dancehall-reggae (blandat)</text>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#e2ebec"/>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#187c7a"/>
-<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">66</text>
+<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">64</text>
 <text x="30" y="161" font-size="15" fill="#25474f" font-family="system-ui,Arial">Inspelningslyrik (blandat)</text>
 <rect x="475" y="145" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="145" width="127" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="145" width="131" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="161" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">18</text>
 <text x="30" y="204" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dikt och prosalyrik</text>
 <rect x="475" y="188" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="188" width="99" height="22" rx="6" fill="#187c7a"/>
-<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">14</text>
+<rect x="475" y="188" width="94" height="22" rx="6" fill="#187c7a"/>
+<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">13</text>
 <text x="30" y="247" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dubplate</text>
 <rect x="475" y="231" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="231" width="42" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="231" width="44" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="247" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">6</text>
 <text x="30" y="290" font-size="15" fill="#25474f" font-family="system-ui,Arial">Fristående text</text>
 <rect x="475" y="274" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="274" width="35" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="274" width="36" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="290" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">5</text>
 <text x="30" y="333" font-size="15" fill="#25474f" font-family="system-ui,Arial">Fristående låtprojekt</text>
 <rect x="475" y="317" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="317" width="35" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="317" width="36" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="333" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">5</text>
 <text x="30" y="376" font-size="15" fill="#25474f" font-family="system-ui,Arial">Grime / junglist</text>
 <rect x="475" y="360" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="360" width="14" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="360" width="15" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="376" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">2</text>
 <text x="30" y="419" font-size="15" fill="#25474f" font-family="system-ui,Arial">Övrig sångtext</text>
 <rect x="475" y="403" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="403" width="14" height="22" rx="6" fill="#187c7a"/>
+<rect x="475" y="403" width="15" height="22" rx="6" fill="#187c7a"/>
 <text x="955" y="419" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">2</text>
 <text x="30" y="462" font-size="15" fill="#25474f" font-family="system-ui,Arial">Dikt i samtalsarkiv</text>
 <rect x="475" y="446" width="465" height="22" rx="6" fill="#e2ebec"/>

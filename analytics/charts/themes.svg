@@ -5,41 +5,41 @@
 <text x="30" y="118" font-size="15" fill="#25474f" font-family="system-ui,Arial">Musik, ljud och dans</text>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#e2ebec"/>
 <rect x="475" y="102" width="465" height="22" rx="6" fill="#a96b33"/>
-<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">44</text>
+<text x="955" y="118" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">43</text>
 <text x="30" y="161" font-size="15" fill="#25474f" font-family="system-ui,Arial">Liv, existens och identitet</text>
 <rect x="475" y="145" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="145" width="391" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="145" width="400" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="161" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">37</text>
-<text x="30" y="204" font-size="15" fill="#25474f" font-family="system-ui,Arial">Språk, kunskap och tänkande</text>
+<text x="30" y="204" font-size="15" fill="#25474f" font-family="system-ui,Arial">Tid, minne och förändring</text>
 <rect x="475" y="188" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="188" width="306" height="22" rx="6" fill="#a96b33"/>
-<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">29</text>
-<text x="30" y="247" font-size="15" fill="#25474f" font-family="system-ui,Arial">Tid, minne och förändring</text>
+<rect x="475" y="188" width="303" height="22" rx="6" fill="#a96b33"/>
+<text x="955" y="204" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">28</text>
+<text x="30" y="247" font-size="15" fill="#25474f" font-family="system-ui,Arial">Språk, kunskap och tänkande</text>
 <rect x="475" y="231" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="231" width="296" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="231" width="303" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="247" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">28</text>
 <text x="30" y="290" font-size="15" fill="#25474f" font-family="system-ui,Arial">Vardag, hem och arbete</text>
 <rect x="475" y="274" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="274" width="159" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="274" width="162" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="290" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">15</text>
-<text x="30" y="333" font-size="15" fill="#25474f" font-family="system-ui,Arial">Natur, rum och kosmos</text>
+<text x="30" y="333" font-size="15" fill="#25474f" font-family="system-ui,Arial">Konflikt, hot och våld</text>
 <rect x="475" y="317" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="317" width="148" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="317" width="151" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="333" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">14</text>
-<text x="30" y="376" font-size="15" fill="#25474f" font-family="system-ui,Arial">Konflikt, hot och våld</text>
+<text x="30" y="376" font-size="15" fill="#25474f" font-family="system-ui,Arial">Natur, rum och kosmos</text>
 <rect x="475" y="360" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="360" width="148" height="22" rx="6" fill="#a96b33"/>
-<text x="955" y="376" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">14</text>
+<rect x="475" y="360" width="141" height="22" rx="6" fill="#a96b33"/>
+<text x="955" y="376" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">13</text>
 <text x="30" y="419" font-size="15" fill="#25474f" font-family="system-ui,Arial">Kärlek och relationer</text>
 <rect x="475" y="403" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="403" width="137" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="403" width="141" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="419" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">13</text>
 <text x="30" y="462" font-size="15" fill="#25474f" font-family="system-ui,Arial">Solidaritet och gemenskap</text>
 <rect x="475" y="446" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="446" width="85" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="446" width="87" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="462" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">8</text>
 <text x="30" y="505" font-size="15" fill="#25474f" font-family="system-ui,Arial">Politik, makt och ojämlikhet</text>
 <rect x="475" y="489" width="465" height="22" rx="6" fill="#e2ebec"/>
-<rect x="475" y="489" width="53" height="22" rx="6" fill="#a96b33"/>
+<rect x="475" y="489" width="54" height="22" rx="6" fill="#a96b33"/>
 <text x="955" y="505" font-size="15" font-weight="bold" fill="#173a40" font-family="system-ui,Arial">5</text>
 </svg>

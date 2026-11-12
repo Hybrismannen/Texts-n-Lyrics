@@ -1,16 +1,34 @@
 {
-  "updated_at": "2026-11-12T00:02:27Z",
-  "scope": "Source files, not verified unique works. Editorial transcriptions excluded.",
-  "documents": 120,
-  "primary_documents": 118,
-  "tokens_including_refrains": 38887,
-  "tokens_without_repeated_lines": 32957,
-  "distinct_wordforms": 5944,
-  "exact_duplicate_groups": [],
+  "updated_at": "2026-11-12T00:04:27Z",
+  "scope": "Canonical unique source texts only; readable copies and versions excluded. A collection file may still hold multiple works.",
+  "physical_original_files": 120,
+  "readable_copy_files": 116,
+  "canonical_unique_texts": 117,
+  "copies_or_versions_excluded": 3,
+  "unreadable_originals_excluded": 0,
+  "documents": 117,
+  "primary_documents": 117,
+  "tokens_including_refrains": 37971,
+  "tokens_without_repeated_lines": 32091,
+  "distinct_wordforms": 5941,
+  "exact_duplicate_groups": [
+    [
+      "originals/lyrics/Summer breeze.doc",
+      "originals/lyrics/_versions/Summer breeze - alternate.docx"
+    ],
+    [
+      "originals/lyrics/Wordz and tinker.doc",
+      "originals/lyrics/_versions/Backup of Wordz and tinker.doc"
+    ],
+    [
+      "originals/poetry/Maka Löst dikt.doc",
+      "originals/poetry/_versions/Säkerhetskopia avMaka Löst dikt.doc"
+    ]
+  ],
   "source_families": {
-    "Musiklyrik / dancehall-reggae (blandat)": 66,
+    "Musiklyrik / dancehall-reggae (blandat)": 64,
     "Inspelningslyrik (blandat)": 18,
-    "Dikt och prosalyrik": 14,
+    "Dikt och prosalyrik": 13,
     "Dubplate": 6,
     "Fristående text": 5,
     "Fristående låtprojekt": 5,
@@ -20,22 +38,22 @@
     "Svensk rap / visa": 1
   },
   "themes_document_frequency": {
-    "Musik, ljud och dans": 44,
+    "Musik, ljud och dans": 43,
     "Liv, existens och identitet": 37,
-    "Språk, kunskap och tänkande": 29,
     "Tid, minne och förändring": 28,
+    "Språk, kunskap och tänkande": 28,
     "Vardag, hem och arbete": 15,
-    "Natur, rum och kosmos": 14,
     "Konflikt, hot och våld": 14,
+    "Natur, rum och kosmos": 13,
     "Kärlek och relationer": 13,
     "Solidaritet och gemenskap": 8,
     "Politik, makt och ojämlikhet": 5
   },
   "subjects_document_frequency": {
-    "Musik, scen och ljud": 41,
+    "Musik, scen och ljud": 40,
     "Kärlek och partnerskap": 12,
     "Krig och våld": 10,
-    "Natur, väder och årstider": 10,
+    "Natur, väder och årstider": 9,
     "Ekonomi, marknad och klass": 9,
     "Resor och geografi": 4,
     "Barn, familj och föräldraskap": 2,
@@ -43,14 +61,14 @@
     "Rättvisa och välfärd": 1
   },
   "focus_document_frequency": {
-    "Ej fastställt": 53,
-    "Musik och scen": 36,
-    "Språk och reflektion": 13,
+    "Ej fastställt": 52,
+    "Musik och scen": 35,
     "Kärlek och relation": 13,
+    "Språk och reflektion": 12,
     "Samhällskritik": 5
   },
   "figures_document_frequency": {
-    "Daddy Ferma": 38,
+    "Daddy Ferma": 37,
     "Klara": 3,
     "Jah Cure": 2,
     "Santa": 2,
@@ -69,169 +87,169 @@
   "most_frequent_words": [
     [
       "a",
-      1612
+      1595
     ],
     [
       "di",
-      937
+      927
     ],
     [
       "mi",
-      752
+      748
     ],
     [
       "to",
-      631
+      616
     ],
     [
       "i",
-      622
+      606
     ],
     [
       "and",
-      565
+      550
     ],
     [
       "the",
-      492
+      466
     ],
     [
       "is",
-      451
+      438
     ],
     [
       "fi",
-      429
+      427
     ],
     [
       "it",
-      421
+      412
     ],
     [
       "you",
-      400
+      394
     ],
     [
       "dem",
-      386
+      382
     ],
     [
       "we",
-      370
+      365
     ],
     [
       "yuh",
-      370
+      365
     ],
     [
       "in",
-      328
+      321
     ],
     [
       "of",
-      306
+      298
     ],
     [
       "nuh",
-      249
-    ],
-    [
-      "when",
       243
     ],
     [
+      "when",
+      242
+    ],
+    [
       "up",
-      228
+      224
     ],
     [
       "dat",
-      225
-    ],
-    [
-      "come",
-      218
-    ],
-    [
-      "like",
-      214
+      219
     ],
     [
       "for",
-      213
+      211
     ],
     [
-      "on",
+      "like",
+      210
+    ],
+    [
+      "come",
       208
     ],
     [
       "so",
-      207
+      204
+    ],
+    [
+      "on",
+      204
     ],
     [
       "my",
-      199
-    ],
-    [
-      "me",
       193
     ],
     [
+      "me",
+      187
+    ],
+    [
       "all",
-      186
+      184
     ],
     [
       "how",
       172
     ],
     [
-      "out",
-      168
+      "do",
+      165
     ],
     [
-      "do",
-      166
+      "out",
+      165
     ],
     [
       "inna",
-      162
-    ],
-    [
-      "now",
-      158
+      160
     ],
     [
       "if",
-      154
+      151
+    ],
+    [
+      "now",
+      150
     ],
     [
       "be",
-      147
+      144
     ],
     [
       "from",
-      141
-    ],
-    [
-      "not",
       138
     ],
     [
-      "say",
+      "not",
       133
     ],
     [
-      "but",
-      131
+      "say",
+      132
     ],
     [
       "your",
       129
+    ],
+    [
+      "but",
+      127
     ]
   ],
   "most_frequent_content_words": [
     [
       "man",
-      120
+      119
     ],
     [
       "tell",
@@ -239,7 +257,7 @@
     ],
     [
       "dis",
-      101
+      100
     ],
     [
       "love",
@@ -247,7 +265,7 @@
     ],
     [
       "life",
-      86
+      85
     ],
     [
       "neva",
@@ -259,11 +277,7 @@
     ],
     [
       "good",
-      78
-    ],
-    [
-      "ferma",
-      76
+      77
     ],
     [
       "sound",
@@ -274,24 +288,20 @@
       75
     ],
     [
-      "back",
-      71
+      "ferma",
+      73
     ],
     [
       "walk",
-      70
+      69
     ],
     [
       "ting",
-      68
+      67
     ],
     [
-      "run",
-      65
-    ],
-    [
-      "lyrics",
-      64
+      "back",
+      66
     ],
     [
       "need",
@@ -299,31 +309,39 @@
     ],
     [
       "look",
-      63
+      62
+    ],
+    [
+      "run",
+      62
     ],
     [
       "big",
       62
     ],
     [
+      "lyrics",
+      62
+    ],
+    [
       "bout",
-      62
-    ],
-    [
-      "soo",
-      62
-    ],
-    [
-      "riddim",
       61
     ],
     [
-      "daddy",
-      59
+      "riddim",
+      60
     ],
     [
       "kill",
       59
+    ],
+    [
+      "soo",
+      58
+    ],
+    [
+      "daddy",
+      57
     ],
     [
       "nah",
@@ -335,14 +353,6 @@
     ],
     [
       "nuff",
-      53
-    ],
-    [
-      "never",
-      52
-    ],
-    [
-      "bring",
       52
     ],
     [
@@ -350,7 +360,7 @@
       51
     ],
     [
-      "please",
+      "never",
       51
     ],
     [
@@ -366,7 +376,11 @@
       49
     ],
     [
-      "hear",
+      "bring",
+      49
+    ],
+    [
+      "please",
       48
     ],
     [
@@ -383,215 +397,219 @@
     ],
     [
       "want",
-      46
+      45
     ],
     [
-      "put",
+      "hear",
+      45
+    ],
+    [
+      "talk",
       45
     ]
   ],
   "most_frequent_nonrepeated_words": [
     [
       "a",
-      1361
+      1344
     ],
     [
       "di",
-      782
+      772
     ],
     [
       "mi",
-      575
+      571
     ],
     [
       "to",
-      556
+      542
     ],
     [
       "i",
-      532
+      516
     ],
     [
       "and",
-      478
+      465
     ],
     [
       "the",
-      427
+      401
     ],
     [
       "is",
-      381
+      368
     ],
     [
       "it",
-      374
+      367
     ],
     [
       "dem",
-      347
+      344
     ],
     [
       "fi",
-      342
+      340
     ],
     [
       "in",
-      290
+      283
     ],
     [
       "we",
-      282
+      277
     ],
     [
       "yuh",
-      272
+      267
     ],
     [
       "of",
-      271
+      263
     ],
     [
       "you",
-      262
+      256
     ],
     [
       "nuh",
-      222
+      216
     ],
     [
       "up",
-      201
-    ],
-    [
-      "dat",
-      195
+      197
     ],
     [
       "when",
-      194
+      193
     ],
     [
-      "like",
+      "dat",
       189
     ],
     [
-      "my",
-      178
+      "like",
+      185
     ],
     [
       "for",
-      176
-    ],
-    [
-      "so",
       174
     ],
     [
+      "my",
+      172
+    ],
+    [
+      "so",
+      171
+    ],
+    [
       "come",
-      173
+      164
     ],
     [
       "all",
-      161
+      159
     ],
     [
       "on",
-      158
+      154
     ],
     [
       "out",
-      145
+      142
     ],
     [
       "inna",
-      141
+      139
     ],
     [
       "now",
-      137
-    ],
-    [
-      "me",
-      132
+      129
     ],
     [
       "how",
       128
     ],
     [
-      "be",
+      "me",
       126
     ],
     [
       "do",
-      126
-    ],
-    [
-      "not",
       125
     ],
     [
-      "say",
-      122
+      "be",
+      123
     ],
     [
-      "if",
+      "say",
+      121
+    ],
+    [
+      "not",
       120
     ],
     [
-      "from",
-      118
-    ],
-    [
-      "but",
+      "if",
       117
     ],
     [
+      "from",
+      115
+    ],
+    [
+      "but",
+      113
+    ],
+    [
       "wid",
-      114
+      112
     ]
   ],
   "dialect_markers": [
     [
       "di",
-      937
+      927
     ],
     [
       "mi",
-      752
+      748
     ],
     [
       "fi",
-      429
+      427
     ],
     [
       "dem",
-      386
+      382
     ],
     [
       "yuh",
-      370
+      365
     ],
     [
       "nuh",
-      249
+      243
     ],
     [
       "dat",
-      225
+      219
     ],
     [
       "inna",
-      162
+      160
     ],
     [
       "wid",
-      125
+      123
     ],
     [
       "pon",
-      115
+      114
     ],
     [
       "seh",
@@ -599,11 +617,11 @@
     ],
     [
       "waah",
-      105
+      103
     ],
     [
       "gwaan",
-      86
+      85
     ],
     [
       "neva",
@@ -615,19 +633,19 @@
     ],
     [
       "gal",
-      70
+      69
     ],
     [
       "riddim",
-      61
+      60
     ],
     [
       "mek",
-      47
+      46
     ],
     [
       "selecta",
-      39
+      38
     ],
     [
       "likkle",
@@ -635,18 +653,18 @@
     ],
     [
       "bwy",
-      32
+      31
     ],
     [
       "tink",
       31
     ],
     [
-      "deh",
-      31
+      "haffi",
+      29
     ],
     [
-      "haffi",
+      "deh",
       29
     ],
     [
@@ -663,7 +681,7 @@
     ],
     [
       "bredda",
-      9
+      8
     ],
     [
       "duppy",
@@ -685,14 +703,10 @@
     ],
     [
       "to be",
-      62
+      61
     ],
     [
       "daddy ferma",
-      51
-    ],
-    [
-      "in the",
       49
     ],
     [
@@ -712,16 +726,20 @@
       48
     ],
     [
-      "inna di",
-      44
+      "in the",
+      46
     ],
     [
       "like a",
       43
     ],
     [
-      "is a",
+      "inna di",
       43
+    ],
+    [
+      "is a",
+      42
     ],
     [
       "a mi",
@@ -737,22 +755,18 @@
     ],
     [
       "if you",
-      37
+      36
     ],
     [
       "you a",
       36
     ],
     [
-      "it is",
-      35
-    ],
-    [
-      "is the",
+      "in a",
       34
     ],
     [
-      "in a",
+      "it is",
       34
     ],
     [
@@ -769,6 +783,10 @@
     ],
     [
       "for the",
+      32
+    ],
+    [
+      "is the",
       32
     ],
     [
@@ -800,10 +818,6 @@
       28
     ],
     [
-      "in di",
-      28
-    ],
-    [
       "know how",
       28
     ],
@@ -824,20 +838,20 @@
       26
     ],
     [
-      "mi nuh",
-      25
-    ],
-    [
-      "of the",
-      25
-    ],
-    [
-      "so much",
-      25
+      "in di",
+      26
     ],
     [
       "come fi",
       25
+    ],
+    [
+      "mi nuh",
+      24
+    ],
+    [
+      "of the",
+      24
     ],
     [
       "a run",
@@ -862,6 +876,10 @@
     [
       "tell tell",
       24
+    ],
+    [
+      "so much",
+      23
     ],
     [
       "how fi",
@@ -896,6 +914,10 @@
       22
     ],
     [
+      "on the",
+      21
+    ],
+    [
       "when you",
       21
     ],
@@ -909,10 +931,6 @@
     ],
     [
       "for a",
-      21
-    ],
-    [
-      "on the",
       21
     ]
   ],
