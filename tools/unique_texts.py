@@ -20,7 +20,7 @@ ORIGINALS=ROOT/"originals"
 READABLE=ROOT/"readable"
 VARIANT_KEYS=("_versions","backup of","säkerhetskopia","alternate","_alternate")
 EXTS={".txt",".doc",".docx",".rtf"}
-MIN_TEXT_TOKENS=16
+MIN_TEXT_TOKENS=1
 NEAR_SIMILARITY=0.93
 MIN_NEAR_TOKENS=45
 

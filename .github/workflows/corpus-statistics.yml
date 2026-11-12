@@ -7,6 +7,8 @@ on:
       - 'originals/**'
       - 'readable/**'
       - 'tools/analyze_archive.py'
+      - 'tools/unique_texts.py'
+      - 'tools/build_library.py'
       - '.github/workflows/corpus-statistics.yml'
 permissions:
   contents: write
@@ -20,7 +22,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Analyze full source corpus
+      - name: Reconcile canonical source texts
+        run: python3 tools/unique_texts.py
+      - name: Analyze unique source texts
         run: python3 tools/analyze_archive.py
       - name: Commit generated statistics and wiki source
         run: |
