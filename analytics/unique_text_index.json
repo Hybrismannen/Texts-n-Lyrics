@@ -1,0 +1,2151 @@
+{
+  "definition": "One canonical, non-empty original text per normalized textual identity. Strong near-identical sources and explicit backups/versions collapse into canonical. Unreadable sources remain uncounted and visible. Editorial-only copies are excluded.",
+  "source_files": 120,
+  "readable_files": 116,
+  "canonical_unique_texts": 116,
+  "excluded_duplicate_or_version": 2,
+  "unreadable_or_too_short": 2,
+  "editorial_only_files": 2,
+  "other_readable_file_count": 114,
+  "records": [
+    {
+      "original": "originals/chat-poetry/Höströst - Höstrusk.txt",
+      "readable": "originals/chat-poetry/Höströst - Höstrusk.txt",
+      "text_hash": "2aaea74d07991ebc9c27a250b3031e8c1cd5c1217bdb8c964cde506813f06822",
+      "tokens": 351,
+      "is_version": false,
+      "title_key": "hostrosthostrusk",
+      "status": "canonical",
+      "canonical": "originals/chat-poetry/Höströst - Höstrusk.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Critical Hi-Fi - TXT.rtf",
+      "readable": "readable/dubplates/Critical Hi-Fi - TXT.rtf.txt",
+      "text_hash": "a381cbacc74a35d453142c3afee3a559417b9373f705032b74228ec91a811a0c",
+      "tokens": 447,
+      "is_version": false,
+      "title_key": "criticalhifitxt",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Critical Hi-Fi - TXT.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf",
+      "readable": "readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt",
+      "text_hash": "248ca103b1ee7f08c4a39499ea70c73f5f57ad4686aae13afd39327fe9e2d84e",
+      "tokens": 383,
+      "is_version": false,
+      "title_key": "gunsweettomiheartdubplatewolverinehifi",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Oversize selecta dubplate cut.doc",
+      "readable": "readable/dubplates/Oversize selecta dubplate cut.doc.txt",
+      "text_hash": "72b0f1d8cda1d6c75fba2393632143b2aa388f4a2aae9a2ed26150feb255e0a0",
+      "tokens": 529,
+      "is_version": false,
+      "title_key": "oversizeselectadubplatecut",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Oversize selecta dubplate cut.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Sir Maximus.rtf",
+      "readable": "readable/dubplates/Sir Maximus.rtf.txt",
+      "text_hash": "c360426011d4db1a19c2ac4b6a1ccf999dc1e82c15496585927557ebfdbdf334",
+      "tokens": 397,
+      "is_version": false,
+      "title_key": "sirmaximus",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Sir Maximus.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Tellus sound.rtf",
+      "readable": "readable/dubplates/Tellus sound.rtf.txt",
+      "text_hash": "eb784efe9db44efe809c64201bf3c3e54e6614959b13c0626cd88b127b0b9ff8",
+      "tokens": 400,
+      "is_version": false,
+      "title_key": "tellussound",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Tellus sound.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf",
+      "readable": "readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt",
+      "text_hash": "7adb4d32bd5420dca7a222c2a24f352f1b19ea9ea1f7f7b6d62111ec83a00334",
+      "tokens": 543,
+      "is_version": false,
+      "title_key": "wolverinehifioversizeselectavsbigbelly",
+      "status": "canonical",
+      "canonical": "originals/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/grime/Dead manners, Blood banners.rtf",
+      "readable": "readable/grime/Dead manners, Blood banners.rtf.txt",
+      "text_hash": "c07d07367e23c69de30b284e16a700e0d2c8709597de6047857d7e109f52fb5e",
+      "tokens": 187,
+      "is_version": false,
+      "title_key": "deadmannersbloodbanners",
+      "status": "canonical",
+      "canonical": "originals/grime/Dead manners, Blood banners.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/grime/Jungelist massive - Live Lyrics bleeps.rtf",
+      "readable": "readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt",
+      "text_hash": "d840f9cbd186498a16c8fe973bfa5035a51e33deea3cb634d0bee6b4c135e6f5",
+      "tokens": 228,
+      "is_version": false,
+      "title_key": "jungelistmassivelivelyricsbleeps",
+      "status": "canonical",
+      "canonical": "originals/grime/Jungelist massive - Live Lyrics bleeps.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf",
+      "readable": "readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt",
+      "text_hash": "e29aeac8ad5b7906efe722da6dc8819fb179d8f3934ae14ab56501a3180cefb7",
+      "tokens": 438,
+      "is_version": false,
+      "title_key": "lyricalbondeperiodiskasystemfel",
+      "status": "canonical",
+      "canonical": "originals/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Aks mi bout lyrics.doc",
+      "readable": "readable/lyrics/Aks mi bout lyrics.doc.txt",
+      "text_hash": "9236f49b71d959e9017568c245aef5d0a7800f616eb466610d00033af5ddf5f3",
+      "tokens": 236,
+      "is_version": false,
+      "title_key": "aksmiboutlyrics",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Aks mi bout lyrics.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/All good is digital.doc",
+      "readable": "readable/lyrics/All good is digital.doc.txt",
+      "text_hash": "0ad4f7fbd7bea765b64208e887a8565d85418b0ed71caa115ff44a5c3edc8736",
+      "tokens": 434,
+      "is_version": false,
+      "title_key": "allgoodisdigital",
+      "status": "canonical",
+      "canonical": "originals/lyrics/All good is digital.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Any Kind of.rtf",
+      "readable": "readable/lyrics/Any Kind of.rtf.txt",
+      "text_hash": "ec793aab90b54e2d63435b1d4b39f79952e0246543990d29f0e36c88415aba67",
+      "tokens": 78,
+      "is_version": false,
+      "title_key": "anykindof",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Any Kind of.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Backseat mind.rtf",
+      "readable": "readable/lyrics/Backseat mind.rtf.txt",
+      "text_hash": "4e4e43031fe83ef1aabf3a2eeb740520d98365c804cee3c238d70da72981b50c",
+      "tokens": 322,
+      "is_version": false,
+      "title_key": "backseatmind",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Backseat mind.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Bad bwy.doc",
+      "readable": "readable/lyrics/Bad bwy.doc.txt",
+      "text_hash": "97bd265948968f9559042cea8d85e26886860c0ea2281dbd8d6231a20b15cd1d",
+      "tokens": 246,
+      "is_version": false,
+      "title_key": "badbwy",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Bad bwy.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Blood first.rtf",
+      "readable": "readable/lyrics/Blood first.rtf.txt",
+      "text_hash": "ba7abee19a7213cc049b903e6294e99698821a196cab452defb90f130cd8b402",
+      "tokens": 361,
+      "is_version": false,
+      "title_key": "bloodfirst",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Blood first.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Burglary.rtf",
+      "readable": "readable/lyrics/Burglary.rtf.txt",
+      "text_hash": "e886b4c314a1aaf9324848019e881e5b0f02a9ed441e264a9afe3990ab1280cd",
+      "tokens": 474,
+      "is_version": false,
+      "title_key": "burglary",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Burglary.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/CSI-Murder Thee.rtf",
+      "readable": "readable/lyrics/CSI-Murder Thee.rtf.txt",
+      "text_hash": "5fe6b621c94b766b09ee662c244ee7abbf1d145aed7d9d8058d5441d97000de6",
+      "tokens": 219,
+      "is_version": false,
+      "title_key": "csimurderthee",
+      "status": "canonical",
+      "canonical": "originals/lyrics/CSI-Murder Thee.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Celebrating Bangaran & Club Killer.rtf",
+      "readable": "readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt",
+      "text_hash": "0ace0bf605ce8a51a7fae6a6e600a2dfc65861f8acdf492f3dc7af31008ea555",
+      "tokens": 207,
+      "is_version": false,
+      "title_key": "celebratingbangaranclubkiller",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Celebrating Bangaran & Club Killer.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/ChorusChanging the way of my life my life my life.doc",
+      "readable": "readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt",
+      "text_hash": "eeea5cfacb541eb13cd538b0b190f78927d68f01e1cb77616607f63e09c466a1",
+      "tokens": 217,
+      "is_version": false,
+      "title_key": "choruschangingthewayofmylifemylifemylife",
+      "status": "canonical",
+      "canonical": "originals/lyrics/ChorusChanging the way of my life my life my life.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Cinemamurda.rtf",
+      "readable": "readable/lyrics/Cinemamurda.rtf.txt",
+      "text_hash": "638af40782bd61b726dedaf3f0dcd4f7f81d0ae1a13d8db7c57c624c3b0fb83a",
+      "tokens": 308,
+      "is_version": false,
+      "title_key": "cinemamurda",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Cinemamurda.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Como Nation.rtf",
+      "readable": "readable/lyrics/Como Nation.rtf.txt",
+      "text_hash": "127002121eec9751bb63d03b4220d836edf224e4f657cc7e3f46f55d2deb3444",
+      "tokens": 330,
+      "is_version": false,
+      "title_key": "comonation",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Como Nation.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Counteract Zoro låt.doc",
+      "readable": "readable/lyrics/Counteract Zoro låt.doc.txt",
+      "text_hash": "06913c5ddd5efbbfeade7f8814716664085cecfb9d00e1acc163adfafae8439e",
+      "tokens": 277,
+      "is_version": false,
+      "title_key": "counteractzorolat",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Counteract Zoro låt.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Daddy Ferma - Endless story.rtf",
+      "readable": "readable/lyrics/Daddy Ferma - Endless story.rtf.txt",
+      "text_hash": "0d39f7b768a6fdca0be7adf7f0d6f8acc72e7d3003dc9f5be29cb7c7ee345f01",
+      "tokens": 132,
+      "is_version": false,
+      "title_key": "daddyfermaendlessstory",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Daddy Ferma - Endless story.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Daddy Ferma - Tribute to di woman.rtf",
+      "readable": "readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt",
+      "text_hash": "090f1f98ba7eb056d8429ba66e68aedfc1323c0c45058d2d16e483a9a4369a52",
+      "tokens": 408,
+      "is_version": false,
+      "title_key": "daddyfermatributetodiwoman",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Daddy Ferma - Tribute to di woman.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/DnB Lyrics cuts each for .doc",
+      "readable": "readable/lyrics/DnB Lyrics cuts each for .doc.txt",
+      "text_hash": "7addc2bcb4488b0c5ffe5e568d176dbef0658b815e303094a36ed092ab4fd966",
+      "tokens": 337,
+      "is_version": false,
+      "title_key": "dnblyricscutseachfor",
+      "status": "canonical",
+      "canonical": "originals/lyrics/DnB Lyrics cuts each for .doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Draftlyrics.rtf",
+      "readable": "readable/lyrics/Draftlyrics.rtf.txt",
+      "text_hash": "870f5e22af3bf9c288bb2243ac6f1982e0604b0bace96ced72f6d3e27a0dacfa",
+      "tokens": 218,
+      "is_version": false,
+      "title_key": "draftlyrics",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Draftlyrics.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Dubplate 80s.rtf",
+      "readable": "readable/lyrics/Dubplate 80s.rtf.txt",
+      "text_hash": "58e9dd3c37592616d5b71880c3e169d229f4a2836b473bcb31fd0727b1406ca3",
+      "tokens": 345,
+      "is_version": false,
+      "title_key": "dubplate80s",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Dubplate 80s.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Fast are my last name.doc",
+      "readable": "readable/lyrics/Fast are my last name.doc.txt",
+      "text_hash": "9d898f2ec4656711f0c7e43e48fcc885c4befdfd4725c296b8321a87506f538e",
+      "tokens": 478,
+      "is_version": false,
+      "title_key": "fastaremylastname",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Fast are my last name.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Fast chat stylee live.rtf",
+      "readable": "readable/lyrics/Fast chat stylee live.rtf.txt",
+      "text_hash": "ce7cbec8aace8dde093fb1a4ce54358657309ab8e6097bea6812a4eb12b8e2a0",
+      "tokens": 148,
+      "is_version": false,
+      "title_key": "fastchatstyleelive",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Fast chat stylee live.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Ferma DJ - texter.doc",
+      "readable": "readable/lyrics/Ferma DJ - texter.doc.txt",
+      "text_hash": "97a558e82eaf6204906897ab5f1de99772f0ad6ef51e9580816a16b976f11f8b",
+      "tokens": 1343,
+      "is_version": false,
+      "title_key": "fermadjtexter",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Ferma DJ - texter.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Fruitmasta.rtf",
+      "readable": "readable/lyrics/Fruitmasta.rtf.txt",
+      "text_hash": "cdcce8b78f15a853bc36ccbb84796304d9e2e4ca72157aa6ba6dac20a9e4516c",
+      "tokens": 162,
+      "is_version": false,
+      "title_key": "fruitmasta",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Fruitmasta.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Generation fo´.rtf",
+      "readable": "readable/lyrics/Generation fo´.rtf.txt",
+      "text_hash": "c40a3047149761a4e0cba7fb3000dda436e74ea6a10b5ceb9e5d53c4980d4441",
+      "tokens": 156,
+      "is_version": false,
+      "title_key": "generationfo",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Generation fo´.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Golddigga treaty.rtf",
+      "readable": "readable/lyrics/Golddigga treaty.rtf.txt",
+      "text_hash": "c2f3a26166a9718d6f48969d4e6bafe9d957334c8f162a7809381f9b7b396356",
+      "tokens": 284,
+      "is_version": false,
+      "title_key": "golddiggatreaty",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Golddigga treaty.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Handbook for mercy.rtf",
+      "readable": "readable/lyrics/Handbook for mercy.rtf.txt",
+      "text_hash": "b1a9d970f221b5c61396566807dc413c85e146daae01003d5c1890dd6c88f9d4",
+      "tokens": 183,
+      "is_version": false,
+      "title_key": "handbookformercy",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Handbook for mercy.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/I see lyrics seh anywhere.doc",
+      "readable": "readable/lyrics/I see lyrics seh anywhere.doc.txt",
+      "text_hash": "3c7dfe0be552569abf776b28e796175149965ea61879ac4257d407d20ab0da8a",
+      "tokens": 179,
+      "is_version": false,
+      "title_key": "iseelyricssehanywhere",
+      "status": "canonical",
+      "canonical": "originals/lyrics/I see lyrics seh anywhere.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/In the eyes of power.rtf",
+      "readable": "readable/lyrics/In the eyes of power.rtf.txt",
+      "text_hash": "38a1f76a2f30cba1c17e467a5fcd6640ec3ab035382fd4fe4e67eec821a3c63c",
+      "tokens": 68,
+      "is_version": false,
+      "title_key": "intheeyesofpower",
+      "status": "canonical",
+      "canonical": "originals/lyrics/In the eyes of power.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Interrogation X.rtf",
+      "readable": "readable/lyrics/Interrogation X.rtf.txt",
+      "text_hash": "4a906da4c5764e887c67a4ba2444ad477a8d8a5d6b6ce0ec8a50b445b53886dd",
+      "tokens": 213,
+      "is_version": false,
+      "title_key": "interrogationx",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Interrogation X.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/It is such a bigga riddim.doc",
+      "readable": "readable/lyrics/It is such a bigga riddim.doc.txt",
+      "text_hash": "8422dd502cb50206f6b378d15b89bbe08800ddb9e2b8af2f90326951d1f23fc7",
+      "tokens": 232,
+      "is_version": false,
+      "title_key": "itissuchabiggariddim",
+      "status": "canonical",
+      "canonical": "originals/lyrics/It is such a bigga riddim.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Lyrical Bonde Rhymes.doc",
+      "readable": "readable/lyrics/Lyrical Bonde Rhymes.doc.txt",
+      "text_hash": "cd2b3327a98b539a13e0e5b6a337e37bd0896dd1f764fc858f86d527d7717145",
+      "tokens": 1376,
+      "is_version": false,
+      "title_key": "lyricalbonderhymes",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Lyrical Bonde Rhymes.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Mr Dearhunter.rtf",
+      "readable": "readable/lyrics/Mr Dearhunter.rtf.txt",
+      "text_hash": "5fc40f5d89a8f57d0ae5942d640c79623834af87d2c8150a7504d073eff7e637",
+      "tokens": 522,
+      "is_version": false,
+      "title_key": "mrdearhunter",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Mr Dearhunter.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Mr Gatcrasha.rtf",
+      "readable": "readable/lyrics/Mr Gatcrasha.rtf.txt",
+      "text_hash": "6497fc304a58a93df69ac9fa6c49cc1cc72f669c8c3758f2ebf76beb353f1928",
+      "tokens": 291,
+      "is_version": false,
+      "title_key": "mrgatcrasha",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Mr Gatcrasha.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Nah idle.rtf",
+      "readable": "readable/lyrics/Nah idle.rtf.txt",
+      "text_hash": "a9b690ef018e2589281dc2df6691ede5c377116bca79d0f9ccf489de7eda793a",
+      "tokens": 313,
+      "is_version": false,
+      "title_key": "nahidle",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Nah idle.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Namnlöst.rtf",
+      "readable": "readable/lyrics/Namnlöst.rtf.txt",
+      "text_hash": "cee2793ec539f2e95827ab6937c06575329c47e995a55caf086c778d7d7f6ac9",
+      "tokens": 274,
+      "is_version": false,
+      "title_key": "namnlost",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Namnlöst.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Never never.rtf",
+      "readable": "readable/lyrics/Never never.rtf.txt",
+      "text_hash": "e120aaae32e4a551ebed4b18b43f993f4a56894c892d6959243562871bbfd507",
+      "tokens": 343,
+      "is_version": false,
+      "title_key": "nevernever",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Never never.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Not a whisper.rtf",
+      "readable": "readable/lyrics/Not a whisper.rtf.txt",
+      "text_hash": "bc4e6e5f8b66db7c85228795921315dc20449df765d41d1486a30f1784473d13",
+      "tokens": 357,
+      "is_version": false,
+      "title_key": "notawhisper",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Not a whisper.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Oh Girl.rtf",
+      "readable": "readable/lyrics/Oh Girl.rtf.txt",
+      "text_hash": "4d20c61aca560e78c6fe134707ad3832476b47e0c8050b28a42d36e58a1d2195",
+      "tokens": 255,
+      "is_version": false,
+      "title_key": "ohgirl",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Oh Girl.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Ovasize selecta.doc",
+      "readable": "readable/lyrics/Ovasize selecta.doc.txt",
+      "text_hash": "6980ae50d6b971c638e658eab0544bc4b227f9e5700f885575bd8ff3a9537c33",
+      "tokens": 492,
+      "is_version": false,
+      "title_key": "ovasizeselecta",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Ovasize selecta.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Ovastand.rtf",
+      "readable": "readable/lyrics/Ovastand.rtf.txt",
+      "text_hash": "b438b95db17bb09d26c2549f2d5d51d2c987ac1b0771b9777d4fad521c337b0a",
+      "tokens": 354,
+      "is_version": false,
+      "title_key": "ovastand",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Ovastand.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/People dance again.rtf",
+      "readable": "readable/lyrics/People dance again.rtf.txt",
+      "text_hash": "f7cdf9f260cd3f50f956a3215c76081b0faf28f5bec74b9c1778ae25381f48d2",
+      "tokens": 310,
+      "is_version": false,
+      "title_key": "peopledanceagain",
+      "status": "canonical",
+      "canonical": "originals/lyrics/People dance again.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Picknick rende vouz.doc",
+      "readable": "readable/lyrics/Picknick rende vouz.doc.txt",
+      "text_hash": "9a7c4d95c7b065cab6ef0dd87e208720ac678dbabf679747a2167b9941b5ecf1",
+      "tokens": 253,
+      "is_version": false,
+      "title_key": "picknickrendevouz",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Picknick rende vouz.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Shake dear.rtf",
+      "readable": "readable/lyrics/Shake dear.rtf.txt",
+      "text_hash": "5ba4d71dfdcacbbbbd24fa10a98bf10a82448947a2136af04940e60068118b4a",
+      "tokens": 287,
+      "is_version": false,
+      "title_key": "shakedear",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Shake dear.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Skrattkommitén.rtf",
+      "readable": "readable/lyrics/Skrattkommitén.rtf.txt",
+      "text_hash": "3953f679523ae1c290e3e29f36dedce9e4ec124d7152c803992c249ca78f74c1",
+      "tokens": 231,
+      "is_version": false,
+      "title_key": "skrattkommiten",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Skrattkommitén.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Solid Scary.doc",
+      "readable": "readable/lyrics/Solid Scary.doc.txt",
+      "text_hash": "693f13ffa6da528efd8de280ef8b88192d39c5f3aa85970718828381eb8e4d2d",
+      "tokens": 187,
+      "is_version": false,
+      "title_key": "solidscary",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Solid Scary.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Sound roam silence.rtf",
+      "readable": "readable/lyrics/Sound roam silence.rtf.txt",
+      "text_hash": "d9629dcabc123a77a004670557d8a2850c1d654f736070bfc7650a6c8eee21bf",
+      "tokens": 297,
+      "is_version": false,
+      "title_key": "soundroamsilence",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Sound roam silence.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Stock Market.rtf",
+      "readable": "readable/lyrics/Stock Market.rtf.txt",
+      "text_hash": "43faa9c157f1cf27a538f741c4392920a986e7f5a09a5ea09930aad49c29069e",
+      "tokens": 422,
+      "is_version": false,
+      "title_key": "stockmarket",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Stock Market.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Sudda bort.rtf",
+      "readable": "readable/lyrics/Sudda bort.rtf.txt",
+      "text_hash": "9cd213f2de8ac0b02f8dda992b384586639857bd0741203bec082c884a233c79",
+      "tokens": 206,
+      "is_version": false,
+      "title_key": "suddabort",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Sudda bort.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Summer breeze.doc",
+      "readable": "readable/lyrics/Summer breeze.doc.txt",
+      "text_hash": "ae9d00dceb658df5c0d6cd7ebb4b693cb00c545bfedf38f417ab3cc6f166ca63",
+      "tokens": 374,
+      "is_version": false,
+      "title_key": "summerbreeze",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Summer breeze.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Sweet dreams.rtf",
+      "readable": "readable/lyrics/Sweet dreams.rtf.txt",
+      "text_hash": "87d2d34840645793144abfb100018d8401ebaeb25d1f4918f2635c4a20092770",
+      "tokens": 62,
+      "is_version": false,
+      "title_key": "sweetdreams",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Sweet dreams.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/The Hatter.rtf",
+      "readable": "readable/lyrics/The Hatter.rtf.txt",
+      "text_hash": "5dcdd4854daf55cab7f6fdebda2a723d2037bda74c1167f1620331d6de4f278f",
+      "tokens": 174,
+      "is_version": false,
+      "title_key": "thehatter",
+      "status": "canonical",
+      "canonical": "originals/lyrics/The Hatter.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/The shine is able, the loss is stable.rtf",
+      "readable": "readable/lyrics/The shine is able, the loss is stable.rtf.txt",
+      "text_hash": "c84e3179095169a371efd73dd8f21aad836b76c83ba5e40920f36bb0eb5b1fbe",
+      "tokens": 293,
+      "is_version": false,
+      "title_key": "theshineisablethelossisstable",
+      "status": "canonical",
+      "canonical": "originals/lyrics/The shine is able, the loss is stable.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Three Citys.doc",
+      "readable": "readable/lyrics/Three Citys.doc.txt",
+      "text_hash": "b1c1d779a3e4e6f4fcc46d68a2cf815d6186b42cbe7814a209a5f4ecdf8f3e1b",
+      "tokens": 493,
+      "is_version": false,
+      "title_key": "threecitys",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Three Citys.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Till studio session--.rtf",
+      "readable": "readable/lyrics/Till studio session--.rtf.txt",
+      "text_hash": "78b85e88764718b5ab98c35967f0903146b1bb4236cf2bd5a0e3bdc60e4242a9",
+      "tokens": 139,
+      "is_version": false,
+      "title_key": "tillstudiosession",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Till studio session--.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Trains show us!.txt",
+      "readable": "originals/lyrics/Trains show us!.txt",
+      "text_hash": "b81af19ce9dbceea26a3c82e968066c75eca63ad1a3067d21eaa8429028f6280",
+      "tokens": 93,
+      "is_version": false,
+      "title_key": "trainsshowus",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Trains show us!.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Two shoelace inna tangle.rtf",
+      "readable": "readable/lyrics/Two shoelace inna tangle.rtf.txt",
+      "text_hash": "702401f75ded96f005d81a3472058d4320b55beefa2507f0fe298d86fa4a4daa",
+      "tokens": 526,
+      "is_version": false,
+      "title_key": "twoshoelaceinnatangle",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Two shoelace inna tangle.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Untitled-archive-01.rtf",
+      "readable": null,
+      "text_hash": null,
+      "tokens": 0,
+      "is_version": false,
+      "title_key": "untitledarchive01",
+      "status": "unreadable_or_too_short",
+      "canonical": null,
+      "similarity": null
+    },
+    {
+      "original": "originals/lyrics/WC-WC 2010.rtf",
+      "readable": "readable/lyrics/WC-WC 2010.rtf.txt",
+      "text_hash": "caa0a15856471451509f67e7c778cfd648a24ddd97b41ec115fa82a60fca1328",
+      "tokens": 213,
+      "is_version": false,
+      "title_key": "wcwc2010",
+      "status": "canonical",
+      "canonical": "originals/lyrics/WC-WC 2010.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Wad is di meaning of lovin.doc",
+      "readable": "readable/lyrics/Wad is di meaning of lovin.doc.txt",
+      "text_hash": "a51fb2b06d3516b42fbb453ab17e5e426933d1aa9d4705a79610d54f555d9d49",
+      "tokens": 501,
+      "is_version": false,
+      "title_key": "wadisdimeaningoflovin",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Wad is di meaning of lovin.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/War end.rtf",
+      "readable": "readable/lyrics/War end.rtf.txt",
+      "text_hash": "fc3fbd0fdaf40cafd16d7f8fb3cfa67db208fb6dec9afc9b727f7412e2dad170",
+      "tokens": 142,
+      "is_version": false,
+      "title_key": "warend",
+      "status": "canonical",
+      "canonical": "originals/lyrics/War end.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Wordz and tinker.doc",
+      "readable": "readable/lyrics/Wordz and tinker.doc.txt",
+      "text_hash": "13f650c8ab6f2ea46182afbeedab0e5ec9bf8e28f512a47797025ee569689b64",
+      "tokens": 367,
+      "is_version": false,
+      "title_key": "wordzandtinker",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Wordz and tinker.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/Workmanlike.doc",
+      "readable": "readable/lyrics/Workmanlike.doc.txt",
+      "text_hash": "e85d7fe0418432d72cb1a04ff120c94f2800a4dc75abbf86a565c26b0ba258db",
+      "tokens": 580,
+      "is_version": false,
+      "title_key": "workmanlike",
+      "status": "canonical",
+      "canonical": "originals/lyrics/Workmanlike.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/_unclassified/tyy.docx",
+      "readable": "readable/lyrics/tyy.docx.txt",
+      "text_hash": "85473911026e71a2c5e33ecf26767b3f759f5a41048bf0fc64b57ad0a3d30caf",
+      "tokens": 70,
+      "is_version": false,
+      "title_key": "tyy",
+      "status": "canonical",
+      "canonical": "originals/lyrics/_unclassified/tyy.docx",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/_versions/Backup of Wordz and tinker.doc",
+      "readable": "readable/lyrics/Backup of Wordz and tinker.doc.txt",
+      "text_hash": "3af55b37d2dba5bac53e7c650350c5715cfe8c66c27f7e88216dd97a36002a80",
+      "tokens": 366,
+      "is_version": true,
+      "title_key": "wordzandtinker",
+      "status": "duplicate_or_version",
+      "canonical": "originals/lyrics/Wordz and tinker.doc",
+      "similarity": 0.975,
+      "reason": "near_identical_text"
+    },
+    {
+      "original": "originals/lyrics/_versions/Summer breeze - alternate.docx",
+      "readable": null,
+      "text_hash": null,
+      "tokens": 0,
+      "is_version": true,
+      "title_key": "summerbreeze",
+      "status": "unreadable_or_too_short",
+      "canonical": null,
+      "similarity": null
+    },
+    {
+      "original": "originals/lyrics/refräng.doc",
+      "readable": "readable/lyrics/refräng.doc.txt",
+      "text_hash": "c9c83f7dfd8b2b0d5f5d59c7438fb7b2c928d614c2c9f491aa658fd6cc9c9552",
+      "tokens": 64,
+      "is_version": false,
+      "title_key": "refrang",
+      "status": "canonical",
+      "canonical": "originals/lyrics/refräng.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/lyrics/slackness Lish.rtf",
+      "readable": "readable/lyrics/slackness Lish.rtf.txt",
+      "text_hash": "a536951055db1b2d4b77d0479bb591c01bde96583a797765e8f544413454536e",
+      "tokens": 120,
+      "is_version": false,
+      "title_key": "slacknesslish",
+      "status": "canonical",
+      "canonical": "originals/lyrics/slackness Lish.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/misc/Do somthing.rtf",
+      "readable": "readable/misc/Do somthing.rtf.txt",
+      "text_hash": "b51ef558bcf70152966f544e9d7eb14c1f92fbb2d75c36b0b9f1ee34985d78e8",
+      "tokens": 386,
+      "is_version": false,
+      "title_key": "dosomthing",
+      "status": "canonical",
+      "canonical": "originals/misc/Do somthing.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/misc/Peter Pan-ta - Panta mera.rtf",
+      "readable": "readable/misc/Peter Pan-ta - Panta mera.rtf.txt",
+      "text_hash": "49e4289a78ed5e4cbdce9b91781f6be41de37d785e341128353093cd9dbd0a46",
+      "tokens": 409,
+      "is_version": false,
+      "title_key": "peterpantapantamera",
+      "status": "canonical",
+      "canonical": "originals/misc/Peter Pan-ta - Panta mera.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/other/Blickar möts.txt",
+      "readable": "originals/other/Blickar möts.txt",
+      "text_hash": "4c963f03b8268e8c41ef7acc3394175e0bf90838014e46ba3ef521e2b99bd208",
+      "tokens": 259,
+      "is_version": false,
+      "title_key": "blickarmots",
+      "status": "canonical",
+      "canonical": "originals/other/Blickar möts.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/other/Parentalhood in the stars.txt",
+      "readable": "originals/other/Parentalhood in the stars.txt",
+      "text_hash": "4ebefca612ab5639e2590bb5f6dab081090ed2deb369f621817a0793a9682d67",
+      "tokens": 473,
+      "is_version": false,
+      "title_key": "parentalhoodinthestars",
+      "status": "canonical",
+      "canonical": "originals/other/Parentalhood in the stars.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/other/Svensk text.txt",
+      "readable": "originals/other/Svensk text.txt",
+      "text_hash": "afe68cbd8a12a4bff67a1953b9f1e7a8d8c85a1ab4ef8865f0b63cad13fdc553",
+      "tokens": 40,
+      "is_version": false,
+      "title_key": "svensktext",
+      "status": "canonical",
+      "canonical": "originals/other/Svensk text.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/other/Ton Load.txt",
+      "readable": "originals/other/Ton Load.txt",
+      "text_hash": "7cdcd448319a835a6fdbdf0613305772e45c39b04f3f9ca89b9092055a942563",
+      "tokens": 737,
+      "is_version": false,
+      "title_key": "tonload",
+      "status": "canonical",
+      "canonical": "originals/other/Ton Load.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/other/We are the Fungi.txt",
+      "readable": "originals/other/We are the Fungi.txt",
+      "text_hash": "89c6d41f5f8973551966aa9bd8f0e944b073f1bbc8f1aa5c78402a0e75663d88",
+      "tokens": 178,
+      "is_version": false,
+      "title_key": "wearethefungi",
+      "status": "canonical",
+      "canonical": "originals/other/We are the Fungi.txt",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/A mans life is woeful.rtf",
+      "readable": "readable/poetry/A mans life is woeful.rtf.txt",
+      "text_hash": "d29492be373698fe567dabd4b12e1f5f2c640ea92265b46dd46453d58a897abf",
+      "tokens": 228,
+      "is_version": false,
+      "title_key": "amanslifeiswoeful",
+      "status": "canonical",
+      "canonical": "originals/poetry/A mans life is woeful.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Banal et tu i (etui).rtf",
+      "readable": "readable/poetry/Banal et tu i (etui).rtf.txt",
+      "text_hash": "2d7c36403a1aea61bc1ddd21433c70dffabb3fde390054ef62910be67abac933",
+      "tokens": 212,
+      "is_version": false,
+      "title_key": "banalettuietui",
+      "status": "canonical",
+      "canonical": "originals/poetry/Banal et tu i (etui).rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Bed.rtf",
+      "readable": "readable/poetry/Bed.rtf.txt",
+      "text_hash": "296dfeb34e05669ae10d11c68026ece56edddb0f94291577e9779ed14424b010",
+      "tokens": 214,
+      "is_version": false,
+      "title_key": "bed",
+      "status": "canonical",
+      "canonical": "originals/poetry/Bed.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Cosy worms strapped around an odour.rtf",
+      "readable": "readable/poetry/Cosy worms strapped around an odour.rtf.txt",
+      "text_hash": "8f52a07586e77b00463a5abde1705811ffde9182b13605d6384b182c1d00afb4",
+      "tokens": 240,
+      "is_version": false,
+      "title_key": "cosywormsstrappedaroundanodour",
+      "status": "canonical",
+      "canonical": "originals/poetry/Cosy worms strapped around an odour.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Draft by tenicious settings of raw .rtf",
+      "readable": "readable/poetry/Draft by tenicious settings of raw .rtf.txt",
+      "text_hash": "9a2ab0e336b9ad12e52f78a9cd83d921c10b684c3910cd24f4d87ee1bbbbabb0",
+      "tokens": 146,
+      "is_version": false,
+      "title_key": "draftbytenicioussettingsofraw",
+      "status": "canonical",
+      "canonical": "originals/poetry/Draft by tenicious settings of raw .rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Maka Löst dikt.doc",
+      "readable": "readable/poetry/Maka Löst dikt.doc.txt",
+      "text_hash": "4d0177f3adb98b2130161aa2dce9633e4b66c0b03b441ada593f7c9a805df680",
+      "tokens": 177,
+      "is_version": false,
+      "title_key": "makalostdikt",
+      "status": "canonical",
+      "canonical": "originals/poetry/Maka Löst dikt.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Not so much of anything-moment is now .rtf",
+      "readable": "readable/poetry/Not so much of anything-moment is now .rtf.txt",
+      "text_hash": "dd37b6c05f96141fd19fb990427653ce17bc5b0f7473884df8dbf8ebb4e7b106",
+      "tokens": 247,
+      "is_version": false,
+      "title_key": "notsomuchofanythingmomentisnow",
+      "status": "canonical",
+      "canonical": "originals/poetry/Not so much of anything-moment is now .rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Oral quest.rtf",
+      "readable": "readable/poetry/Oral quest.rtf.txt",
+      "text_hash": "2970e19ac1678d266fe41fb63e12c190c92b20c126268435f32712947db5ddf9",
+      "tokens": 305,
+      "is_version": false,
+      "title_key": "oralquest",
+      "status": "canonical",
+      "canonical": "originals/poetry/Oral quest.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Pikant är livet.rtf",
+      "readable": "readable/poetry/Pikant är livet.rtf.txt",
+      "text_hash": "5a9171cac077f78477d05082bca40c211b7452a62a0f76bc4b6ef5ce33db6c1d",
+      "tokens": 127,
+      "is_version": false,
+      "title_key": "pikantarlivet",
+      "status": "canonical",
+      "canonical": "originals/poetry/Pikant är livet.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Places ought to parade.rtf",
+      "readable": "readable/poetry/Places ought to parade.rtf.txt",
+      "text_hash": "c3fb2e52ee613ea3e00e0496095c1bd4929fb3c68220ffb738cc0e5702fb080c",
+      "tokens": 221,
+      "is_version": false,
+      "title_key": "placesoughttoparade",
+      "status": "canonical",
+      "canonical": "originals/poetry/Places ought to parade.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/The Hy The Man the story.rtf",
+      "readable": "readable/poetry/The Hy The Man the story.rtf.txt",
+      "text_hash": "0362350321b61ac21f39ce2e6565afd86f43bce28c88dac4178d4999a3ea4903",
+      "tokens": 556,
+      "is_version": false,
+      "title_key": "thehythemanthestory",
+      "status": "canonical",
+      "canonical": "originals/poetry/The Hy The Man the story.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/Triumf för é allt. - dikt-visa.rtf",
+      "readable": "readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt",
+      "text_hash": "41bae9ce28e383020c881fbfecc25a12b734bf13a803f5183e582f5d4a3db550",
+      "tokens": 180,
+      "is_version": false,
+      "title_key": "triumfforealltdiktvisa",
+      "status": "canonical",
+      "canonical": "originals/poetry/Triumf för é allt. - dikt-visa.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/You and Mr Pan.doc",
+      "readable": "readable/poetry/You and Mr Pan.doc.txt",
+      "text_hash": "b1e10ac078a611bebdceac6cc0cf1ea6376a55bb761c1728d6711e3c58c29e33",
+      "tokens": 306,
+      "is_version": false,
+      "title_key": "youandmrpan",
+      "status": "canonical",
+      "canonical": "originals/poetry/You and Mr Pan.doc",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/poetry/_versions/Säkerhetskopia avMaka Löst dikt.doc",
+      "readable": "readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt",
+      "text_hash": "ea4a0c6c985a27fc6be8b44cbb56f466759bafbc4637543b88bca4e429dce7fa",
+      "tokens": 177,
+      "is_version": true,
+      "title_key": "makalostdikt",
+      "status": "duplicate_or_version",
+      "canonical": "originals/poetry/Maka Löst dikt.doc",
+      "similarity": 0.9429,
+      "reason": "near_identical_text"
+    },
+    {
+      "original": "originals/recording/Black belt .rtf",
+      "readable": "readable/recording/Black belt .rtf.txt",
+      "text_hash": "c088e7e8bf9e36403289992bd8f8691c31748f204f1f8b4d83a3ac9cd0a5d875",
+      "tokens": 245,
+      "is_version": false,
+      "title_key": "blackbelt",
+      "status": "canonical",
+      "canonical": "originals/recording/Black belt .rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Courtesy.rtf",
+      "readable": "readable/recording/Courtesy.rtf.txt",
+      "text_hash": "ac2122557d55e4158bfe1f25fca3b6f7dbf205ba8b0a0b4063ccf415f5ed9303",
+      "tokens": 380,
+      "is_version": false,
+      "title_key": "courtesy",
+      "status": "canonical",
+      "canonical": "originals/recording/Courtesy.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma  - From one to another.rtf",
+      "readable": "readable/recording/Daddy Ferma  - From one to another.rtf.txt",
+      "text_hash": "f904892da988ff75c01551f71b25384205e18b19d3345104a669ec8aa4cdd4fd",
+      "tokens": 299,
+      "is_version": false,
+      "title_key": "daddyfermafromonetoanother",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma  - From one to another.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Devotion.rtf",
+      "readable": "readable/recording/Daddy Ferma - Devotion.rtf.txt",
+      "text_hash": "821039b91338f65659e463010994bb06503c7184f899bb4ef30345a991ec9432",
+      "tokens": 619,
+      "is_version": false,
+      "title_key": "daddyfermadevotion",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Devotion.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Future passion.rtf",
+      "readable": "readable/recording/Daddy Ferma - Future passion.rtf.txt",
+      "text_hash": "74296fd1b46f387562396d1fc89f63e927159f47a3d1d3b930c9121979d9144e",
+      "tokens": 316,
+      "is_version": false,
+      "title_key": "daddyfermafuturepassion",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Future passion.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Ice cold old friend.rtf",
+      "readable": "readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt",
+      "text_hash": "4fa55cfdc00d4a3262b1370f0e5c9249ccb62b6b83790370a78f97fecbfc3663",
+      "tokens": 628,
+      "is_version": false,
+      "title_key": "daddyfermaicecoldoldfriend",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Ice cold old friend.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Its all Santastic.rtf",
+      "readable": "readable/recording/Daddy Ferma - Its all Santastic.rtf.txt",
+      "text_hash": "c9c1de32b5a942c634c6abb29a21f0a1b72c314df5eb81ccc15cc9b01ab24188",
+      "tokens": 592,
+      "is_version": false,
+      "title_key": "daddyfermaitsallsantastic",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Its all Santastic.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - More than ever.rtf",
+      "readable": "readable/recording/Daddy Ferma - More than ever.rtf.txt",
+      "text_hash": "069d02435d7a6c81e7405ebb3d579971451b0ced5980818f448ce029faf639fb",
+      "tokens": 397,
+      "is_version": false,
+      "title_key": "daddyfermamorethanever",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - More than ever.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Social we Social.rtf",
+      "readable": "readable/recording/Daddy Ferma - Social we Social.rtf.txt",
+      "text_hash": "952c7ec8c45235f27d867ef5539d2a7f234c5d3ae579ee7770e4d19f4246d89e",
+      "tokens": 417,
+      "is_version": false,
+      "title_key": "daddyfermasocialwesocial",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Social we Social.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Daddy Ferma - Terra Nova.rtf",
+      "readable": "readable/recording/Daddy Ferma - Terra Nova.rtf.txt",
+      "text_hash": "5d671753620e76ee06a0680e0e3ba8d7aa26e63143db62c599c50e3dff22713d",
+      "tokens": 84,
+      "is_version": false,
+      "title_key": "daddyfermaterranova",
+      "status": "canonical",
+      "canonical": "originals/recording/Daddy Ferma - Terra Nova.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Fast is my last name - Part 2 - The Seagull.rtf",
+      "readable": "readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt",
+      "text_hash": "e58c04e7ba50251fae1310ee8336f7ebba7d507319a884dd1e3d5369e32833ed",
+      "tokens": 574,
+      "is_version": false,
+      "title_key": "fastismylastnamepart2theseagull",
+      "status": "canonical",
+      "canonical": "originals/recording/Fast is my last name - Part 2 - The Seagull.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Ital dutty.rtf",
+      "readable": "readable/recording/Ital dutty.rtf.txt",
+      "text_hash": "7a209b1bea4d8c4750ad537255f51153638cc96c7371ab6bb7c5cb0b4a38ced4",
+      "tokens": 118,
+      "is_version": false,
+      "title_key": "italdutty",
+      "status": "canonical",
+      "canonical": "originals/recording/Ital dutty.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Music is life.rtf",
+      "readable": "readable/recording/Music is life.rtf.txt",
+      "text_hash": "9cd8ad7a6e850cfbde3d0b335e0e1ef713340665f7e76af54ca5d79d2cfa239f",
+      "tokens": 272,
+      "is_version": false,
+      "title_key": "musicislife",
+      "status": "canonical",
+      "canonical": "originals/recording/Music is life.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Nah leave mi sound.rtf",
+      "readable": "readable/recording/Nah leave mi sound.rtf.txt",
+      "text_hash": "22c64815c73d0707d295d3fce0c51cb73696d6ac9963b7a71e5270e83de17d96",
+      "tokens": 122,
+      "is_version": false,
+      "title_key": "nahleavemisound",
+      "status": "canonical",
+      "canonical": "originals/recording/Nah leave mi sound.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/No is no - permanently.rtf",
+      "readable": "readable/recording/No is no - permanently.rtf.txt",
+      "text_hash": "d96efcc40cd260eed177efea7cbf618a4d1d3d37713c1a2319a178a4480ec78f",
+      "tokens": 89,
+      "is_version": false,
+      "title_key": "noisnopermanently",
+      "status": "canonical",
+      "canonical": "originals/recording/No is no - permanently.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Only one I need.rtf",
+      "readable": "readable/recording/Only one I need.rtf.txt",
+      "text_hash": "f26063079ab2a6d8d8deedbbf1ad403bc615e7fb9dcaacef1f0d2126f91ca8e1",
+      "tokens": 475,
+      "is_version": false,
+      "title_key": "onlyoneineed",
+      "status": "canonical",
+      "canonical": "originals/recording/Only one I need.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Tell soo.rtf",
+      "readable": "readable/recording/Tell soo.rtf.txt",
+      "text_hash": "4e7b6900a454fb2ca9615f7b51514912d88183430cd646bd5b2738105f1017e5",
+      "tokens": 262,
+      "is_version": false,
+      "title_key": "tellsoo",
+      "status": "canonical",
+      "canonical": "originals/recording/Tell soo.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/recording/Watering my inner.rtf",
+      "readable": "readable/recording/Watering my inner.rtf.txt",
+      "text_hash": "119bdd2ca67fbe3a3308e7e2fdcd5febb5512549f2a4b9f988735c1e85f468cc",
+      "tokens": 535,
+      "is_version": false,
+      "title_key": "wateringmyinner",
+      "status": "canonical",
+      "canonical": "originals/recording/Watering my inner.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/songs/Daddy Ferma  - Love is sky high.rtf",
+      "readable": "readable/songs/Daddy Ferma  - Love is sky high.rtf.txt",
+      "text_hash": "835849171fc65f3514806d82d8a3ad22445ffb68f1d731c48923f64e0e3bc7de",
+      "tokens": 638,
+      "is_version": false,
+      "title_key": "daddyfermaloveisskyhigh",
+      "status": "canonical",
+      "canonical": "originals/songs/Daddy Ferma  - Love is sky high.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/songs/Daddy Ferma - Social Gravitation.rtf",
+      "readable": "readable/songs/Daddy Ferma - Social Gravitation.rtf.txt",
+      "text_hash": "a4f5f362a8261388ad893bc62b31de7fb81905d5ffd9e21b3d2008f47a227fb8",
+      "tokens": 370,
+      "is_version": false,
+      "title_key": "daddyfermasocialgravitation",
+      "status": "canonical",
+      "canonical": "originals/songs/Daddy Ferma - Social Gravitation.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/songs/Daddy Ferma - To narrow.rtf",
+      "readable": "readable/songs/Daddy Ferma - To narrow.rtf.txt",
+      "text_hash": "a41724568694d8ebb4bd09050e0a730ae588756c91df87e1222306169beb5e03",
+      "tokens": 463,
+      "is_version": false,
+      "title_key": "daddyfermatonarrow",
+      "status": "canonical",
+      "canonical": "originals/songs/Daddy Ferma - To narrow.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/songs/Daddy Ferma - Watering my inner.rtf",
+      "readable": "readable/songs/Daddy Ferma - Watering my inner.rtf.txt",
+      "text_hash": "1062b4cd2376fe1fbea8e7ff17a7f24895ea41d9d4e222a47c3797cb94255dfb",
+      "tokens": 550,
+      "is_version": false,
+      "title_key": "daddyfermawateringmyinner",
+      "status": "canonical",
+      "canonical": "originals/songs/Daddy Ferma - Watering my inner.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    },
+    {
+      "original": "originals/songs/Daddy Ferma - What a ting.rtf",
+      "readable": "readable/songs/Daddy Ferma - What a ting.rtf.txt",
+      "text_hash": "a0380dbf21db6041d74bf54cab14e651e73f3e718d1b0e132ea9861aa410048a",
+      "tokens": 641,
+      "is_version": false,
+      "title_key": "daddyfermawhatating",
+      "status": "canonical",
+      "canonical": "originals/songs/Daddy Ferma - What a ting.rtf",
+      "similarity": 1.0,
+      "reason": "unique_source_text"
+    }
+  ],
+  "groups": [
+    {
+      "canonical": "originals/chat-poetry/Höströst - Höstrusk.txt",
+      "members": [
+        "originals/chat-poetry/Höströst - Höstrusk.txt"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Critical Hi-Fi - TXT.rtf",
+      "members": [
+        "originals/dubplates/Critical Hi-Fi - TXT.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf",
+      "members": [
+        "originals/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Oversize selecta dubplate cut.doc",
+      "members": [
+        "originals/dubplates/Oversize selecta dubplate cut.doc"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Sir Maximus.rtf",
+      "members": [
+        "originals/dubplates/Sir Maximus.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Tellus sound.rtf",
+      "members": [
+        "originals/dubplates/Tellus sound.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf",
+      "members": [
+        "originals/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/grime/Dead manners, Blood banners.rtf",
+      "members": [
+        "originals/grime/Dead manners, Blood banners.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/grime/Jungelist massive - Live Lyrics bleeps.rtf",
+      "members": [
+        "originals/grime/Jungelist massive - Live Lyrics bleeps.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf",
+      "members": [
+        "originals/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Aks mi bout lyrics.doc",
+      "members": [
+        "originals/lyrics/Aks mi bout lyrics.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/All good is digital.doc",
+      "members": [
+        "originals/lyrics/All good is digital.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Any Kind of.rtf",
+      "members": [
+        "originals/lyrics/Any Kind of.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Backseat mind.rtf",
+      "members": [
+        "originals/lyrics/Backseat mind.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Bad bwy.doc",
+      "members": [
+        "originals/lyrics/Bad bwy.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Blood first.rtf",
+      "members": [
+        "originals/lyrics/Blood first.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Burglary.rtf",
+      "members": [
+        "originals/lyrics/Burglary.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/CSI-Murder Thee.rtf",
+      "members": [
+        "originals/lyrics/CSI-Murder Thee.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Celebrating Bangaran & Club Killer.rtf",
+      "members": [
+        "originals/lyrics/Celebrating Bangaran & Club Killer.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/ChorusChanging the way of my life my life my life.doc",
+      "members": [
+        "originals/lyrics/ChorusChanging the way of my life my life my life.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Cinemamurda.rtf",
+      "members": [
+        "originals/lyrics/Cinemamurda.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Como Nation.rtf",
+      "members": [
+        "originals/lyrics/Como Nation.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Counteract Zoro låt.doc",
+      "members": [
+        "originals/lyrics/Counteract Zoro låt.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Daddy Ferma - Endless story.rtf",
+      "members": [
+        "originals/lyrics/Daddy Ferma - Endless story.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Daddy Ferma - Tribute to di woman.rtf",
+      "members": [
+        "originals/lyrics/Daddy Ferma - Tribute to di woman.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/DnB Lyrics cuts each for .doc",
+      "members": [
+        "originals/lyrics/DnB Lyrics cuts each for .doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Draftlyrics.rtf",
+      "members": [
+        "originals/lyrics/Draftlyrics.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Dubplate 80s.rtf",
+      "members": [
+        "originals/lyrics/Dubplate 80s.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Fast are my last name.doc",
+      "members": [
+        "originals/lyrics/Fast are my last name.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Fast chat stylee live.rtf",
+      "members": [
+        "originals/lyrics/Fast chat stylee live.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Ferma DJ - texter.doc",
+      "members": [
+        "originals/lyrics/Ferma DJ - texter.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Fruitmasta.rtf",
+      "members": [
+        "originals/lyrics/Fruitmasta.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Generation fo´.rtf",
+      "members": [
+        "originals/lyrics/Generation fo´.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Golddigga treaty.rtf",
+      "members": [
+        "originals/lyrics/Golddigga treaty.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Handbook for mercy.rtf",
+      "members": [
+        "originals/lyrics/Handbook for mercy.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/I see lyrics seh anywhere.doc",
+      "members": [
+        "originals/lyrics/I see lyrics seh anywhere.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/In the eyes of power.rtf",
+      "members": [
+        "originals/lyrics/In the eyes of power.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Interrogation X.rtf",
+      "members": [
+        "originals/lyrics/Interrogation X.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/It is such a bigga riddim.doc",
+      "members": [
+        "originals/lyrics/It is such a bigga riddim.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Lyrical Bonde Rhymes.doc",
+      "members": [
+        "originals/lyrics/Lyrical Bonde Rhymes.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Mr Dearhunter.rtf",
+      "members": [
+        "originals/lyrics/Mr Dearhunter.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Mr Gatcrasha.rtf",
+      "members": [
+        "originals/lyrics/Mr Gatcrasha.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Nah idle.rtf",
+      "members": [
+        "originals/lyrics/Nah idle.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Namnlöst.rtf",
+      "members": [
+        "originals/lyrics/Namnlöst.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Never never.rtf",
+      "members": [
+        "originals/lyrics/Never never.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Not a whisper.rtf",
+      "members": [
+        "originals/lyrics/Not a whisper.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Oh Girl.rtf",
+      "members": [
+        "originals/lyrics/Oh Girl.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Ovasize selecta.doc",
+      "members": [
+        "originals/lyrics/Ovasize selecta.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Ovastand.rtf",
+      "members": [
+        "originals/lyrics/Ovastand.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/People dance again.rtf",
+      "members": [
+        "originals/lyrics/People dance again.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Picknick rende vouz.doc",
+      "members": [
+        "originals/lyrics/Picknick rende vouz.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Shake dear.rtf",
+      "members": [
+        "originals/lyrics/Shake dear.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Skrattkommitén.rtf",
+      "members": [
+        "originals/lyrics/Skrattkommitén.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Solid Scary.doc",
+      "members": [
+        "originals/lyrics/Solid Scary.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Sound roam silence.rtf",
+      "members": [
+        "originals/lyrics/Sound roam silence.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Stock Market.rtf",
+      "members": [
+        "originals/lyrics/Stock Market.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Sudda bort.rtf",
+      "members": [
+        "originals/lyrics/Sudda bort.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Summer breeze.doc",
+      "members": [
+        "originals/lyrics/Summer breeze.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Sweet dreams.rtf",
+      "members": [
+        "originals/lyrics/Sweet dreams.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/The Hatter.rtf",
+      "members": [
+        "originals/lyrics/The Hatter.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/The shine is able, the loss is stable.rtf",
+      "members": [
+        "originals/lyrics/The shine is able, the loss is stable.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Three Citys.doc",
+      "members": [
+        "originals/lyrics/Three Citys.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Till studio session--.rtf",
+      "members": [
+        "originals/lyrics/Till studio session--.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Trains show us!.txt",
+      "members": [
+        "originals/lyrics/Trains show us!.txt"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Two shoelace inna tangle.rtf",
+      "members": [
+        "originals/lyrics/Two shoelace inna tangle.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/WC-WC 2010.rtf",
+      "members": [
+        "originals/lyrics/WC-WC 2010.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Wad is di meaning of lovin.doc",
+      "members": [
+        "originals/lyrics/Wad is di meaning of lovin.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/War end.rtf",
+      "members": [
+        "originals/lyrics/War end.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Wordz and tinker.doc",
+      "members": [
+        "originals/lyrics/Wordz and tinker.doc",
+        "originals/lyrics/_versions/Backup of Wordz and tinker.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/Workmanlike.doc",
+      "members": [
+        "originals/lyrics/Workmanlike.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/_unclassified/tyy.docx",
+      "members": [
+        "originals/lyrics/_unclassified/tyy.docx"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/refräng.doc",
+      "members": [
+        "originals/lyrics/refräng.doc"
+      ]
+    },
+    {
+      "canonical": "originals/lyrics/slackness Lish.rtf",
+      "members": [
+        "originals/lyrics/slackness Lish.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/misc/Do somthing.rtf",
+      "members": [
+        "originals/misc/Do somthing.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/misc/Peter Pan-ta - Panta mera.rtf",
+      "members": [
+        "originals/misc/Peter Pan-ta - Panta mera.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/other/Blickar möts.txt",
+      "members": [
+        "originals/other/Blickar möts.txt"
+      ]
+    },
+    {
+      "canonical": "originals/other/Parentalhood in the stars.txt",
+      "members": [
+        "originals/other/Parentalhood in the stars.txt"
+      ]
+    },
+    {
+      "canonical": "originals/other/Svensk text.txt",
+      "members": [
+        "originals/other/Svensk text.txt"
+      ]
+    },
+    {
+      "canonical": "originals/other/Ton Load.txt",
+      "members": [
+        "originals/other/Ton Load.txt"
+      ]
+    },
+    {
+      "canonical": "originals/other/We are the Fungi.txt",
+      "members": [
+        "originals/other/We are the Fungi.txt"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/A mans life is woeful.rtf",
+      "members": [
+        "originals/poetry/A mans life is woeful.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Banal et tu i (etui).rtf",
+      "members": [
+        "originals/poetry/Banal et tu i (etui).rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Bed.rtf",
+      "members": [
+        "originals/poetry/Bed.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Cosy worms strapped around an odour.rtf",
+      "members": [
+        "originals/poetry/Cosy worms strapped around an odour.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Draft by tenicious settings of raw .rtf",
+      "members": [
+        "originals/poetry/Draft by tenicious settings of raw .rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Maka Löst dikt.doc",
+      "members": [
+        "originals/poetry/Maka Löst dikt.doc",
+        "originals/poetry/_versions/Säkerhetskopia avMaka Löst dikt.doc"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Not so much of anything-moment is now .rtf",
+      "members": [
+        "originals/poetry/Not so much of anything-moment is now .rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Oral quest.rtf",
+      "members": [
+        "originals/poetry/Oral quest.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Pikant är livet.rtf",
+      "members": [
+        "originals/poetry/Pikant är livet.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Places ought to parade.rtf",
+      "members": [
+        "originals/poetry/Places ought to parade.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/The Hy The Man the story.rtf",
+      "members": [
+        "originals/poetry/The Hy The Man the story.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/Triumf för é allt. - dikt-visa.rtf",
+      "members": [
+        "originals/poetry/Triumf för é allt. - dikt-visa.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/poetry/You and Mr Pan.doc",
+      "members": [
+        "originals/poetry/You and Mr Pan.doc"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Black belt .rtf",
+      "members": [
+        "originals/recording/Black belt .rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Courtesy.rtf",
+      "members": [
+        "originals/recording/Courtesy.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma  - From one to another.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma  - From one to another.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Devotion.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Devotion.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Future passion.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Future passion.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Ice cold old friend.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Ice cold old friend.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Its all Santastic.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Its all Santastic.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - More than ever.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - More than ever.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Social we Social.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Social we Social.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Daddy Ferma - Terra Nova.rtf",
+      "members": [
+        "originals/recording/Daddy Ferma - Terra Nova.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Fast is my last name - Part 2 - The Seagull.rtf",
+      "members": [
+        "originals/recording/Fast is my last name - Part 2 - The Seagull.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Ital dutty.rtf",
+      "members": [
+        "originals/recording/Ital dutty.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Music is life.rtf",
+      "members": [
+        "originals/recording/Music is life.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Nah leave mi sound.rtf",
+      "members": [
+        "originals/recording/Nah leave mi sound.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/No is no - permanently.rtf",
+      "members": [
+        "originals/recording/No is no - permanently.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Only one I need.rtf",
+      "members": [
+        "originals/recording/Only one I need.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Tell soo.rtf",
+      "members": [
+        "originals/recording/Tell soo.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/recording/Watering my inner.rtf",
+      "members": [
+        "originals/recording/Watering my inner.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/songs/Daddy Ferma  - Love is sky high.rtf",
+      "members": [
+        "originals/songs/Daddy Ferma  - Love is sky high.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/songs/Daddy Ferma - Social Gravitation.rtf",
+      "members": [
+        "originals/songs/Daddy Ferma - Social Gravitation.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/songs/Daddy Ferma - To narrow.rtf",
+      "members": [
+        "originals/songs/Daddy Ferma - To narrow.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/songs/Daddy Ferma - Watering my inner.rtf",
+      "members": [
+        "originals/songs/Daddy Ferma - Watering my inner.rtf"
+      ]
+    },
+    {
+      "canonical": "originals/songs/Daddy Ferma - What a ting.rtf",
+      "members": [
+        "originals/songs/Daddy Ferma - What a ting.rtf"
+      ]
+    }
+  ],
+  "unmatched_text_files": 5
+}

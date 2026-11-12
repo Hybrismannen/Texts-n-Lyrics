@@ -126,4 +126,4 @@ Ett källbevarande litterärt arkiv och en **öppen språklig atlas**: poesi, pr
 
 [Arkivets källstatus](catalog/INDEX.md) · [62 tidigare identifierade chattverk](catalog/chat-register-2024-2026.md) · [Källmanifest](catalog/SOURCE_MANIFEST.md)
 
-*Statistik genererad 2026-11-11 med tools/analyze_archive.py.*
+*Statistik genererad 2026-11-12 med tools/analyze_archive.py.*
