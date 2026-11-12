@@ -1,0 +1,280 @@
+path,role,bytes,github_url
+.github/workflows/corpus-statistics.yml,site_or_code,2710,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/.github/workflows/corpus-statistics.yml
+.github/workflows/publish-native-wiki.yml,site_or_code,2265,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/.github/workflows/publish-native-wiki.yml
+README.md,site_or_code,5512,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/README.md
+analytics/bigrams.csv,analysis_data,265311,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/bigrams.csv
+analytics/charts/content_words.svg,analysis_data,5317,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/charts/content_words.svg
+analytics/charts/source_families.svg,analysis_data,4086,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/charts/source_families.svg
+analytics/charts/themes.svg,analysis_data,4145,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/charts/themes.svg
+analytics/concordance.csv,analysis_data,44058,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/concordance.csv
+analytics/document_tags.csv,analysis_data,38554,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/document_tags.csv
+analytics/documents.csv,analysis_data,24507,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/documents.csv
+analytics/figures.csv,analysis_data,3314,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/figures.csv
+analytics/semantic_neighbors.csv,analysis_data,12082,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/semantic_neighbors.csv
+analytics/summary.json,analysis_data,12670,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/summary.json
+analytics/theme_by_genre.csv,analysis_data,5860,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/theme_by_genre.csv
+analytics/theme_pairs.csv,analysis_data,2401,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/theme_pairs.csv
+analytics/top_words_by_work.csv,analysis_data,53881,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/top_words_by_work.csv
+analytics/topic_by_genre.csv,analysis_data,5616,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/topic_by_genre.csv
+analytics/trigrams.csv,analysis_data,391085,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/trigrams.csv
+analytics/unique_text_index.csv,analysis_data,27931,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/unique_text_index.csv
+analytics/unique_text_index.json,analysis_data,75504,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/unique_text_index.json
+analytics/words.csv,analysis_data,191892,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/words.csv
+analytics/words_by_genre.csv,analysis_data,440064,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/analytics/words_by_genre.csv
+catalog/INDEX.md,catalog_or_wiki,3063,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/catalog/INDEX.md
+catalog/SOURCE_MANIFEST.md,catalog_or_wiki,23708,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/catalog/SOURCE_MANIFEST.md
+catalog/chat-register-2024-2026.md,catalog_or_wiki,2670,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/catalog/chat-register-2024-2026.md
+docs/assets/style.css,site_or_code,11430,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/docs/assets/style.css
+originals/chat-poetry/Höströst - Höstrusk.txt,source,2193,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/chat-poetry/H%C3%B6str%C3%B6st%20-%20H%C3%B6strusk.txt
+originals/dubplates/Critical Hi-Fi - TXT.rtf,source,2695,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Critical%20Hi-Fi%20-%20TXT.rtf
+originals/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf,source,2707,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Gun%20Sweet%20to%20mi%20heart%20-%20Dubplate%20Wolverine%20Hi-Fi.rtf
+originals/dubplates/Oversize selecta dubplate cut.doc,source,36352,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Oversize%20selecta%20dubplate%20cut.doc
+originals/dubplates/Sir Maximus.rtf,source,2456,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Sir%20Maximus.rtf
+originals/dubplates/Tellus sound.rtf,source,2447,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Tellus%20sound.rtf
+originals/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf,source,4006,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/dubplates/Wolverine%20Hi-Fi%20-%20Oversize%20Selecta%20vs%20Big%20Belly.rtf
+"originals/grime/Dead manners, Blood banners.rtf",source,1372,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/grime/Dead%20manners%2C%20Blood%20banners.rtf
+originals/grime/Jungelist massive - Live Lyrics bleeps.rtf,source,1519,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/grime/Jungelist%20massive%20-%20Live%20Lyrics%20bleeps.rtf
+originals/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf,source,3578,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrical-bonde/Lyrical%20Bonde%20-%20Periodiska%20systemfel.rtf
+originals/lyrics/Aks mi bout lyrics.doc,source,25088,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Aks%20mi%20bout%20lyrics.doc
+originals/lyrics/All good is digital.doc,source,29696,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/All%20good%20is%20digital.doc
+originals/lyrics/Any Kind of.rtf,source,714,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Any%20Kind%20of.rtf
+originals/lyrics/Backseat mind.rtf,source,3162,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Backseat%20mind.rtf
+originals/lyrics/Bad bwy.doc,source,21504,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Bad%20bwy.doc
+originals/lyrics/Blood first.rtf,source,3449,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Blood%20first.rtf
+originals/lyrics/Burglary.rtf,source,3188,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Burglary.rtf
+originals/lyrics/CSI-Murder Thee.rtf,source,2458,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/CSI-Murder%20Thee.rtf
+originals/lyrics/Celebrating Bangaran & Club Killer.rtf,source,1815,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Celebrating%20Bangaran%20%26%20Club%20Killer.rtf
+originals/lyrics/ChorusChanging the way of my life my life my life.doc,source,20992,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/ChorusChanging%20the%20way%20of%20my%20life%20my%20life%20my%20life.doc
+originals/lyrics/Cinemamurda.rtf,source,2076,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Cinemamurda.rtf
+originals/lyrics/Como Nation.rtf,source,2492,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Como%20Nation.rtf
+originals/lyrics/Counteract Zoro låt.doc,source,21504,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Counteract%20Zoro%20l%C3%A5t.doc
+originals/lyrics/Daddy Ferma - Endless story.rtf,source,1139,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Daddy%20Ferma%20-%20Endless%20story.rtf
+originals/lyrics/Daddy Ferma - Tribute to di woman.rtf,source,2458,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Daddy%20Ferma%20-%20Tribute%20to%20di%20woman.rtf
+originals/lyrics/DnB Lyrics cuts each for .doc,source,22528,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/DnB%20Lyrics%20cuts%20each%20for%20.doc
+originals/lyrics/Draftlyrics.rtf,source,1795,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Draftlyrics.rtf
+originals/lyrics/Dubplate 80s.rtf,source,2198,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Dubplate%2080s.rtf
+originals/lyrics/Fast are my last name.doc,source,29184,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Fast%20are%20my%20last%20name.doc
+originals/lyrics/Fast chat stylee live.rtf,source,1106,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Fast%20chat%20stylee%20live.rtf
+originals/lyrics/Ferma DJ - texter.doc,source,46080,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Ferma%20DJ%20-%20texter.doc
+originals/lyrics/Fruitmasta.rtf,source,1187,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Fruitmasta.rtf
+originals/lyrics/Generation fo´.rtf,source,1231,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Generation%20fo%C2%B4.rtf
+originals/lyrics/Golddigga treaty.rtf,source,2022,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Golddigga%20treaty.rtf
+originals/lyrics/Handbook for mercy.rtf,source,1372,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Handbook%20for%20mercy.rtf
+originals/lyrics/I see lyrics seh anywhere.doc,source,20992,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/I%20see%20lyrics%20seh%20anywhere.doc
+originals/lyrics/In the eyes of power.rtf,source,698,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/In%20the%20eyes%20of%20power.rtf
+originals/lyrics/Interrogation X.rtf,source,1635,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Interrogation%20X.rtf
+originals/lyrics/It is such a bigga riddim.doc,source,20992,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/It%20is%20such%20a%20bigga%20riddim.doc
+originals/lyrics/Lyrical Bonde Rhymes.doc,source,41472,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Lyrical%20Bonde%20Rhymes.doc
+originals/lyrics/Mr Dearhunter.rtf,source,3032,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Mr%20Dearhunter.rtf
+originals/lyrics/Mr Gatcrasha.rtf,source,2543,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Mr%20Gatcrasha.rtf
+originals/lyrics/Nah idle.rtf,source,1983,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Nah%20idle.rtf
+originals/lyrics/Namnlöst.rtf,source,2141,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Namnl%C3%B6st.rtf
+originals/lyrics/Never never.rtf,source,2261,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Never%20never.rtf
+originals/lyrics/Not a whisper.rtf,source,2337,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Not%20a%20whisper.rtf
+originals/lyrics/Oh Girl.rtf,source,1676,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Oh%20Girl.rtf
+originals/lyrics/Ovasize selecta.doc,source,29696,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Ovasize%20selecta.doc
+originals/lyrics/Ovastand.rtf,source,2825,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Ovastand.rtf
+originals/lyrics/People dance again.rtf,source,2080,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/People%20dance%20again.rtf
+originals/lyrics/Picknick rende vouz.doc,source,21504,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Picknick%20rende%20vouz.doc
+originals/lyrics/Shake dear.rtf,source,1957,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Shake%20dear.rtf
+originals/lyrics/Skrattkommitén.rtf,source,1915,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Skrattkommit%C3%A9n.rtf
+originals/lyrics/Solid Scary.doc,source,20480,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Solid%20Scary.doc
+originals/lyrics/Sound roam silence.rtf,source,3124,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Sound%20roam%20silence.rtf
+originals/lyrics/Stock Market.rtf,source,2970,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Stock%20Market.rtf
+originals/lyrics/Sudda bort.rtf,source,1782,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Sudda%20bort.rtf
+originals/lyrics/Summer breeze.doc,source,34304,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Summer%20breeze.doc
+originals/lyrics/Sweet dreams.rtf,source,695,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Sweet%20dreams.rtf
+originals/lyrics/The Hatter.rtf,source,1265,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/The%20Hatter.rtf
+"originals/lyrics/The shine is able, the loss is stable.rtf",source,2270,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/The%20shine%20is%20able%2C%20the%20loss%20is%20stable.rtf
+originals/lyrics/Three Citys.doc,source,23040,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Three%20Citys.doc
+originals/lyrics/Till studio session--.rtf,source,1011,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Till%20studio%20session--.rtf
+originals/lyrics/Trains show us!.txt,source,498,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Trains%20show%20us%21.txt
+originals/lyrics/Two shoelace inna tangle.rtf,source,6053,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Two%20shoelace%20inna%20tangle.rtf
+originals/lyrics/Untitled-archive-01.rtf,source,839,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Untitled-archive-01.rtf
+originals/lyrics/WC-WC 2010.rtf,source,2008,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/WC-WC%202010.rtf
+originals/lyrics/Wad is di meaning of lovin.doc,source,30720,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Wad%20is%20di%20meaning%20of%20lovin.doc
+originals/lyrics/War end.rtf,source,1286,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/War%20end.rtf
+originals/lyrics/Wordz and tinker.doc,source,28160,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Wordz%20and%20tinker.doc
+originals/lyrics/Workmanlike.doc,source,28672,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/Workmanlike.doc
+originals/lyrics/_unclassified/tyy.docx,source,49718,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/_unclassified/tyy.docx
+originals/lyrics/_versions/Backup of Wordz and tinker.doc,source,22528,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/_versions/Backup%20of%20Wordz%20and%20tinker.doc
+originals/lyrics/_versions/Summer breeze - alternate.docx,source,166676,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/_versions/Summer%20breeze%20-%20alternate.docx
+originals/lyrics/refräng.doc,source,22528,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/refr%C3%A4ng.doc
+originals/lyrics/slackness Lish.rtf,source,828,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/lyrics/slackness%20Lish.rtf
+originals/misc/Do somthing.rtf,source,2381,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/misc/Do%20somthing.rtf
+originals/misc/Peter Pan-ta - Panta mera.rtf,source,3405,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/misc/Peter%20Pan-ta%20-%20Panta%20mera.rtf
+originals/other/Blickar möts.txt,source,1535,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/other/Blickar%20m%C3%B6ts.txt
+originals/other/Parentalhood in the stars.txt,source,2602,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/other/Parentalhood%20in%20the%20stars.txt
+originals/other/Svensk text.txt,source,249,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/other/Svensk%20text.txt
+originals/other/Ton Load.txt,source,3695,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/other/Ton%20Load.txt
+originals/other/We are the Fungi.txt,source,1062,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/other/We%20are%20the%20Fungi.txt
+originals/poetry/A mans life is woeful.rtf,source,1512,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/A%20mans%20life%20is%20woeful.rtf
+originals/poetry/Banal et tu i (etui).rtf,source,1540,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Banal%20et%20tu%20i%20%28etui%29.rtf
+originals/poetry/Bed.rtf,source,1372,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Bed.rtf
+originals/poetry/Cosy worms strapped around an odour.rtf,source,1952,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Cosy%20worms%20strapped%20around%20an%20odour.rtf
+originals/poetry/Draft by tenicious settings of raw .rtf,source,1202,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Draft%20by%20tenicious%20settings%20of%20raw%20.rtf
+originals/poetry/Maka Löst dikt.doc,source,22528,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Maka%20L%C3%B6st%20dikt.doc
+originals/poetry/Not so much of anything-moment is now .rtf,source,1643,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Not%20so%20much%20of%20anything-moment%20is%20now%20.rtf
+originals/poetry/Oral quest.rtf,source,1977,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Oral%20quest.rtf
+originals/poetry/Pikant är livet.rtf,source,1233,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Pikant%20%C3%A4r%20livet.rtf
+originals/poetry/Places ought to parade.rtf,source,1809,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Places%20ought%20to%20parade.rtf
+originals/poetry/The Hy The Man the story.rtf,source,3223,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/The%20Hy%20The%20Man%20the%20story.rtf
+originals/poetry/Triumf för é allt. - dikt-visa.rtf,source,1724,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/Triumf%20f%C3%B6r%20%C3%A9%20allt.%20-%20dikt-visa.rtf
+originals/poetry/You and Mr Pan.doc,source,27648,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/You%20and%20Mr%20Pan.doc
+originals/poetry/_versions/Säkerhetskopia avMaka Löst dikt.doc,source,20480,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/poetry/_versions/S%C3%A4kerhetskopia%20avMaka%20L%C3%B6st%20dikt.doc
+originals/recording/Black belt .rtf,source,1621,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Black%20belt%20.rtf
+originals/recording/Courtesy.rtf,source,2436,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Courtesy.rtf
+originals/recording/Daddy Ferma  - From one to another.rtf,source,2256,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20%20-%20From%20one%20to%20another.rtf
+originals/recording/Daddy Ferma - Devotion.rtf,source,4062,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Devotion.rtf
+originals/recording/Daddy Ferma - Future passion.rtf,source,2030,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Future%20passion.rtf
+originals/recording/Daddy Ferma - Ice cold old friend.rtf,source,3544,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Ice%20cold%20old%20friend.rtf
+originals/recording/Daddy Ferma - Its all Santastic.rtf,source,3598,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Its%20all%20Santastic.rtf
+originals/recording/Daddy Ferma - More than ever.rtf,source,2426,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20More%20than%20ever.rtf
+originals/recording/Daddy Ferma - Social we Social.rtf,source,4236,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Social%20we%20Social.rtf
+originals/recording/Daddy Ferma - Terra Nova.rtf,source,847,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Daddy%20Ferma%20-%20Terra%20Nova.rtf
+originals/recording/Fast is my last name - Part 2 - The Seagull.rtf,source,3294,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Fast%20is%20my%20last%20name%20-%20Part%202%20-%20The%20Seagull.rtf
+originals/recording/Ital dutty.rtf,source,993,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Ital%20dutty.rtf
+originals/recording/Music is life.rtf,source,1755,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Music%20is%20life.rtf
+originals/recording/Nah leave mi sound.rtf,source,1000,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Nah%20leave%20mi%20sound.rtf
+originals/recording/No is no - permanently.rtf,source,806,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/No%20is%20no%20-%20permanently.rtf
+originals/recording/Only one I need.rtf,source,2730,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Only%20one%20I%20need.rtf
+originals/recording/Tell soo.rtf,source,1738,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Tell%20soo.rtf
+originals/recording/Watering my inner.rtf,source,3290,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/recording/Watering%20my%20inner.rtf
+originals/songs/Daddy Ferma  - Love is sky high.rtf,source,3493,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/songs/Daddy%20Ferma%20%20-%20Love%20is%20sky%20high.rtf
+originals/songs/Daddy Ferma - Social Gravitation.rtf,source,2399,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/songs/Daddy%20Ferma%20-%20Social%20Gravitation.rtf
+originals/songs/Daddy Ferma - To narrow.rtf,source,2818,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/songs/Daddy%20Ferma%20-%20To%20narrow.rtf
+originals/songs/Daddy Ferma - Watering my inner.rtf,source,4052,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/songs/Daddy%20Ferma%20-%20Watering%20my%20inner.rtf
+originals/songs/Daddy Ferma - What a ting.rtf,source,3982,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/originals/songs/Daddy%20Ferma%20-%20What%20a%20ting.rtf
+readable/chat-poetry/_editorial/Nu är det så här!.txt,readable_copy,1759,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/chat-poetry/_editorial/Nu%20%C3%A4r%20det%20s%C3%A5%20h%C3%A4r%21.txt
+readable/chat-poetry/_editorial/Trubadur O - En kastanj faller sällan ensam.txt,readable_copy,1350,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/chat-poetry/_editorial/Trubadur%20O%20-%20En%20kastanj%20faller%20s%C3%A4llan%20ensam.txt
+readable/dubplates/Critical Hi-Fi - TXT.rtf.txt,readable_copy,2244,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Critical%20Hi-Fi%20-%20TXT.rtf.txt
+readable/dubplates/Gun Sweet to mi heart - Dubplate Wolverine Hi-Fi.rtf.txt,readable_copy,2019,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Gun%20Sweet%20to%20mi%20heart%20-%20Dubplate%20Wolverine%20Hi-Fi.rtf.txt
+readable/dubplates/Oversize selecta dubplate cut.doc.txt,readable_copy,2790,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Oversize%20selecta%20dubplate%20cut.doc.txt
+readable/dubplates/Sir Maximus.rtf.txt,readable_copy,1943,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Sir%20Maximus.rtf.txt
+readable/dubplates/Tellus sound.rtf.txt,readable_copy,2009,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Tellus%20sound.rtf.txt
+readable/dubplates/Wolverine Hi-Fi - Oversize Selecta vs Big Belly.rtf.txt,readable_copy,2876,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/dubplates/Wolverine%20Hi-Fi%20-%20Oversize%20Selecta%20vs%20Big%20Belly.rtf.txt
+"readable/grime/Dead manners, Blood banners.rtf.txt",readable_copy,985,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/grime/Dead%20manners%2C%20Blood%20banners.rtf.txt
+readable/grime/Jungelist massive - Live Lyrics bleeps.rtf.txt,readable_copy,1155,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/grime/Jungelist%20massive%20-%20Live%20Lyrics%20bleeps.rtf.txt
+readable/lyrical-bonde/Lyrical Bonde - Periodiska systemfel.rtf.txt,readable_copy,2516,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrical-bonde/Lyrical%20Bonde%20-%20Periodiska%20systemfel.rtf.txt
+readable/lyrics/----.rtf.txt,readable_copy,486,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/----.rtf.txt
+readable/lyrics/Aks mi bout lyrics.doc.txt,readable_copy,1136,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Aks%20mi%20bout%20lyrics.doc.txt
+readable/lyrics/All good is digital.doc.txt,readable_copy,2322,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/All%20good%20is%20digital.doc.txt
+readable/lyrics/Any Kind of.rtf.txt,readable_copy,368,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Any%20Kind%20of.rtf.txt
+readable/lyrics/Backseat mind.rtf.txt,readable_copy,1626,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Backseat%20mind.rtf.txt
+readable/lyrics/Backup of Wordz and tinker.doc.txt,readable_copy,1883,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Backup%20of%20Wordz%20and%20tinker.doc.txt
+readable/lyrics/Bad bwy.doc.txt,readable_copy,1161,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Bad%20bwy.doc.txt
+readable/lyrics/Blood first.rtf.txt,readable_copy,1926,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Blood%20first.rtf.txt
+readable/lyrics/Burglary.rtf.txt,readable_copy,2514,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Burglary.rtf.txt
+readable/lyrics/CSI-Murder Thee.rtf.txt,readable_copy,1110,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/CSI-Murder%20Thee.rtf.txt
+readable/lyrics/Celebrating Bangaran & Club Killer.rtf.txt,readable_copy,1061,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Celebrating%20Bangaran%20%26%20Club%20Killer.rtf.txt
+readable/lyrics/ChorusChanging the way of my life my life my life.doc.txt,readable_copy,1199,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/ChorusChanging%20the%20way%20of%20my%20life%20my%20life%20my%20life.doc.txt
+readable/lyrics/Cinemamurda.rtf.txt,readable_copy,1444,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Cinemamurda.rtf.txt
+readable/lyrics/Como Nation.rtf.txt,readable_copy,1798,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Como%20Nation.rtf.txt
+readable/lyrics/Counteract Zoro låt.doc.txt,readable_copy,1497,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Counteract%20Zoro%20l%C3%A5t.doc.txt
+readable/lyrics/Daddy Ferma - Endless story.rtf.txt,readable_copy,636,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Daddy%20Ferma%20-%20Endless%20story.rtf.txt
+readable/lyrics/Daddy Ferma - Tribute to di woman.rtf.txt,readable_copy,2041,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Daddy%20Ferma%20-%20Tribute%20to%20di%20woman.rtf.txt
+readable/lyrics/DnB Lyrics cuts each for .doc.txt,readable_copy,1746,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/DnB%20Lyrics%20cuts%20each%20for%20.doc.txt
+readable/lyrics/Draftlyrics.rtf.txt,readable_copy,1173,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Draftlyrics.rtf.txt
+readable/lyrics/Dubplate 80s.rtf.txt,readable_copy,1800,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Dubplate%2080s.rtf.txt
+readable/lyrics/Fast are my last name.doc.txt,readable_copy,2417,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Fast%20are%20my%20last%20name.doc.txt
+readable/lyrics/Fast chat stylee live.rtf.txt,readable_copy,744,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Fast%20chat%20stylee%20live.rtf.txt
+readable/lyrics/Ferma DJ - texter.doc.txt,readable_copy,6704,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Ferma%20DJ%20-%20texter.doc.txt
+readable/lyrics/Fruitmasta.rtf.txt,readable_copy,816,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Fruitmasta.rtf.txt
+readable/lyrics/Generation fo´.rtf.txt,readable_copy,747,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Generation%20fo%C2%B4.rtf.txt
+readable/lyrics/Golddigga treaty.rtf.txt,readable_copy,1395,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Golddigga%20treaty.rtf.txt
+readable/lyrics/Handbook for mercy.rtf.txt,readable_copy,999,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Handbook%20for%20mercy.rtf.txt
+readable/lyrics/I see lyrics seh anywhere.doc.txt,readable_copy,936,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/I%20see%20lyrics%20seh%20anywhere.doc.txt
+readable/lyrics/In the eyes of power.rtf.txt,readable_copy,345,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/In%20the%20eyes%20of%20power.rtf.txt
+readable/lyrics/Interrogation X.rtf.txt,readable_copy,1103,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Interrogation%20X.rtf.txt
+readable/lyrics/It is such a bigga riddim.doc.txt,readable_copy,1192,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/It%20is%20such%20a%20bigga%20riddim.doc.txt
+readable/lyrics/Lyrical Bonde Rhymes.doc.txt,readable_copy,6756,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Lyrical%20Bonde%20Rhymes.doc.txt
+readable/lyrics/Mr Dearhunter.rtf.txt,readable_copy,2575,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Mr%20Dearhunter.rtf.txt
+readable/lyrics/Mr Gatcrasha.rtf.txt,readable_copy,1419,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Mr%20Gatcrasha.rtf.txt
+readable/lyrics/Nah idle.rtf.txt,readable_copy,1455,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Nah%20idle.rtf.txt
+readable/lyrics/Namnlöst.rtf.txt,readable_copy,1426,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Namnl%C3%B6st.rtf.txt
+readable/lyrics/Never never.rtf.txt,readable_copy,1704,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Never%20never.rtf.txt
+readable/lyrics/Not a whisper.rtf.txt,readable_copy,1926,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Not%20a%20whisper.rtf.txt
+readable/lyrics/Oh Girl.rtf.txt,readable_copy,1183,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Oh%20Girl.rtf.txt
+readable/lyrics/Ovasize selecta.doc.txt,readable_copy,2566,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Ovasize%20selecta.doc.txt
+readable/lyrics/Ovastand.rtf.txt,readable_copy,1818,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Ovastand.rtf.txt
+readable/lyrics/People dance again.rtf.txt,readable_copy,1463,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/People%20dance%20again.rtf.txt
+readable/lyrics/Picknick rende vouz.doc.txt,readable_copy,1305,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Picknick%20rende%20vouz.doc.txt
+readable/lyrics/Shake dear.rtf.txt,readable_copy,1421,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Shake%20dear.rtf.txt
+readable/lyrics/Skrattkommitén.rtf.txt,readable_copy,1398,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Skrattkommit%C3%A9n.rtf.txt
+readable/lyrics/Solid Scary.doc.txt,readable_copy,1030,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Solid%20Scary.doc.txt
+readable/lyrics/Sound roam silence.rtf.txt,readable_copy,1533,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Sound%20roam%20silence.rtf.txt
+readable/lyrics/Stock Market.rtf.txt,readable_copy,2236,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Stock%20Market.rtf.txt
+readable/lyrics/Sudda bort.rtf.txt,readable_copy,1199,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Sudda%20bort.rtf.txt
+readable/lyrics/Summer breeze.doc.txt,readable_copy,2019,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Summer%20breeze.doc.txt
+readable/lyrics/Summer breeze.docx.txt,readable_copy,2009,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Summer%20breeze.docx.txt
+readable/lyrics/Sweet dreams.rtf.txt,readable_copy,324,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Sweet%20dreams.rtf.txt
+readable/lyrics/The Hatter.rtf.txt,readable_copy,793,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/The%20Hatter.rtf.txt
+"readable/lyrics/The shine is able, the loss is stable.rtf.txt",readable_copy,1518,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/The%20shine%20is%20able%2C%20the%20loss%20is%20stable.rtf.txt
+readable/lyrics/Three Citys.doc.txt,readable_copy,2421,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Three%20Citys.doc.txt
+readable/lyrics/Till studio session--.rtf.txt,readable_copy,653,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Till%20studio%20session--.rtf.txt
+readable/lyrics/Trains show us!.txt.txt,readable_copy,498,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Trains%20show%20us%21.txt.txt
+readable/lyrics/Two shoelace inna tangle.rtf.txt,readable_copy,2635,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Two%20shoelace%20inna%20tangle.rtf.txt
+readable/lyrics/WC-WC 2010.rtf.txt,readable_copy,1131,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/WC-WC%202010.rtf.txt
+readable/lyrics/Wad is di meaning of lovin.doc.txt,readable_copy,2475,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Wad%20is%20di%20meaning%20of%20lovin.doc.txt
+readable/lyrics/War end.rtf.txt,readable_copy,674,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/War%20end.rtf.txt
+readable/lyrics/Wordz and tinker.doc.txt,readable_copy,1894,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Wordz%20and%20tinker.doc.txt
+readable/lyrics/Workmanlike.doc.txt,readable_copy,2946,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/Workmanlike.doc.txt
+readable/lyrics/refräng.doc.txt,readable_copy,311,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/refr%C3%A4ng.doc.txt
+readable/lyrics/slackness Lish.rtf.txt,readable_copy,535,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/slackness%20Lish.rtf.txt
+readable/lyrics/tyy.docx.txt,readable_copy,359,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/lyrics/tyy.docx.txt
+readable/misc/Do somthing.rtf.txt,readable_copy,1837,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/misc/Do%20somthing.rtf.txt
+readable/misc/Peter Pan-ta - Panta mera.rtf.txt,readable_copy,2173,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/misc/Peter%20Pan-ta%20-%20Panta%20mera.rtf.txt
+readable/poetry/A mans life is woeful.rtf.txt,readable_copy,1206,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/A%20mans%20life%20is%20woeful.rtf.txt
+readable/poetry/Banal et tu i (etui).rtf.txt,readable_copy,1244,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Banal%20et%20tu%20i%20%28etui%29.rtf.txt
+readable/poetry/Bed.rtf.txt,readable_copy,1093,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Bed.rtf.txt
+readable/poetry/Cosy worms strapped around an odour.rtf.txt,readable_copy,1368,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Cosy%20worms%20strapped%20around%20an%20odour.rtf.txt
+readable/poetry/Draft by tenicious settings of raw .rtf.txt,readable_copy,838,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Draft%20by%20tenicious%20settings%20of%20raw%20.rtf.txt
+readable/poetry/Maka Löst dikt.doc.txt,readable_copy,1011,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Maka%20L%C3%B6st%20dikt.doc.txt
+readable/poetry/Not so much of anything-moment is now .rtf.txt,readable_copy,1266,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Not%20so%20much%20of%20anything-moment%20is%20now%20.rtf.txt
+readable/poetry/Oral quest.rtf.txt,readable_copy,1604,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Oral%20quest.rtf.txt
+readable/poetry/Pikant är livet.rtf.txt,readable_copy,693,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Pikant%20%C3%A4r%20livet.rtf.txt
+readable/poetry/Places ought to parade.rtf.txt,readable_copy,1311,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Places%20ought%20to%20parade.rtf.txt
+readable/poetry/Säkerhetskopia avMaka Löst dikt.doc.txt,readable_copy,1012,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/S%C3%A4kerhetskopia%20avMaka%20L%C3%B6st%20dikt.doc.txt
+readable/poetry/The Hy The Man the story.rtf.txt,readable_copy,2865,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/The%20Hy%20The%20Man%20the%20story.rtf.txt
+readable/poetry/Triumf för é allt. - dikt-visa.rtf.txt,readable_copy,1007,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/Triumf%20f%C3%B6r%20%C3%A9%20allt.%20-%20dikt-visa.rtf.txt
+readable/poetry/You and Mr Pan.doc.txt,readable_copy,1510,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/poetry/You%20and%20Mr%20Pan.doc.txt
+readable/recording/Black belt .rtf.txt,readable_copy,1221,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Black%20belt%20.rtf.txt
+readable/recording/Courtesy.rtf.txt,readable_copy,2018,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Courtesy.rtf.txt
+readable/recording/Daddy Ferma  - From one to another.rtf.txt,readable_copy,1432,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20%20-%20From%20one%20to%20another.rtf.txt
+readable/recording/Daddy Ferma - Devotion.rtf.txt,readable_copy,3096,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Devotion.rtf.txt
+readable/recording/Daddy Ferma - Future passion.rtf.txt,readable_copy,1623,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Future%20passion.rtf.txt
+readable/recording/Daddy Ferma - Ice cold old friend.rtf.txt,readable_copy,3105,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Ice%20cold%20old%20friend.rtf.txt
+readable/recording/Daddy Ferma - Its all Santastic.rtf.txt,readable_copy,2992,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Its%20all%20Santastic.rtf.txt
+readable/recording/Daddy Ferma - More than ever.rtf.txt,readable_copy,2008,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20More%20than%20ever.rtf.txt
+readable/recording/Daddy Ferma - Social we Social.rtf.txt,readable_copy,2263,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Social%20we%20Social.rtf.txt
+readable/recording/Daddy Ferma - Terra Nova.rtf.txt,readable_copy,396,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Daddy%20Ferma%20-%20Terra%20Nova.rtf.txt
+readable/recording/Fast is my last name - Part 2 - The Seagull.rtf.txt,readable_copy,2849,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Fast%20is%20my%20last%20name%20-%20Part%202%20-%20The%20Seagull.rtf.txt
+readable/recording/Ital dutty.rtf.txt,readable_copy,597,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Ital%20dutty.rtf.txt
+readable/recording/Music is life.rtf.txt,readable_copy,1358,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Music%20is%20life.rtf.txt
+readable/recording/Nah leave mi sound.rtf.txt,readable_copy,641,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Nah%20leave%20mi%20sound.rtf.txt
+readable/recording/No is no - permanently.rtf.txt,readable_copy,446,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/No%20is%20no%20-%20permanently.rtf.txt
+readable/recording/Only one I need.rtf.txt,readable_copy,2271,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Only%20one%20I%20need.rtf.txt
+readable/recording/Tell soo.rtf.txt,readable_copy,1339,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Tell%20soo.rtf.txt
+readable/recording/Watering my inner.rtf.txt,readable_copy,2587,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/recording/Watering%20my%20inner.rtf.txt
+readable/songs/Daddy Ferma  - Love is sky high.rtf.txt,readable_copy,2998,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/songs/Daddy%20Ferma%20%20-%20Love%20is%20sky%20high.rtf.txt
+readable/songs/Daddy Ferma - Social Gravitation.rtf.txt,readable_copy,1980,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/songs/Daddy%20Ferma%20-%20Social%20Gravitation.rtf.txt
+readable/songs/Daddy Ferma - To narrow.rtf.txt,readable_copy,2230,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/songs/Daddy%20Ferma%20-%20To%20narrow.rtf.txt
+readable/songs/Daddy Ferma - Watering my inner.rtf.txt,readable_copy,2681,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/songs/Daddy%20Ferma%20-%20Watering%20my%20inner.rtf.txt
+readable/songs/Daddy Ferma - What a ting.rtf.txt,readable_copy,3169,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/readable/songs/Daddy%20Ferma%20-%20What%20a%20ting.rtf.txt
+tools/__pycache__/analyze_archive.cpython-312.pyc,site_or_code,69128,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/tools/__pycache__/analyze_archive.cpython-312.pyc
+tools/__pycache__/unique_texts.cpython-312.pyc,site_or_code,15047,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/tools/__pycache__/unique_texts.cpython-312.pyc
+tools/analyze_archive.py,site_or_code,40867,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/tools/analyze_archive.py
+tools/build_library.py,site_or_code,15901,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/tools/build_library.py
+tools/unique_texts.py,site_or_code,8831,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/tools/unique_texts.py
+wiki/Amnen-och-fokus.md,catalog_or_wiki,13137,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Amnen-och-fokus.md
+wiki/Figurer.md,catalog_or_wiki,5022,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Figurer.md
+wiki/Genre-och-form.md,catalog_or_wiki,32679,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Genre-och-form.md
+wiki/Home.md,catalog_or_wiki,2696,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Home.md
+wiki/Korpus-och-metod.md,catalog_or_wiki,3049,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Korpus-och-metod.md
+wiki/PUBLISHING.md,catalog_or_wiki,1564,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/PUBLISHING.md
+wiki/Redaktionell-analys.md,catalog_or_wiki,5242,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Redaktionell-analys.md
+wiki/Semantik.md,catalog_or_wiki,16202,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Semantik.md
+wiki/Teman-och-motiv.md,catalog_or_wiki,30728,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Teman-och-motiv.md
+wiki/Unika-texter.md,catalog_or_wiki,33256,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Unika-texter.md
+wiki/Verkindex.md,catalog_or_wiki,23694,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/Verkindex.md
+wiki/_Sidebar.md,catalog_or_wiki,355,https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/wiki/_Sidebar.md
