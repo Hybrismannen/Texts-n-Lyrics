@@ -11,6 +11,7 @@ from urllib.parse import quote
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/"tools"))
 import analyze_archive as A
+from unique_texts import build as build_unique_index
 BASE="https://github.com/Hybrismannen/Texts-n-Lyrics/blob/main/"
 OUT=ROOT/"docs"/"data"
 def rel(p):return p.relative_to(ROOT).as_posix()
@@ -110,12 +111,18 @@ def extract_segments(text,path):
         if len(tokens(excerpt))>=25:result.append({"title":title,"text":excerpt,"start":pos})
     return result
 def main():
-    original_paths=sorted([p for p in (ROOT/"originals").rglob("*") if p.is_file()])
+    unique_index=build_unique_index()
+    canonical_records=[r for r in unique_index["records"] if r["status"]=="canonical"]
+    original_paths=[ROOT/r["original"] for r in canonical_records]
+    index_by_original={r["original"]:r for r in canonical_records}
     readable_paths=sorted([p for p in (ROOT/"readable").rglob("*") if p.is_file()])
     documents=[];wordcounts={};subworks=[];missing=[];mappings=[]
     for index,p in enumerate(original_paths,1):
         raw=rel(p)
-        text,rpath,ok=get_text(p)
+        provenance=index_by_original[raw]
+        rpath=provenance["readable"]
+        ok=bool(rpath)
+        text=(ROOT/rpath).read_text(encoding="utf-8-sig",errors="replace") if rpath else ""
         if not ok:missing.append(raw)
         title=p.stem
         if p.suffix.lower()==".txt":title=p.name[:-4]
@@ -192,31 +199,34 @@ def main():
         if norm:duplicates[__import__("hashlib").sha256(norm.encode()).hexdigest()].append(r["id"])
     duplicate_sets=[v for v in duplicates.values() if len(v)>1]
     summary={
-      "original_files":len(original_paths),"readable_copies":len(readable_paths),"analyzed_source_files":len(documents)-len(missing),
+      "original_files":len(original_paths),"physical_original_files":unique_index["source_files"],
+      "canonical_unique_texts":len(original_paths),
+      "excluded_duplicate_or_version":unique_index["excluded_duplicate_or_version"],
+      "readable_copies":len(readable_paths),"analyzed_source_files":len(documents)-len(missing),
       "missing_readable":len(missing),"register_references":len(pending),
-      "physical_text_files":len(original_paths)+len(readable_paths),
+      "physical_text_files":unique_index["source_files"]+len(readable_paths),
       "detected_subworks_in_compilations":len(subworks),
       "potential_work_units":len(documents)+sum(max(0,r["container_segments"]-1) for r in documents),
-      "count_note":"Potential work units is not a verified unique works count; collection splitting and version review remain open.",
+      "count_note":"The 117 canonical unique source texts are deduplicated. Subworks in collection files are not added to the main count. This is not a verified count of distinct literary works.",
       "editorial_transcriptions":len(editorial_entries),"word_tokens":sum(r["tokens"] for r in documents),
-      "distinct_wordforms":len(lexical),"duplicate_source_sets":duplicate_sets,
+      "distinct_wordforms":len(lexical),"duplicate_source_sets":[g["members"] for g in unique_index["groups"] if len(g["members"])>1],
       "source_genres":dict(genre),"theme_document_frequency":dict(themes),"subject_document_frequency":dict(subjects),
       "top_words":lexical.most_common(100),
       "top_content_words":[[w,n] for w,n in lexical.most_common() if w not in A.STOP and len(w)>2][:100],
       "inventory_filenames":len(inventory)}
     corpus={
-      "schema_version":"2.0","definitions":{"count_unit":"physical source file","aliases":"explicit name detection; archive author separate",
+      "schema_version":"2.1","definitions":{"count_unit":"canonical unique source text, not physical file","aliases":"explicit name detection; archive author separate",
       "automatic_themes":"2 distinct keyword markers and 3 hits","wordforms":"casefold exact tokens; no lemmatization",
       "subworks":"collection-title-bounded extracts, provisional until editorial check"},
       "summary":summary,"documents":documents,"subworks":subworks,
       "pending_chat_titles":pending,"editorial_transcriptions":editorial_entries,
       "artists":artists,"artist_metadata":alias_info,"inventory":inventory,
-      "lineage":mappings}
+      "lineage":unique_index["records"]}
     OUT.mkdir(parents=True,exist_ok=True)
     (OUT/"atlas.json").write_text(json.dumps(corpus,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
-    (OUT/"README.md").write_text("# Dashboard-datakälla\n\nKorpusdata byggs ur originals/ och readable/ av tools/build_library.py. Alla verk pekar tillbaka på original- och läsfil. Inga saknade original har rekonstruerats. Wiki-statistik beräknas separat av analyze_archive.py.\n",encoding="utf-8")
+    (OUT/"README.md").write_text("# Dashboard-datakälla\n\n**Endast kanoniskt unika textkällor** analyseras. Original, dubblett, alternativversion och läskopia hålls separata i analytics/unique_text_index.json. Inga saknade original rekonstrueras. Statistik byggs av analyze_archive.py och build_library.py från samma unika register.\n",encoding="utf-8")
     with (OUT/"source_audit.csv").open("w",encoding="utf-8",newline="") as f:
-        w=csv.writer(f);w.writerow(["original","readable","status","subworks"]);w.writerows([x.values() for x in mappings])
+        w=csv.writer(f);w.writerow(["original","readable","status","canonical","reason"]);w.writerows([[x["original"],x["readable"] or "",x["status"],x["canonical"] or "",x.get("reason","")] for x in unique_index["records"]])
     with (OUT/"all_files.csv").open("w",encoding="utf-8",newline="") as f:
         w=csv.writer(f);w.writerow(["path","role","bytes","github_url"]);w.writerows([x.values() for x in inventory])
     print(json.dumps({k:summary[k] for k in ["original_files","readable_copies","analyzed_source_files","missing_readable","detected_subworks_in_compilations","potential_work_units","word_tokens","distinct_wordforms","register_references"]},ensure_ascii=False))

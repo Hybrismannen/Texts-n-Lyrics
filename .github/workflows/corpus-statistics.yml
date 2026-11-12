@@ -26,11 +26,13 @@ jobs:
         run: python3 tools/unique_texts.py
       - name: Analyze unique source texts
         run: python3 tools/analyze_archive.py
+      - name: Build canonical dashboard dataset
+        run: python3 tools/build_library.py
       - name: Commit generated statistics and wiki source
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md analytics wiki
+          git add README.md analytics wiki docs/data
           if ! git diff --cached --quiet; then
             git commit -m "docs: refresh corpus statistics and wiki source"
             git push
