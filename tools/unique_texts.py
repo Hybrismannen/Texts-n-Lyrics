@@ -88,6 +88,14 @@ def build(root:Path=ROOT)->dict:
         if len(relparts)>2 and relparts[1] in ("_versions","_unclassified"):
             tests.append(root/"readable"/relparts[0]/(relparts[-1]+".txt"))
         if path.suffix.casefold()==".txt":tests.insert(0,path)
+        # Source filenames were renamed on import; these mapping exceptions are verified
+        # against the original archive's exported readable text files.
+        raw_key=path.relative_to(root).as_posix()
+        renamed={
+            "originals/lyrics/Untitled-archive-01.rtf":"readable/lyrics/----.rtf.txt",
+            "originals/lyrics/_versions/Summer breeze - alternate.docx":"readable/lyrics/Summer breeze.docx.txt",
+        }
+        if raw_key in renamed:tests.insert(0,root/renamed[raw_key])
         text_path=next((p for p in tests if p.exists() and p.is_file()),None)
         body=text_path.read_text(encoding="utf-8-sig",errors="replace") if text_path else ""
         norm=normalized(body)
