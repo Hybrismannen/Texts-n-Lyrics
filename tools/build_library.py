@@ -126,7 +126,8 @@ def main():
         if not ok:missing.append(raw)
         title=p.stem
         if p.suffix.lower()==".txt":title=p.name[:-4]
-        x=tokens(text);count=Counter(x)
+        analytic_text="\n".join(line.strip() for line in text.splitlines() if line.strip() and not A.META.fullmatch(line.strip()))
+        x=tokens(analytic_text);count=Counter(x)
         lineage="variant" if "/_versions/" in raw else "unclassified" if "/_unclassified/" in raw else "source"
         ids,literary=artist_routing(title,text,raw)
         structure=extract_segments(text,raw)
