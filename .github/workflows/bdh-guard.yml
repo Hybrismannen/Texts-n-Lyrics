@@ -1,0 +1,30 @@
+name: FFC Brand & Design House Guard
+on:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      public_release:
+        description: Require SEO public-release evidence
+        required: false
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  bdh-governance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check T0/T1 pin, room IDs and changed design output
+        if: github.event_name == 'pull_request'
+        run: node .ff-brand/guard.mjs --changed "${{ github.event.pull_request.base.sha }}"
+      - name: Check anchor and gated public release
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          BDH_PUBLIC_RELEASE: ${{ inputs.public_release && 'true' || 'false' }}
+        run: node .ff-brand/guard.mjs --anchor-only
