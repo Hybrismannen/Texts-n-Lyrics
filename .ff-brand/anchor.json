@@ -1,0 +1,29 @@
+{
+  "schema": "ff.bdh.anchor/v1",
+  "house_id": "FFC-BDH",
+  "governed_surface": {
+    "kind": "REPOSITORY",
+    "repository": "Hybrismannen/Texts-n-Lyrics"
+  },
+  "authority_repository": "Motherpher/form-flode",
+  "authority_path": "09-brand/brand-design-house",
+  "authority_commit": "f7247d5cdf51e19e7f4292a904d608bac6c34d17",
+  "policy_version": "1.0.0",
+  "binding_mode": "PINNED_HOUSE_VERSION",
+  "binding_state": "DECLARED_NOT_RUNTIME_VERIFIED",
+  "scope": "FF_BRANDED_OUTPUT_ONLY",
+  "inherit_gates": [
+    "BDH-HG-01",
+    "BDH-HG-02",
+    "BDH-HG-03",
+    "BDH-HG-04"
+  ],
+  "local_enforcement_state": "NOT_VERIFIED",
+  "verification": {
+    "state": "ANCHOR_FILE_PRESENT_ONLY",
+    "ci_receipt": null,
+    "provider_runtime_receipt": null
+  },
+  "authority_boundary": "CDX, client and independent project authority remains separate; no auto-publication.",
+  "adaptation_rule": "FF-authored branded output only; do not recolour external identity."
+}
