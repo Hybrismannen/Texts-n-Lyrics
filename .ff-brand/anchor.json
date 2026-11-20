@@ -1,5 +1,5 @@
 {
-  "schema": "ff.bdh.anchor/v1",
+  "schema": "ff.bdh.anchor/v2",
   "house_id": "FFC-BDH",
   "governed_surface": {
     "kind": "REPOSITORY",
@@ -7,16 +7,19 @@
   },
   "authority_repository": "Motherpher/form-flode",
   "authority_path": "09-brand/brand-design-house",
-  "authority_commit": "f7247d5cdf51e19e7f4292a904d608bac6c34d17",
-  "policy_version": "1.0.0",
+  "authority_commit": "6efbaa388e495089723f40c8bac323e50005b75e",
+  "policy_version": "2.0.0",
   "binding_mode": "PINNED_HOUSE_VERSION",
   "binding_state": "DECLARED_NOT_RUNTIME_VERIFIED",
-  "scope": "FF_BRANDED_OUTPUT_ONLY",
+  "scope": "NAMED_ROOMS_ONLY",
   "inherit_gates": [
-    "BDH-HG-01",
-    "BDH-HG-02",
     "BDH-HG-03",
-    "BDH-HG-04"
+    "BDH-HG-04",
+    "BDH-HG-05",
+    "BDH-HG-06",
+    "BDH-HG-07",
+    "BDH-HG-08",
+    "BDH-HG-09"
   ],
   "local_enforcement_state": "NOT_VERIFIED",
   "verification": {
@@ -25,5 +28,16 @@
     "provider_runtime_receipt": null
   },
   "authority_boundary": "CDX, client and independent project authority remains separate; no auto-publication.",
-  "adaptation_rule": "FF-authored branded output only; do not recolour external identity."
+  "adaptation_rule": "FF-authored branded output only; do not recolour external identity.",
+  "tier": "T1",
+  "rooms": [
+    "BDH-R04",
+    "BDH-R05",
+    "BDH-R06",
+    "BDH-R07",
+    "BDH-R08",
+    "BDH-R09"
+  ],
+  "audit_reason": "Independent personal literary/music archive",
+  "seo_applicability": "ONLY_IF_PUBLIC_INDEXABLE_WEB"
 }
